@@ -1,4 +1,9 @@
-# One Last Coin
+---
+layout: page
+title: One Last Coin
+subtitle: The everchanging always confusing ruleset 
+---
+
 ## Saves
 When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
 ## Gambling Dice
