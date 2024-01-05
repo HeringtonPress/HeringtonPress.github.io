@@ -44,6 +44,7 @@ You know Common and one additional Language for every 2 Cunning above 8. If your
 - **FAELUL**: Understood by plants & animals.
 - **GOBTOK**: Lingers on the air for days, putrid smell.
 - **LIGHTLENT**: The tongue only travels through shadow.
+
 ## Inventory Slots
 
 | Can contain:   | 1 Stress   | 1 medium weapon  |
