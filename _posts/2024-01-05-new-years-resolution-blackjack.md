@@ -5,7 +5,7 @@ tags:
   - Mechanics
 author: Kaleb Herington
 ---
-This is my [second](https://heringtonpress.github.io/2024-01-04-new-years-seolution-hit-me/#) entry into the  [New Year's Resolution](https://www.blogger.com/#) Mechanic challenge by Prismatic Wasteland! And honestly this one can hardly be called new as it's really just blackjack with a single twist... Oh well!  
+This is my [second](https://heringtonpress.github.io/2024-01-05-new-years-resolution-hit-me/) entry into the  [New Year's Resolution](https://www.prismaticwasteland.com/blog/new-years-resolution-mechanic) Mechanic challenge by Prismatic Wasteland! And honestly this one can hardly be called new as it's really just blackjack with a single twist... Oh well!  
 
 ## Stats
 The stats don't really matter. For this example we'll use the ol' reliable Brain and Brawn, for mental and physical tasks. Then simply assign a measure of how good a character is to each. For this we'll say you have anywhere from 0 to 2 in a stat.  

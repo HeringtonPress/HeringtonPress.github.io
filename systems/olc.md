@@ -3,7 +3,6 @@ layout: page
 title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
-
 ## Saves
 When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
 ## Gambling Dice
@@ -239,7 +238,7 @@ Every time the players exit to the outside, the biggest treasure pile in the dun
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
 ## Fighting
 ### Rounds
-Each Round the Guide describes what it appears like the monsters are going to do. Save against the number of filled slots you have, with a bonus for every empty slot, to act first.
+Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty slot, to act first.
 ### On Your Turn
 You take two actions per round.
 
@@ -356,7 +355,7 @@ Weapons fill slots equal to the amount of dice they deal. With the exception of 
 | Small Weapon |   d4   |            |  5   |
 | Hand Weapon  |   d6   |            |  10  |
 | Long Weapon  |  2d6   | Long       |  15  |
-| Sling        |   d4   | Slow       |  5   |
+| Sling        |   d4   | Small, Slow       |  5   |
 | Bow          |   d6   | Long, Ammo |  15  |
 | Crossbow     |  2d6   | Slow, Ammo |  25  |
 | Ammo (UD10)  |        |            |  5   |

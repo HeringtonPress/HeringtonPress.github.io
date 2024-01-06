@@ -25,21 +25,22 @@ You can only make brews that you know the recipe for. It takes 10 minutes to mak
 **Greater Brews**: You can harvest greater extracts from creatures that are HD 4 or higher (1 extract per 4 HD). It takes one greater extract to make a greater brew and 4 to learn a new greater brew. They take 10 minutes to extract and each one can be converted to 3 lesser extractions. 
 #### Brews
 
-| d20 | Lesser Red Brews | Desc                                              |
-|:---:| ---------------- | ------------------------------------------------- |
-|  1  | Fresh Blood      | Irresistable to wildlife                          |
-|  2  | grease           | Save or fall, lasts 10 minutes                                      |
-|  3  | acid             | Eats metal, except gold                           |
-|  4  | Flash juice      | blinds 10', or light for 2 0UD                    |
-|  5  | frost bomb       | Throwable, 1d6, extinguishes nearby fires         |
-|  6  | liquid spikes    | Caltrops                                          |
-|  7  | Bottled Bonfire  | as firekit, or instant flame.                     |
-|  8  | laughing gas     | Throwable, Save or rofl                           |
-|  9  | darkness         | Throwable, 10'                                    |
-| 10  | false life       | Gain 1d6 Grit                                     |
-| 11  | Brawn            | Gain a d4 Brawn                                   |
-| 12  | Poison           | Next attack Bolstered against red extract enemies |
-| 13  | jump (50' jump)  |                                                   |
+| d20 | Lesser Red Brews | Desc |
+| :--: | ---- | ---- |
+| 1 | Fresh Blood | Irresistable to wildlife |
+| 2 | grease | Save or fall, lasts 10 minutes |
+| 3 | acid | Eats metal, except gold |
+| 4 | Flash juice | blinds 10', or light for 2 0UD |
+| 5 | frost bomb | Throwable, 1d6, extinguishes nearby fires |
+| 6 | liquid spikes | Caltrops |
+| 7 | Bottled Bonfire | as firekit, or instant flame. |
+| 8 | laughing gas | Throwable, Save or rofl |
+| 9 | darkness | Throwable, 10' |
+| 10 | false life | Gain 1d6 Grit |
+| 11 | Brawn | Gain a d4 Brawn |
+| 12 | Poison | Next attack Bolstered against red extract enemies |
+| 13 | jump (50' jump) |  |
+| 14 | Alchemical Silver | Object counts as silver. |
 
 | d20 | Lesser Green Brews                                           | Desc                                                          |
 |:---:| ------------------------------------------------------------ | ------------------------------------------------------------- |
