@@ -51,16 +51,16 @@ You know Common and one additional Language for every 2 Cunning above 8. If your
 | 3 rations      | 1 treasure | 3 light weapons  |
 
 You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. You gain an additional slot whenever you gain a level, up to 4th level. Small Items can be drawn from any slot as a QUICK-DRAW when held in a slot alone.
-## Hit Points - Grit and Flesh
+## Hit Points and Grit
 **Grit** is "don't get hit" points. It represents your ability to mitigate actual harm. You use these up first.
 
-**Flesh** represents physical damage, your blood is flowing. You take Flesh damage after you've used up all your Grit--or take damage in such a way that you can't get out of the way, e.g., falling onto spikes totally bypasses your Grit and goes straight onto your Flesh.
+**Hit Points** represents physical damage, your blood is flowing. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't get out of the way, e.g., falling onto spikes totally bypasses your Grit and goes straight onto your HP.
 
-Characters have a number of Flesh points equal to 6. Characters have a variable amount of Grit based on what they eat (see Nutrients below).  
+Characters have 6 HP. Characters have a variable amount of Grit based on what they eat (see Nutrients below).  
 
-You die when they have less Flesh points then -Half max.  
+You die when they have less HP then -Half your max.  
 
-If you're Flesh is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 Flesh. Being healed in this way gives you 1 Stress.
+If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Cooking Feasts
 A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice. See Nutrients below.  
 
