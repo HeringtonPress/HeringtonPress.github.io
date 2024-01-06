@@ -1,9 +1,13 @@
-## Alchemist
-Starting Equipment: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
-- A: Lesser Brews, Bombs
-- B: Antidotes, Chug
-- C: Explosive Infusion
-- D: Greater Brews
+---
+layout: page
+title: Alchemist
+---
+**Starting Equipment**: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
+
+- **A**: Lesser Brews, Bombs
+- **B**: Antidotes, Chug
+- **C**: Explosive Infusion
+- **D**: Greater Brews
 
 **Lesser Brews**: You can turn monster corpses into extracts. Each corpse takes 10 minutes to render and is destroyed by the process. Each HD of corpse yields one extract (no partial extractions). There are three different colours of extracts. Animal-based monsters tend to give red extracts; oozes and insects tend to give green extracts; undead monsters tend to give blue extracts.
 
