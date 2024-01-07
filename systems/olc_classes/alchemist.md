@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alchemist
+subtitle: You are mad. Genius but foolish. Perhaps even more obsessive then any Wizard. You have decided that the laws of the world untouched by magic is yours to grind, bottle, and command. You are mad.
 ---
 **Starting Equipment**: 1 Potion of each colour (plus their recipe), a miniature lab (2 slots), a knife.
 

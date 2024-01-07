@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rat King
+subtitle: Some like to imagine themselves as gods when they stand over an anthill. Watching them march in lines and circles to avoid their every step. They are fools. Godhood is not found in ants avoiding your wake. It's found in the rats. In their devotion. In their worship.
 ---
 >Inspired by Goblin Punch's [Rat Master](https://goblinpunch.blogspot.com/2015/12/rat-master.html)
 
