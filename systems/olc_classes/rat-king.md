@@ -2,6 +2,8 @@
 layout: page
 title: Rat King
 ---
+>Inspired by Goblin Punch's [Rat Master](https://goblinpunch.blogspot.com/2015/12/rat-master.html)
+
 Starting Equipment: Icon denoting you as the Rat King, Sling, Cheese (3), Lockpicks
 - You get an additional max rat at B and D.
 - **A:** Rat Friend, Call Rat  

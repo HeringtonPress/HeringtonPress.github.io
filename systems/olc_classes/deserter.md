@@ -2,6 +2,8 @@
 layout: page
 title: Deserter
 ---
+>Inspired by Haruspex's Hovel and their [Deserter](https://haruspexhovel.blogspot.com/2020/10/deserter-glog-class.html) class.
+
 **Starting Equipment**: Light armour, a shield bearing your former affiliation, a 1 slot weapon, a weight on your conscience, and good boots.
 
 - You get an additional +1 HP at A and C.
