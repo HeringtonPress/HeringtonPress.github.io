@@ -10,7 +10,7 @@ subtitle: You are a coward. You fled when others fought, when others died. The w
 - You get an additional +1 HP at A and C.
 - **A:** Parry, Well-Travelled, Basic Training
 - **B:** Patchwork, Fleet of Foot
-- **C:** Unperturbed, Good Boots
+- **C:** Reliably Selfish, Good Boots
 - **D:** Danger Sense, Piece Meal
 
 **Parry**: You may Gamble your Weapon Dice as Armor Dice. Doing so either before or after Gambling Armour.
@@ -23,10 +23,10 @@ subtitle: You are a coward. You fled when others fought, when others died. The w
 
 **Fleet of Foot:** When running away from a fight you suffer only 1 Stress.
 
-**Unperturbed:** You've seen a lot, both before and after you defected. You add 1d4 to saves against fear, and so do your allies if you roll and succeed first.
+**Reliably Selfish**: Immune to mind control type effects that would put you at risk or turn you against allies.
 
-**Good Boots**: You also suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
+**Good Boots**: You suffer 1 less Stress as if you where on a mount, this does not stack if you have a mount.
 
-**Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and make a free melee attack at the start of combat at someone or something, regardless of initiative.
+**Danger Sense:** You have a good nose for when things are about to go south. You can't be surprised, and can make a free melee attack at the start of combat at someone or something, regardless of initiative.
 
 **Piece Meal**: When rolling Armour Dice for Patchwork, gain the Dice back on the highest 2 results. Patchwork now also applies to Weapon and Shield dice lost.
