@@ -22,7 +22,8 @@ author: Kaleb Herington
 navbar-links:
   About Me: "aboutme"
   Systems:
-    - OLC: "https://heringtonpress.github.io/systems/olc/"
+    - OLC: "https://heringtonpress.github.io/systems/olc/olc"
+      - Classes: "https://heringtonpress.github.io/systems/olc/olc-classes"
     - MURPS: "https://heringtonpress.github.io/systems/murps/murps-overview/"
 
 ################
