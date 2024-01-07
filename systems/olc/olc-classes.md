@@ -25,12 +25,12 @@ When the process is complete, Save -6 or suffer a Mishap. Gain a +1 bonus for
 - the number of Wizard templates you possess  
 - each ritual preparation you describe to the GM 
 
-## [Orthodox Wizard](https://heringtonpress.github.io/systems/olc_classes/orthodox-wizard/)
+## [Orthodox Wizard](https://heringtonpress.github.io/systems/olc/olc_classes/orthodox-wizard/)
 Identified by your Blue Robes you are a master of magics. Unburdened by schools, classification, or creed, you study magic in near all it's forms. As a Blue Wizard you are seen as equal parts reliable and unpredictable by your piers.
 # The Remaining
-## [Alchemist](https://heringtonpress.github.io/systems/olc_classes/alchemist/)
+## [Alchemist](https://heringtonpress.github.io/systems/olc/olc_classes/alchemist/)
 You are mad. Genius but foolish and perhaps even more obsessive then any Wizard. You have decided that the laws of the world untouched by magic is yours to grind, bottle, and command. You are mad.
-## [Deserter](https://heringtonpress.github.io/systems/olc_classes/deserter/)
+## [Deserter](https://heringtonpress.github.io/systems/olc/olc_classes/deserter/)
 You are a coward. You fled when others fought, when others died. The weight of your guilt rests solely on your back, wearing away at your good boots.
-## [Rat King](https://heringtonpress.github.io/systems/olc_classes/rat-king/)
+## [Rat King](https://heringtonpress.github.io/systems/olc/olc_classes/rat-king/)
 Some like to imagine themselves as gods when they stand over an anthill. Watching them march in lines and circles to avoid their every step. They are fools. Godhood is not found in ants avoiding your wake. It's found in the rats. In their devotion. In their worship. In their sacrifice.
