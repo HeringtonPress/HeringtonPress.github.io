@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Deserter
+subtitle: You are a coward. You fled when others fought, when others died. The weight of your guilt rests solely on your back, wearing away at your good boots.
 ---
 >Inspired by Haruspex's Hovel and their [Deserter](https://haruspexhovel.blogspot.com/2020/10/deserter-glog-class.html) class.
 

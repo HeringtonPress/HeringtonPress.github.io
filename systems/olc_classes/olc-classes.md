@@ -4,9 +4,12 @@ title: OLC Classes
 ---
 ## [Alchemist](https://heringtonpress.github.io/systems/olc_classes/alchemist/)
 
+
 ## [Deserter](https://heringtonpress.github.io/systems/olc_classes/deserter/)
+You are a coward. You fled when others fought, when others died. The weight of your guilt rests solely on your back, wearing away at your good boots.
 
 ## [Rat King](https://heringtonpress.github.io/systems/olc_classes/rat-king/)
+
 
 # Wizards 
 Wizard is a category of classes that all share a few key abilities.
