@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Orthodox Wizard
+subtitle: Identified by your Blue Robes you are a master of magics. Unburdened by schools, classification, or creed, you study magic in near all it's forms. As a Blue Wizard you are seen as equal parts reliable and unpredictable by your piers.
 ---
 **Starting Equipment**: dagger, spellbook with 2 spells, ink and quill, and Blue Robes.
 - You learn an additional Spell every Template.
