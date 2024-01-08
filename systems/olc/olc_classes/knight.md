@@ -3,15 +3,15 @@ layout: page
 title: Knight
 subtitle: You are a Knight of the Emperor. You shield is not your own, your armor is your companions, and your blade cuts only the wicked. Where a mercenary fights, you guard. When a soldier follows, you command.
 ---
-**Starting Equipment**: Heavy armour, a horse, and either a marked shield with a 1 slot weapon or a banner and a 2 slot weapon.
+**Starting Equipment**: Heavy armour, a horse, a marked shield, a weapon.
 
 - You get an additional +1 HP at A and C.
-- **A:** Parry, Knight Errant
+- **A:** Shield Master, Knight Errant
 - **B:** Bodyguard, Fearless
-- **C:** Second Wind, Smite
-- **D:** Aura of Courage, 
+- **C:** Second Wind
+- **D:** Aura of Courage, Of the Emperor
 
-**Parry**: You may Gamble your Weapon Dice as Armor Dice. Doing so either before or after Gambling Armour.
+**Shield Master**: When you Gamble your Shield Dice it is only lost on the highest result. Additionally you may attack with your shield dealing a d4 damage.
 
 **Knight Errant**: You are more then just a fighter in armor. You are a symbol and such you are royalty. You gain a background at +2 that describes your knight circle. This can always be used to leverage aid from anyone under the Emperor.
 
@@ -19,9 +19,7 @@ subtitle: You are a Knight of the Emperor. You shield is not your own, your armo
 
 **Fearless**: Add a d4 to any saves vs fear.
 
-**Second Wind**: As an action, toss aside your helmet or shield. You may gamble any Magic Dice you have, turning the result into your new Grit pool.
-
-**Smite**: Putting all your might into a heavy blow so powerful some see it as divine. When you make an attack you may Gamble Brawn dice as a free action. Adding the sum to your damage dealt with this attack.
+**Second Wind**: As an action, you may gamble any Magic Dice you have, turning the result into your new Grit pool.
 
 **Aura of Courage**: You add a d6 to any saves against fear, in place of **Fearless**. If you draw attention to yourself any allies who could hear or see you may add a d4 to their saves vs fear.
 
