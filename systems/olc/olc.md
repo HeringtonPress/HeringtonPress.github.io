@@ -250,7 +250,7 @@ When getting attacked. You may Gamble your Armor Dice to subtract the result of 
 ### Impaired vs Bolstered
 Attacks may become Impaired by circumstances within the fiction. I.e. fighting with a polearm in a narrow tunnel, using a knife against an acidic ooze, firing a bow into melee, swinging your sword while laying prone. Similarly some attacks may have reason to be more effective then they regularly are.
 
-When making an attack while impaired your weapon dice become d4s. While Bolstered add a d6 to the damage roll.
+When making an attack while impaired your weapon dice are halved. While Bolstered add a d6 to the damage roll.
 ### Fleeing
 If the party agrees to flee then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 

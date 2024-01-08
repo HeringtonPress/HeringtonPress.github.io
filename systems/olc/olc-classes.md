@@ -4,9 +4,12 @@ title: OLC Classes
 ---
 # The Classics
 If the abundance of choices is intimidating or you simply don't need anything crazy. These classes are familiar, reliable, and easy to pick up and play.
-## Knight
-## Priest
-## Thief
+## [Knight](https://heringtonpress.github.io/systems/olc/olc_classes/knight/)
+You are a Knight of the Emperor. You shield is not your own, your armor is your companions, and your blade cuts only the wicked. Where a mercenary fights, you guard. When a soldier follows, you command.
+## [Priest](https://heringtonpress.github.io/systems/olc/olc_classes/priest/)
+
+## [Thief](https://heringtonpress.github.io/systems/olc/olc_classes/thief/)
+Not to be confused with a common pickpocket. You are an adventurer, a delver in purest form. Any self respecting party would beg on hands and knees to the guilds in order to have a Thief in their line up. For a party without a Thief is a party unprepared.
 ## Orthodox Wizard
 (See below)
 # Wizards 
