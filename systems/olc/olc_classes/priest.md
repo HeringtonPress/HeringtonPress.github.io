@@ -16,48 +16,49 @@ subtitle:
 
 You begin with 3 Miracles from your chosen domains.
 
-_Disfavor Table_
-1. The Authority sees your actions as a just exemption.
-2. Poor intentions beget poor outcomes. Disadvantage on all saves for the rest of the day.  
-3. You lose your connection to your divine powers till sunrise.  
-4. Misused divine energy sears your eyes. Go blind for a week.  
-5. You must do penance. Take a vow of poverty, silence, or fasting, and follow it for a month.  
-6. You lose something of personal value to you.  
-7. You are wounded through what seems like random chance.
-8. You are marked for your sins. 
-9. You are excommunicated. Those of your faith will ignore you. Those who hunt traitors and exiles will hunt you, and find you, and your judgment shall be swift and merciless.  
-10+. You are stripped of your divine powers forever.
+| _Disfavor Table_ |  | 
+| 1. | The Authority sees your actions as a just exemption. | 
+| 2. | Poor intentions beget poor outcomes. Disadvantage on all saves for the rest of the day. | 
+| 3. | You lose your connection to your divine powers till sunrise. | 
+| 4. | Misused divine energy sears your eyes. Go blind for a week. | 
+| 5. | You must do penance. Take a vow of poverty, silence, or fasting, and follow it for a month. | 
+| 6. | You lose something of personal value to you. | 
+| 7. | You are wounded through what seems like random chance. | 
+| 8. | You are marked for your sins. | 
+| 9. | You are excommunicated. Those of your faith will ignore you. Those who hunt traitors and exiles will hunt you, and find you, and your judgment shall be swift and merciless. | 
+| 10+. | You are stripped of your divine powers forever. | 
 
 **Evangelist:**   
   
 **Mission From God:** Pick a single command. If you obey it when invoking a miracle, gain an extra die.
 
 **Splinter Sect:** Start your own sect! Pick three of the following Heresies. You can pick the same Heresy multiple times.  
-1. _Unbounded Dominion:_ Choose an additional domain.  
-2. _Deeper Mysteries:_ Learn a miracle.  
-3. _Upon Closer Reading...:_ Invert a command. That command is also inverted for all of your believers.  
-4. _Syncretism:_ Combine two miracles that you know from different domains into a new miracle. This miracle scales with commands from both domains.  
-5. _Divine Provenance:_ Pick another command for Mission From God.  
-6. _Blessed Indoctrination:_ When you hire a believer with class levels, those class levels are in Cleric of your domain, with miracles of your choice.  
+1. _Unbounded Dominion:_ Choose an additional domain.
+2. _Deeper Mysteries:_ Learn a miracle.
+3. _Upon Closer Reading...:_ Invert a command. That command is also inverted for all of your believers.
+4. _Syncretism:_ Combine two miracles that you know from different domains into a new miracle. This miracle scales with commands from both domains.
+5. _Divine Provenance:_ Pick another command for Mission From God.
+6. _Blessed Indoctrination:_ When you hire a believer with class levels, those class levels are in Cleric of your domain, with miracles of your choice.
   
 **High Priest:** 
 
 # Domains
 
-**1.** **Authority**  
-_Commands:_  
-1. Punish sinners and criminals  
-2. Convert nonbelievers  
-3. Spread the rule of law  
-4. Defend those who obey the law  
+**1.** **Authority**
+_Commands:_
+1. Punish sinners and criminals
+2. Convert nonbelievers
+3. Spread the rule of law
+4. Defend those who obey the law
+
 _Miracles:_  
 1. Smite  
 Range: 100'; Target: 1 creature or object; Duration: instant  
-Deal [sum] damage to the target. If the target is a creature, and [dice] is greater than 1, you may force the target to fall prostrate. They must save on their turn to stand up.  
-  
+Deal [sum] damage to the target. If the target is a creature, and [dice] is greater than 1, you may force the target to fall prone. They must save on their turn to stand up.
+
 2. Summon Minor Angel of Judgment  
 Range: N/A; Target: N/A; Duration: [dice] hours  
-Summon a minor angel of law adjacent to you. It has [dice] HD, can fly, and projects a [dice]*10' radius field that enforces the law. It follows your commands to the letter, so long as they are consistent with the law. It can and will resolve disputes perfectly in accordance with the law within its field.  
+Summon a minor angel of law adjacent to you. It has [dice] HD, can fly, and projects a [dice]\*10' radius field that enforces the law. It follows your commands to the letter, so long as they are consistent with the law. It can and will resolve disputes perfectly in accordance with the law within its field.  
   
 3. Empower  
 Range: touch; Target: 1 creature or self; Duration: [sum] rolls  
