@@ -16,7 +16,7 @@ subtitle:
 
 You begin with 3 Miracles from your chosen domains.
 
-| _Disfavor Table_ |  | 
+|  | _**Disfavor Table**_ | 
 | 1. | The Authority sees your actions as a just exemption. | 
 | 2. | Poor intentions beget poor outcomes. Disadvantage on all saves for the rest of the day. | 
 | 3. | You lose your connection to your divine powers till sunrise. | 
