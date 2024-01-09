@@ -11,20 +11,17 @@ subtitle: The everchanging always confusing ruleset
 |   2   | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
 |  3-4  | Halfling  | Re-roll a roll of 1 on a d12                   | Eat twice as much            |
 |  5-7  | Foulkn    | Detect undead as a chill                       | -2 vs mutations              |
-|  8-9  | Orc       |                                                | Hated by the Authority       |
+|  8-9  | Orc       | Add level to healing                           | Hated by the Authority       |
 | 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
 
 ## [Class](https://heringtonpress.github.io/systems/olc/olc-classes/)
-Classes are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you gain a level you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates when leveling up.
+Divided into Templates denoted as A, B, C, and D. You begin play with the A template of a Class. When you level up you take the next numerical template in a class or take A in a new class. You may never have more the 4 templates, though you can swap two templates when leveling up.
 
-You gain access to all the parts of a class when you have that letter template. For example. Laius is a level 1 Slayer, meaning he get both Critical Hits and Parry. 
 ## Background
-Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save.
-
-You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
+Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
-You know Common and one additional Language for every 2 Cunning above 8. If your Cunning is raised you can learn a new Tongue.
+You know Common and one additional Language. You can also spend a Background point to learn an additional Tongue.
 - **COMMON**: Understood by all sentient creatures.
 - **WROTE**: Indecipherable even by magic, unspoken.
 - **SIGHTLENT**: Silent without eye contact, only truthful.
@@ -39,19 +36,17 @@ You know Common and one additional Language for every 2 Cunning above 8. If your
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. You gain an additional slot whenever you gain a level, up to 4th level. Small Items can be drawn from any slot as a QUICK-DRAW when held in a slot alone.
+You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. Gaining additional Slots as you level. Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
 ## Hit Points and Grit
-**Grit** is "don't get hit" points. It represents your ability to mitigate actual harm. You use these up first.
+**Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
-**Hit Points** represents physical damage, your blood is flowing. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't get out of the way, e.g., falling onto spikes totally bypasses your Grit and goes straight onto your HP.
+**Hit Points** represents physical damage. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't avoid, e.g., falling into lava goes straight to HP.
 
-Characters have 6 HP. Characters have a variable amount of Grit based on what they eat (see Nutrients below).  
-
-You die when they have less HP then -Half your max.  
+You have 6 HP and die when they have less HP then -Half your max.
 
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
-You gain experience through indulging in the spoils of your quests and exploration. Gain 1XP for every Gold Piece (GP) spent.
+Gain 1XP for every Gold Piece (GP) spent.
 
 | Level |  EXP  | Templates | Slots |
 |:-----:|:-----:|:---------:|:-----:|
@@ -263,28 +258,29 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 # Equipment
 ---
 
-| Adventuring Gear | Cost (gp) | Adventuring Gear | Cost (gp) |
-| ---------------- |:---------:| ---------------- |:---------:|
-| Armorer's Kit    |    25     | Ladder (slt/5ft) |     5     |
-| Air Bladder      |     5     | Lens             |    10     |
-| Bucket           |     5     | Lockpicks        |    25     |
-| Caltrops         |    10     | Manacles         |    10     |
-| Chain (10ft)     |    10     | Metal File       |     5     |
-| Chalk            |     1     | Mirror           |     5     |
-| Chisel           |     5     | Net              |    10     |
-| Crowbar          |    10     | Oilskin Bag      |     5     |
-| Drill            |    10     | Pulley           |    10     |
-| Fire Kit (3)     |     3     | Pole (10ft)      |     2     |
-| Fishing Gear     |    10     | Quill & Ink      |    10     |
-| Marbles          |     5     | Rope (40ft)      |     5     |
-| Glue             |     5     | Saw              |     5     |
-| Grapple Hook     |    25     | Sack             |     1     |
-| Grease           |    10     | Soap             |     1     |
-| Hammer           |     2     | Spike (3)        |     1     |
-| Holy Symbol      |    25     | Sponge           |     5     |
-| Holy Water       |    25     | Spyglass         |    40     |
-| Horn             |    10     | Tar              |    10     |
-| Hourglass        |    50     | Tent (fits 2)    |    20     |
+| Adventuring Gear    | Cost (gp) | Adventuring Gear | Cost (gp) |
+| ------------------- |:---------:| ---------------- |:---------:|
+| Armorer's Kit (UD8) |    30     | Ladder (slt/5ft) |     5     |
+| Air Bladder         |     5     | Lens             |    10     |
+| Bucket              |     5     | Lockpicks        |    25     |
+| Caltrops            |    10     | Manacles         |    10     |
+| Chain (10ft)        |    10     | Metal File       |     5     |
+| Chalk               |     1     | Mirror           |     5     |
+| Chisel              |     5     | Net              |    10     |
+| Crowbar             |    10     | Oilskin Bag      |     5     |
+| Drill               |    10     | Pulley           |    10     |
+| Fire Kit (3)        |     3     | Pole (10ft)      |     2     |
+| First Aid Kit (UD6) |    25     |                  |           |
+| Fishing Gear        |    10     | Quill & Ink      |    10     |
+| Marbles             |     5     | Rope (40ft)      |     5     |
+| Glue                |     5     | Saw              |     5     |
+| Grapple Hook        |    25     | Sack             |     1     |
+| Grease              |    10     | Soap             |     1     |
+| Hammer              |     2     | Spike (3)        |     1     |
+| Holy Symbol         |    25     | Sponge           |     5     |
+| Holy Water          |    25     | Spyglass         |    40     |
+| Horn                |    10     | Tar              |    10     |
+| Hourglass           |    50     | Tent (fits 2)    |    20     |
 
 ## Light Sources
 Lanterns can be affixed to packs or belts to supply light hands free.
