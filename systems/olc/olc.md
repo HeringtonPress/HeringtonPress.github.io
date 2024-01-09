@@ -181,7 +181,7 @@ Riding a mount or vehicle reduces all Stress received by 1.
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
 # Delving
 ---
-### The Underclock
+## The Underclock
 Beginning at 20 when you enter a dungeon, when it reaches 0, an Encounter happens.
 
 You will periodically roll a six-sided Underworld die and subtract it from the Underclock whenever the party expends time or noise.  Examples of actions that provoke an Underclock Roll:
@@ -197,26 +197,26 @@ Some more facts about the Underclock:
 - If the Underworld Clock equals 0 exactly, it resets to 3.  The Underworld's attention is elsewhere, momentarily.
 - If the Underworld Clock equals 3, a Omen occurs.
 
-### Confront the Clock
+## Confront the Clock
 At any point while Delving a party can prepare for a coming encounter. Skip the Underclock to -1 and resolve everything as normal though the party gets the drop on the encounter.
-### Resting
+## Resting
 While eating a ration is just a turn. Resting and cooking a feast takes some time.
 You’ll have to roll some Underclock Rolls.
 - If you are resting in the middle of a well-traveled location, make 3 rolls.
 - If you are in a secret room that no one else knows about, you don’t need to make any rolls.
 - Everything in between is either 1 or 2 rolls.
 
-### Light
+## Light
 Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result. With no light at all the die size is increased as well.
 
 Whenever the Underclock die rolls, roll the usage die of any light sources lit.
-### Doors
+## Doors
 Opening a stuck door is a save with -4 by base, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar gives a +4 to the save.
 
 Trying to force a stuck door open results in a Underclock roll.
 
 You may also choose to break it down. This requires no save but rolls upwards of 3 Underclock dice.
-### Locks
+## Locks
 Requires Thieves’ tools and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
 
 Each failed attempt rolls the Underclock die.
@@ -229,11 +229,11 @@ Some Modifiers that can diversify the locks are below:
 - SECURED: The first wrong action causes the lock to jam.
 - SPIKED: Wrong actions deals d4 damage to the picker.
 
-### Stealth
+## Stealth
 Moving silently and unseen is a Save with a penalty equal to your total filled slots, excluding Quick-Slots, and a bonus equal to unfilled slots.
 
 When attempting to sneak as a group, one member of the group Saves. The CR is equal to the total filled Slots of the group, divided by half of the group, rounded up.
-### Degeneration and Leaving the Dungeon
+## Degeneration and Leaving the Dungeon
 The Underworld hoards its treasures.  It hates the idea of its gold returning to the surface.
 
 Whenever you leave the dungeon, the dungeon degenerates.  Things may change, the dungeon may restock, but most critically, the treasure depletes.
@@ -263,48 +263,30 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 # Equipment
 ---
 
-| Adventuring Gear | Cost (gp) |
-| ---------------- |:---------:|
-| Armorer's Kit    |    25     |
-| Air Bladder      |     5     |
-| Bucket           |     5     |
-| Caltrops         |    10     |
-| Chain (10ft)     |    10     |
-| Chalk            |     1     |
-| Chisel           |     5     |
-| Crowbar          |    10     |
-| Drill            |    10     |
-| Fire Kit (3)     |     3     |
-| Fishing Gear     |    10     |
-| Marbles          |     5     |
-| Glue             |     5     |
-| Grapple Hook     |    25     |
-| Grease           |    10     |
-| Hammer           |     2     |
-| Holy Symbol      |    25     |
-| Holy Water       |    25     |
-| Horn             |    10     |
-| Hourglass        |    50     |
-| Ladder (slt/5ft) |     5     |
-| Lens             |    10     |
-| Lockpicks        |    25     |
-| Manacles         |    10     |
-| Metal File       |     5     |
-| Mirror           |     5     |
-| Net              |    10     |
-| Oilskin Bag      |     5     |
-| Pulley           |    10     |
-| Pole (10ft)      |     2     |
-| Quill & Ink      |    10     |
-| Rope (40ft)      |     5     |
-| Saw              |     5     |
-| Sack             |     1     |
-| Soap             |     1     |
-| Spike (3)        |     1     |
-| Sponge           |     5     |
-| Spyglass         |    40     |
-| Tar              |    10     |
-| Tent (fits 2)    |    20     |
+| Adventuring Gear | Cost (gp) | Adventuring Gear | Cost (gp) |
+| ---------------- |:---------:| ---------------- |:---------:|
+| Armorer's Kit    |    25     | Ladder (slt/5ft) |     5     |
+| Air Bladder      |     5     | Lens             |    10     |
+| Bucket           |     5     | Lockpicks        |    25     |
+| Caltrops         |    10     | Manacles         |    10     |
+| Chain (10ft)     |    10     | Metal File       |     5     |
+| Chalk            |     1     | Mirror           |     5     |
+| Chisel           |     5     | Net              |    10     |
+| Crowbar          |    10     | Oilskin Bag      |     5     |
+| Drill            |    10     | Pulley           |    10     |
+| Fire Kit (3)     |     3     | Pole (10ft)      |     2     |
+| Fishing Gear     |    10     | Quill & Ink      |    10     |
+| Marbles          |     5     | Rope (40ft)      |     5     |
+| Glue             |     5     | Saw              |     5     |
+| Grapple Hook     |    25     | Sack             |     1     |
+| Grease           |    10     | Soap             |     1     |
+| Hammer           |     2     | Spike (3)        |     1     |
+| Holy Symbol      |    25     | Sponge           |     5     |
+| Holy Water       |    25     | Spyglass         |    40     |
+| Horn             |    10     | Tar              |    10     |
+| Hourglass        |    50     | Tent (fits 2)    |    20     |
+
+
 
 | Light                      | GP  |
 | -------------------------- |:---:|
