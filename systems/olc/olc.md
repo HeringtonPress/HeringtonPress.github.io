@@ -36,8 +36,8 @@ You know Common and one additional Language for every 2 Cunning above 8. If your
 ## Inventory Slots
 
 | Can contain:   | 1 Stress   | 1 medium weapon  |
-| Bundle of rope |  arrows | 1/2 heavy weapon |
-| 3 rations      | 1 treasure | 3 light weapons  |
+| Bundle of rope |  quiver   | 1/2 heavy weapon |
+| 3 rations      | 1 treasure | 3 light items  |
 
 You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. You gain an additional slot whenever you gain a level, up to 4th level. Small Items can be drawn from any slot as a QUICK-DRAW when held in a slot alone.
 ## Hit Points and Grit
@@ -332,10 +332,10 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Cart (14)  |  3   | 100 |
 | Wagon (24) |  6   | 200 |
 
-### Weapons and Armour
-#### Wielding Weapons
+## Weapons and Armour
+### Wielding Weapons
 Weapons fill slots equal to the amount of dice they deal. With the exception of Small Weapons.
-##### Weapon Tags
+#### Weapon Tags
 **Long** weapons require both hands and are Impaired in confined environments.
 **Slow** weapons take an action to ready after an attack. They are also Long.
 
