@@ -150,11 +150,10 @@ You suffer your dooms in chronological order. Dooms may only be reversed with th
 
 # Exploring
 ---
-### Watches
-Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
-### Actions
-**MOVE** a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
-
+## Watches
+Days spent Traveling are split into 4 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
+## Actions
+**Move**: a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
 Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 **SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with direction.
@@ -170,29 +169,29 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 
 **REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice.
-### Vehicles
+## Vehicles
 Riding a mount or vehicle reduces all Stress received by 1.
 
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
 # Delving
 ---
 ## The Underclock
-Beginning at 20 when you enter a dungeon, when it reaches 0, an Encounter happens.
+Starting at 20 when entering a dungeon, an Encounter is triggered when the Underclock reaches below 0.
 
-You will periodically roll a six-sided Underworld die and subtract it from the Underclock whenever the party expends time or noise.  Examples of actions that provoke an Underclock Roll:
+You roll a d6 Dungeon Die and subtract it from the Underclock whenever the party expends time or generates noise. Actions that prompt an Underclock Roll include:
 - Exploring a new room (including long hallways).
 - Moving through 3 already-explored rooms.
-- Lingering or searches.
-- Making noise (e.g. kicking down a door).
+- Lingering or searching.
+- Making noise (excluding Combat).
 
-NOTE: the noise of combat doesn't normally contribute to the Underclock.
+Most Dungeon Die rolls are considered a Turn, representing approximately 10 minutes of time.
 
-Some more facts about the Underclock:
+Additional details about the Underclock:
 - If the Underclock drops below 0, an Encounter is triggered.  After the Encounter resolves, the Underclock resets to 20.
-- If the Underworld Clock equals 0 exactly, it resets to 3.  The Underworld's attention is elsewhere, momentarily.
+- If the Underworld Clock equals 0 exactly, it resets to 3.
 - If the Underworld Clock equals 3, a Omen occurs.
 
-## Confront the Clock
+### Confront the Clock
 At any point while Delving a party can prepare for a coming encounter. Skip the Underclock to -1 and resolve everything as normal though the party gets the drop on the encounter.
 ## Resting
 While eating a ration is just a turn. Resting and cooking a feast takes some time.
@@ -202,17 +201,15 @@ You’ll have to roll some Underclock Rolls.
 - Everything in between is either 1 or 2 rolls.
 
 ## Light
-Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result. With no light at all the die size is increased as well.
+Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result. With no light at all the die size is also increased.
 
 Whenever the Underclock die rolls, roll the usage die of any light sources lit.
 ## Doors
-Opening a stuck door is a save with -4 by base, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar gives a +4 to the save.
-
-Trying to force a stuck door open results in a Underclock roll.
+Prying open a door is a -4 save, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar gives a +4 to the save.
 
 You may also choose to break it down. This requires no save but rolls upwards of 3 Underclock dice.
 ## Locks
-Requires Thieves’ tools and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
+Requires lockpicks and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
 
 Each failed attempt rolls the Underclock die.
 
@@ -225,35 +222,30 @@ Some Modifiers that can diversify the locks are below:
 - SPIKED: Wrong actions deals d4 damage to the picker.
 
 ## Stealth
-Moving silently and unseen is a Save with a penalty equal to your total filled slots, excluding Quick-Slots, and a bonus equal to unfilled slots.
+Moving silently and unseen is a Save with a bonus equal to your empty slots and a penalty equal to the amount of armor filled slots.
 
-When attempting to sneak as a group, one member of the group Saves. The CR is equal to the total filled Slots of the group, divided by half of the group, rounded up.
+When sneaking as a group one save is made with the penalty and bonuses averaged.
 ## Degeneration and Leaving the Dungeon
-The Underworld hoards its treasures.  It hates the idea of its gold returning to the surface.
-
-Whenever you leave the dungeon, the dungeon degenerates.  Things may change, the dungeon may restock, but most critically, the treasure depletes.
-
-Every time the players exit to the outside, the biggest treasure pile in the dungeon loses 20% of its value, stolen away by agents of the Underworld.
+Every time you leave the Dungeon, the biggest treasure pile in the dungeon loses around 20% of its value, stolen away by agents of the Underworld.
 
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
 # Fighting
 ---
-### Rounds
+## Rounds
 Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty slot, to act first.
-### On Your Turn
-You take two actions per round.
-
-Move to an adjacent zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield. You may only Strike once. Get creative.
-### Attacking
-Make an attack against an enemy, rolling damage based on the weapon you are wielding and dealing it to your opponent.
-### Defending
-When getting attacked. You may Gamble your Armor Dice to subtract the result of all your dice from the damage taken. Shields may also be gambled, notably you can resolve a shields gamble before gambling armor.
-### Impaired vs Bolstered
-Attacks may become Impaired by circumstances within the fiction. I.e. fighting with a polearm in a narrow tunnel, using a knife against an acidic ooze, firing a bow into melee, swinging your sword while laying prone. Similarly some attacks may have reason to be more effective then they regularly are.
+## On Your Turn
+You take two actions per round: Move to an adjacent zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield.
+You may only Strike once. Get creative.
+## Attacking
+Roll damage based on the weapon you are wielding and deal it to your opponent.
+## Defending
+You may Gamble your Armor Dice to subtract the result of all your dice from the damage taken. Shields may also be gambled, notably you can resolve a shields gamble before gambling armor.
+## Impaired vs Bolstered
+Attacks may become Impaired by the fiction. I.e. fighting with a polearm in a narrow tunnel, firing a bow into melee, or attacking while prone. Similarly some attacks may have reasons to be more effective then they regularly are.
 
 When making an attack while impaired your weapon dice are halved. While Bolstered add a d6 to the damage roll.
-### Fleeing
-If the party agrees to flee then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
+## Fleeing
+If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
 # Equipment
 ---
