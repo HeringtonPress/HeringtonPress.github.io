@@ -61,20 +61,21 @@ You gain experience through indulging in the spoils of your quests and explorati
 |   4   | 6000  |     4     |  13   |
 |  5+   | +4000 |           |  14   |
 
+# Resolving Actions
 ---
-# Playing
 ## Saves
 When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
 ## Gambling Dice
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
-
 ## Bid Lore
 Information and lore are categorised into 3 levels of obscurity.
 
 - **Common Lore**: Everyone knows this. The GM will tell you all about this. 
 - **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
 - **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
-## Cooking Feasts
+
+# Cooking
+---
 A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice. See Nutrients below.  
 
 To create a feast, you require:
@@ -96,7 +97,7 @@ The GM adds together any nutritional benefits from the two ingredients used to m
 **A nutrient has a maximum score of 5.** No matter the combination of ingredients, a nutrient can't go above 5 for any one particular feast.
 
 **Example:** After a battle with a basilisk, the party cooks an omelette out of the basilisk's eggs, basilisk bacon, and sliced shambling mound. They cook the omelette in Senshi's wok (cooking gear), flavor it with salt, pepper, and ketchup (spices), over a fire. This fulfills 3 out of 4 of the cooking requirements.
-### Nutrients
+## Nutrients
 Characters grow and become stronger if they eat well-balanced, healthful, and magical meals. 
 
 Each feast has four stats, called **Nutrients.** 
@@ -107,32 +108,31 @@ Each feast has four stats, called **Nutrients.** 
 
 Eating a **ration** grants 1d4 in one nutrient. 
 
-#### Food Dice
+### Food Dice
 Food Dice (FD) are either d4s, d6s or d8s. 
 - If the feast contained **mundane** animals or plants, the Food Dice are equal to d4s. 
 - If the feast contained no mundane animals or plants, **only exotic** ingredients, the Food Dice are equal to d6s. 
 - If the feast contained extraordinarily **magical** ingredients, like a dragon or an angel, the Food Dice are equal to d8s. 
 
-#### Energy
+### Energy
 The more energy a character has, the more resilient they are in the face of adversity.
 
 **If the players benefit from energy:** After the feast, characters roll as many FD as the feast's energy rank. The character's current Grit score is immediately replaced with the new total, if it is higher. 
-#### Minerals
+### Minerals
 Minerals connect a character to the natural world and the ebb of mana. As a magic-user casts spells, their internal reserves of minerals becomes quickly depleted.
 
 **If the players benefit from minerals:** They gain magic dice (MD) of the same die type and number as the feast's mineral rank. A character can hold a maximum amount of magic dice equal to their number of Templates. These MD are held until spent and expended through casting spells.
-#### Vitamins
+### Vitamins
 Vitamins produce a healthful effect on one's metabolism, reasoning, and cognitive capabilities. By eating foods rich in vitamins, characters benefit from increased memory and logical reasoning capabilities.
 
 **If the players benefit from vitamins:** They gain Brain Dice of the same die type and number as the feast's Vitamin rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly mental Save.
-
-#### Proteins
+### Proteins
 Proteins are important for building muscle and reducing soreness after exertion. Eating foods rich in proteins promotes physical development. 
 
 **If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
 
-
-## Spellcasting and Magic
+# Spellcasting and Magic
+---
 It takes 1 camp action to move any number of spells between your brain and a scroll, spellbook, or wand.
 
 To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
@@ -153,7 +153,8 @@ If you roll triples while casting a spell, one of your school's Dooms takes effe
 
 You suffer your dooms in chronological order. Dooms may only be reversed with the most difficult of tasks i.e. Bathing in fresh dragon's blood, consume the heart of a fae prince, or signing a devilish pact with some questionable fine print.
 
-## Exploring
+# Exploring
+---
 ### Watches
 Days spent Traveling are split into 6 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
 ### Actions
@@ -178,7 +179,8 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 Riding a mount or vehicle reduces all Stress received by 1.
 
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
-## Delving
+# Delving
+---
 ### The Underclock
 Beginning at 20 when you enter a dungeon, when it reaches 0, an Encounter happens.
 
@@ -239,7 +241,8 @@ Whenever you leave the dungeon, the dungeon degenerates.  Things may change, th
 Every time the players exit to the outside, the biggest treasure pile in the dungeon loses 20% of its value, stolen away by agents of the Underworld.
 
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
-## Fighting
+# Fighting
+---
 ### Rounds
 Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty slot, to act first.
 ### On Your Turn
@@ -257,7 +260,8 @@ When making an attack while impaired your weapon dice are halved. While Bolstere
 ### Fleeing
 If the party agrees to flee then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
-## Equipment
+# Equipment
+---
 
 | Adventuring Gear | Cost (gp) |
 | ---------------- |:---------:|
