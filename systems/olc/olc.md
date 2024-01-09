@@ -3,8 +3,7 @@ layout: page
 title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
-<p style="text-align: center;"># Character Creation</p>
-
+# Character Creation
 ## [Kin](https://heringtonpress.github.io/systems/olc/olc-kin/)
 
 |  2d6  | Kin       | Boon                                           | Bane                         |
