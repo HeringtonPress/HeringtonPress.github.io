@@ -3,18 +3,7 @@ layout: page
 title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
-## Saves
-When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
-## Gambling Dice
-To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
-
-## Bid Lore
-Information and lore are categorised into 3 levels of obscurity.
-
-- **Common Lore**: Everyone knows this. The GM will tell you all about this. 
-- **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
-- **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
-
+# Character Creation
 ## Kin
 
 |  2d6  | Kin       | Boon                                           | Bane                         |
@@ -27,9 +16,9 @@ Information and lore are categorised into 3 levels of obscurity.
 |  12   | Beastfolk | -                                              | -                            |
 
 ## [Class](https://heringtonpress.github.io/systems/olc/olc-classes/)
-Classes are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you buy additional templates with Experience you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates at the cost of buying a new one.
+Classes are broken up into Templates which are denoted as A, B, C, and D. You begin play with the A template of a Class and as you progress you can unlock more. When you gain a level you may take the next alphabetical template in a class you have or take A in a new class that makes sense for your character. A character may never have more the 4 templates, though you could swap two templates when leveling up.
 
-You gain access to all the parts of a class when you have that letter template. For example. Laius is a level 1 Slayer, meaning he get both Critical Hits and Attack Surge. 
+You gain access to all the parts of a class when you have that letter template. For example. Laius is a level 1 Slayer, meaning he get both Critical Hits and Parry. 
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save.
 
@@ -61,6 +50,30 @@ Characters have 6 HP. Characters have a variable amount of Grit based on what th
 You die when they have less HP then -Half your max.  
 
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
+## Experience
+You gain experience through indulging in the spoils of your quests and exploration. Gain 1XP for every Gold Piece (GP) spent.
+
+| Level |  EXP  | Templates | Slots |
+|:-----:|:-----:|:---------:|:-----:|
+|   1   |   -   |     1     |  10   |
+|   2   | 2000  |     2     |  11   |
+|   3   | 4000  |     3     |  12   |
+|   4   | 6000  |     4     |  13   |
+|  5+   | +4000 |           |  14   |
+
+---
+# Playing
+## Saves
+When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
+## Gambling Dice
+To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
+
+## Bid Lore
+Information and lore are categorised into 3 levels of obscurity.
+
+- **Common Lore**: Everyone knows this. The GM will tell you all about this. 
+- **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
+- **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
 ## Cooking Feasts
 A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice. See Nutrients below.  
 
@@ -118,16 +131,6 @@ Proteins are important for building muscle and reducing soreness after exertion.
 
 **If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
 
-## Experience
-You gain experience through indulging in the spoils of your quests and exploration. Gain 1XP for every Gold Piece (GP) spent.
-
-| Level |  EXP  | Templates | Slots |
-|:-----:|:-----:|:---------:|:-----:|
-|   1   |   -   |     1     |  10   |
-|   2   | 2000  |     2     |  11   |
-|   3   | 4000  |     3     |  12   |
-|   4   | 6000  |     4     |  13   |
-|  5+   | +4000 |           |  14   |
 
 ## Spellcasting and Magic
 It takes 1 camp action to move any number of spells between your brain and a scroll, spellbook, or wand.
