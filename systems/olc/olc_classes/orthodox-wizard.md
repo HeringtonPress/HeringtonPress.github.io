@@ -8,7 +8,7 @@ subtitle: Identified by your Blue Robes you are a master of magics. Unburdened b
 - You learn an additional Spell every Template.
 - **A:** Cantrips
 - **B**: Magic Familiarity
-- **C**: 
+- **C**: Wand Wielder
 - **D**: Signature Spell
 
 **Cantrips**:
@@ -18,6 +18,6 @@ subtitle: Identified by your Blue Robes you are a master of magics. Unburdened b
 
 **Magic Familiarity**: Your innate sense for magic has progressed beyond that of even most wizards. You can detect something as magic by simply looking at it. This is still an active ability.
 
-
+**Wand Wielder**: When you charge a wand with MD you can gamble Brain Dice to avoid damage taken. You may do this after seeing the (Sum) of the MD.
 
 **Signature Spell**: You designate one spell you use frequently as your main spell. This Spell has grown entwined with you and you with it. It lives in your brain and doesn't take a spell slot. It can be stored temporarily in living wood but will always find it's way back to you. You can always cast this spell as if you gambled 1d4 regardless of available Magic Dice.

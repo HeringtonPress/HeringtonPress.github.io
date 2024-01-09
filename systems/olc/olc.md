@@ -69,39 +69,31 @@ Information and lore are categorised into 3 levels of obscurity.
 - **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
 - **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
 
-# Cooking
+# Cooking Feasts
 ---
-A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice. See Nutrients below.  
+A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice.
 
 To create a feast, you require:
 - **Two unique ingredients**
 - **One portion per character**
 
-In addition, you must fulfill **two** of the following four criteria:
+In addition, you must fulfill 3 of the following 4 criteria:
 - Fire
 - Water
 - Cooking gear
 - Spices
 
-A feast must be prepared and then immediately consumed as part of a Camp Action.
+A feast must be prepared and then immediately consumed as part of a Camp Action. Left over portions can be converted to rations that expire after your adventure.
 
-Each monster eaten provides a certain amount of portions. A rat yields about one portion. A minotaur yields about eight. A dragon could feast upwards of fifty adventurers.   
+Each creature eaten provides a number of portions. Two rat yields about one portion. A minotaur yields about eight. A dragon could feast upwards of fifty adventurers.   
 
-The GM adds together any nutritional benefits from the two ingredients used to make a feast and tell the players the totals for each nutrient category (see below). Decimals  are rounded as god intended.  
-
-**A nutrient has a maximum score of 5.** No matter the combination of ingredients, a nutrient can't go above 5 for any one particular feast.
-
-**Example:** After a battle with a basilisk, the party cooks an omelette out of the basilisk's eggs, basilisk bacon, and sliced shambling mound. They cook the omelette in Senshi's wok (cooking gear), flavor it with salt, pepper, and ketchup (spices), over a fire. This fulfills 3 out of 4 of the cooking requirements.
+The GM adds together any nutritional benefits from the unique ingredients used to make a feast and tell the players the totals for each nutrient (see below). Decimals are rounded as god intended and Nutrients can't be higher the 5.
 ## Nutrients
-Characters grow and become stronger if they eat well-balanced, healthful, and magical meals. 
-
 Each feast has four stats, called **Nutrients.** 
-- **Energy** determines how many calories a feast has. This nutrient reinforces a character's Grit.
+- **Energy** determines how many calories a feast has. This nutrient gives a character Grit.
 - **Minerals** provide needed magical energy. This nutrient refills a character's Magic Dice. 
 - **Vitamins** are good for your brain. This nutrient reinforces a character with Brain Dice. 
 - **Protein** builds strong bones and muscles. This nutrient reinforces a character with Brawn Dice.
-
-Eating a **ration** grants 1d4 in one nutrient. 
 
 ### Food Dice
 Food Dice (FD) are either d4s, d6s or d8s. 
@@ -110,67 +102,82 @@ Food Dice (FD) are either d4s, d6s or d8s. 
 - If the feast contained extraordinarily **magical** ingredients, like a dragon or an angel, the Food Dice are equal to d8s. 
 
 ### Energy
-The more energy a character has, the more resilient they are in the face of adversity.
-
 **If the players benefit from energy:** After the feast, characters roll as many FD as the feast's energy rank. The character's current Grit score is immediately replaced with the new total, if it is higher. 
 ### Minerals
-Minerals connect a character to the natural world and the ebb of mana. As a magic-user casts spells, their internal reserves of minerals becomes quickly depleted.
-
 **If the players benefit from minerals:** They gain magic dice (MD) of the same die type and number as the feast's mineral rank. A character can hold a maximum amount of magic dice equal to their number of Templates. These MD are held until spent and expended through casting spells.
 ### Vitamins
-Vitamins produce a healthful effect on one's metabolism, reasoning, and cognitive capabilities. By eating foods rich in vitamins, characters benefit from increased memory and logical reasoning capabilities.
-
 **If the players benefit from vitamins:** They gain Brain Dice of the same die type and number as the feast's Vitamin rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly mental Save.
 ### Proteins
-Proteins are important for building muscle and reducing soreness after exertion. Eating foods rich in proteins promotes physical development. 
-
 **If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
-
+## Rations & Meals in Town
+Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10 gp to gain 4d4 spread how you like. 
 # Spellcasting and Magic
 ---
-It takes 1 camp action to move any number of spells between your brain and a scroll, spellbook, or wand.
-
-To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
-### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Each school produces its own style. Inside, special runes and symbols trap spells inside cages of crystallized thought. Each book contains 3 spell slots. Spellbooks are waterproof, acid- and fire-resistant. Each book is worth 100gp even if it contains no spells.
-### Scrolls
-A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll or spellbook, without moving it to a spellslot first,  you can burn the scroll adding +1d6 MD to your roll gamble. This MD does not return to your pool. A blank scroll is worth 10gp.
-### Wands
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
+## [Spells](https://heringtonpress.github.io/systems/olc/olc-spells/)
+- An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
+- Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
+- It takes an hour to move any number of spells between scrolls, spellbooks, or wands.
+## Spellbooks
+A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
+## Scrolls
+A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll you can burn the scroll adding +1d6 MD to your roll. A blank scroll is worth 10gp and is a small item.
+## Wands
 Wands are like scrolls customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
 
 You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
 
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells. Wands are traditionally made from the wood of lightning-struck trees.
-### Mishaps
-If you roll doubles while casting a spell, roll on your school's mishap table. Unless otherwise specified, the spell still works. Magic is dangerous; this was just a hiccup or misfire.  
-### Dooms
-If you roll triples while casting a spell, one of your school's Dooms takes effect. Each school has 3 dooms. The third doom is invariable fatal or worse. All wizards walk a dangerous path. The burn their souls like candles, and in doing so, court damnation.
+Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells.
+## Mishaps
+If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
 
-You suffer your dooms in chronological order. Dooms may only be reversed with the most difficult of tasks i.e. Bathing in fresh dragon's blood, consume the heart of a fae prince, or signing a devilish pact with some questionable fine print.
-
+| Sum  | Mishaps  |
+|---|---|
+|2|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
+|3|For the next 24 hours, when casting spells you gain a Stress on a die roll of 3+. |
+|4|There is a chain reaction to the spell. Take a Stress. |
+|5|The Spell’s effects are reversed. Gain a Stress. |
+|6|Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for the day. |
+|7|You are unable to heal HP through magic. |
+|8|You take 1d4 damage when casting spells for till the next day. |
+|9|Your skin turns a dark shade of purple, and you are invisible in moonlight. Your eyes however glow a bright yellow. You count as 2 for Light needed. |
+|10|For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means. |
+|11|You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.  |
+|12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1. |
+|13|The Spell escapes it's prison. Unbound it causes a little chaos before disapearing. |
+|14|The Spells effects leak into you. Gain a magical mutation. |
+|15|The Spell takes on a physical form. This creature still obeys you though not perfectly. |
+|16|The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element. |
+|17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn’t focus on you, you are invisible. |
+|18|Your hands fuse with whatever you are holding. Fusing shut if empty. |
+|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You can fly but you cannot wear armor or a backpack, and such have only 5 inventory slots. |
+|20|You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it’s coming for you, and it’s mad as hell.|
+|21|An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.|
+|22|You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart. |
+|23|You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other. |
+|24|You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you|
 # Exploring
 ---
 ## Watches
 Days spent Traveling are split into 4 Watches. Your Guide rolls an Omen each Watch and an Omen rolled twice in a journey becomes an Encounter.
 ## Actions
-**Move**: a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain.
+- **MOVE** a hex and see all non-hidden features in it. Receiving stress based on the difficulty of the terrain you are entering.
+
 Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
-**SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with direction.
+- **SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with directions.
 
-**SCOUT** Spend a watch patrolling the borders of a Hex. See the terrain of neighboring hexes.
+- **SCOUT** the area. Spend a watch patrolling the borders of a Hex seeing the terrain of neighboring hexes.
 
-**CONFRONT** an Omen or roll a new encounter.
+- **CONFRONT** an Omen or roll a new encounter.
 
-**MAKE CAMP**. Watches taken in camps don’t roll Omens.
+- **MAKE CAMP**. Watches taken in camps don’t roll Omens.
 
-**FEAST** Spend a watch cooking and eating a feast.
+- **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 
-**DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
-
-**REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice.
+- **REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice. While resting you could Feast.
 ## Vehicles
-Riding a mount or vehicle reduces all Stress received by 1.
+Riding a mount or vehicle reduces all Stress received from travel by 1.
 
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
 # Delving
