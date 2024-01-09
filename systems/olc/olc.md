@@ -286,13 +286,16 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Horn             |    10     | Tar              |    10     |
 | Hourglass        |    50     | Tent (fits 2)    |    20     |
 
-
+## Light Sources
+Lanterns can be affixed to packs or belts to supply light hands free.
 
 | Light                      | GP  |
 | -------------------------- |:---:|
 | Torch (Light for 3) (UD12) |  1  |
 | Lantern (Light for 2)      | 10  |
 | Oil Flask Oil Flask (UD12) |  2  |
+
+## Cooking and Food
 
 | Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
 | --------------- |:---:|:---:|:---:|:---:|:----:|:---:|
@@ -307,6 +310,9 @@ If the party agrees to flee then bar dire circumstances they escape. Each charac
 | Cook Pot        | 10  |
 | Fire Kit        |  2  |
 | Seasoning (UD6) | 10  |
+
+## Animals and Vehicles
+Do not concern yourself with feeding the animals daily.
 
 | Animals       | Tack | GP  |
 | ------------- |:----:|:---:|
@@ -349,16 +355,18 @@ Weapons fill slots equal to the amount of dice they deal. With the exception of 
 | Crossbow     |  2d6   | Slow, Ammo |  25  |
 | Ammo (UD10)  |        |            |  5   |
 
-##### Specialty Weapons
-Take an existing weapon with and establish what it was made for. When you are bolstered in that way gain +d8 instead of +d6 to damage. Ordering a weapon this way increases it's cost by 2x.
+#### Weapon Modifications
+**Specialty**: Take an existing weapon with and establish what it was made for. When you are bolstered in that way gain +d8 instead of +d6 to damage. Ordering a weapon this way increases it's cost by 2x.
 
-#### Wearing Armour
+**Sharpened**: For half the cost of the weapons type. The weapons deals +1 damage until you roll max damage, dulling the weapon.
+
+### Wearing Armour
 Armour takes up an amount of slots equal to the amount of Armor Dice. When an Armor Dice is lost in a gamble, the armor is considered chipped and must be repaired to regain Dice. One armor dice may be repaired during a Feast in a Dungeon, a suit of armour can be repaired during a Feast in the overworld. 
 
 | Armour | AD  | Cost |
 | ------ |:---:|:----:|
-| Light  | 1d6 |  20  |
-| Medium | 2d6 |  50  |
+| Light  | 1d6 |  30  |
+| Medium | 2d6 |  60  |
 | Heavy  | 4d6 | 120  |
 
 | Shield  | AD  | Cost |
@@ -367,4 +375,4 @@ Armour takes up an amount of slots equal to the amount of Armor Dice. When an Ar
 | Shield  | 1d6 |  10  |
 | Tower   | 2d6 |  20  |
 
-A buckler can fit in a slot with a small or hand weapon.
+A buckler is as a small item.
