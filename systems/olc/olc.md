@@ -131,31 +131,32 @@ Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves,
 ## Mishaps
 If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
 
-| Sum  | Mishaps  |
-|---|---|
-|2|You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.|
-|3|For the next 24 hours, when casting spells you gain a Stress on a die roll of 3+. |
-|4|There is a chain reaction to the spell. Take a Stress. |
-|5|The Spell’s effects are reversed. Gain a Stress. |
-|6|Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for the day. |
-|7|You are unable to heal HP through magic. |
-|8|You take 1d4 damage when casting spells for till the next day. |
-|9|Your skin turns a dark shade of purple, and you are invisible in moonlight. Your eyes however glow a bright yellow. You count as 2 for Light needed. |
-|10|For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means. |
-|11|You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.  |
-|12|The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1. |
-|13|The Spell escapes it's prison. Unbound it causes a little chaos before disapearing. |
-|14|The Spells effects leak into you. Gain a magical mutation. |
-|15|The Spell takes on a physical form. This creature still obeys you though not perfectly. |
-|16|The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element. |
-|17|You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn’t focus on you, you are invisible. |
-|18|Your hands fuse with whatever you are holding. Fusing shut if empty. |
-|19|Large ugly wings sprout from your back, ripping through whatever you are wearing. You can fly but you cannot wear armor or a backpack, and such have only 5 inventory slots. |
-|20|You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it’s coming for you, and it’s mad as hell.|
-|21|An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.|
-|22|You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart. |
-|23|You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other. |
-|24|You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you|
+| Sum | Mishaps                                                                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.                                                                                                                                                                    |
+| 3   | For the next 24 hours, when casting spells you gain a Stress on a die roll of 3+.                                                                                                                                                                        |
+| 4   | There is a chain reaction to the spell. Take a Stress.                                                                                                                                                                                                   |
+| 5   | The Spell’s effects are reversed. Gain a Stress.                                                                                                                                                                                                         |
+| 6   | Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for the day.                                                                                                                                      |
+| 7   | You are unable to heal HP through magic.                                                                                                                                                                                                                 |
+| 8   | You take 1d4 damage when casting spells for till the next day.                                                                                                                                                                                           |
+| 9   | Your skin turns a dark shade of purple, and you are invisible in moonlight. Your eyes however glow a bright yellow. You count as 2 for Light needed.                                                                                                     |
+| 10  | For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                               |
+| 11  | You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.                                                                                                                         |
+| 12  | The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1.                                                                                     |
+| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disapearing.                                                                                                                                                                      |
+| 14  | The Spells effects leak into you. Gain a magical mutation.                                                                                                                                                                                               |
+| 15  | The Spell takes on a physical form. This creature still obeys you though not perfectly.                                                                                                                                                                  |
+| 16  | The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element.                                                                                                                                         |
+| 17  | You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn’t focus on you, you are invisible.                                                                |
+| 18  | Your hands fuse with whatever you are holding. Fusing shut if empty.                                                                                                                                                                                     |
+| 19  | Large ugly wings sprout from your back, ripping through whatever you are wearing. You can fly but you cannot wear armor or a backpack, and such have only 5 inventory slots.                                                                             |
+| 20  | You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it’s coming for you, and it’s mad as hell.                                                                         |
+| 21  | An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.                                                  |
+| 22  | You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart.                                                        |
+| 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
+| 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
+
 # Exploring
 ---
 ## Watches
