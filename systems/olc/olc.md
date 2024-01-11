@@ -118,6 +118,7 @@ To cast a spell you must have access to one, typically from a scroll or spellboo
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
 - It takes an hour to move any number of spells between scrolls, spellbooks, or wands.
+
 ## Spellbooks
 A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
 ## Scrolls
@@ -144,7 +145,7 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 10  | For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                               |
 | 11  | You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.                                                                                                                         |
 | 12  | The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1.                                                                                     |
-| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disapearing.                                                                                                                                                                      |
+| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disappearing.                                                                                                                                                                      |
 | 14  | The Spells effects leak into you. Gain a magical mutation.                                                                                                                                                                                               |
 | 15  | The Spell takes on a physical form. This creature still obeys you though not perfectly.                                                                                                                                                                  |
 | 16  | The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element.                                                                                                                                         |
@@ -339,6 +340,7 @@ Do not concern yourself with feeding the animals daily.
 Weapons fill slots equal to the amount of dice they deal. With the exception of Small Weapons.
 #### Weapon Tags
 **Long** weapons require both hands and are Impaired in confined environments.
+
 **Slow** weapons take an action to ready after an attack. They are also Long.
 
 | Weapon       | Damage | Tags       | Cost |
