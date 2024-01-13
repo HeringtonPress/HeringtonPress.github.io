@@ -10,8 +10,24 @@ You are a Knight of the Emperor. You shield is not your own, your armor is your 
 You are a killer. Powerful and efficient. Where most people run in terror from monsters that could raze cities, you ready your weapon.
 ## [Thief](https://heringtonpress.github.io/systems/olc/olc_classes/thief/)
 Not to be confused with a common pickpocket. You are an adventurer, a delver in purest form. Any self respecting party would beg on hands and knees to the guilds in order to have a Thief in their line up. For a party without a Thief is a party unprepared.
-## Orthodox Wizard
-(See below)
+## [Orthodox Wizard](https://heringtonpress.github.io/systems/olc/olc_classes/orthodox-wizard/)
+Identified by your Blue Robes you are a master of magics. Unburdened by schools, classification, or creed, you study magic in near all it's forms. As a Blue Wizard you are seen as equal parts reliable and unpredictable by your piers.
+# Fighters
+## [Berzerker](https://heringtonpress.github.io/systems/olc/olc_classes/berzerker/)
+a
+## [Deserter](https://heringtonpress.github.io/systems/olc/olc_classes/deserter/)
+You are a coward. You fled when others fought, when others died. The weight of your guilt rests solely on your back, wearing away at your good boots.
+## [Hunter](https://heringtonpress.github.io/systems/olc/olc_classes/hunter/)
+Y
+## [Knight](https://heringtonpress.github.io/systems/olc/olc_classes/knight/)
+You are a Knight of the Emperor. You shield is not your own, your armor is your companions, and your blade cuts only the wicked. Where a mercenary fights, you guard. When a soldier follows, you command.
+## [Slayer](https://heringtonpress.github.io/systems/olc/olc_classes/slayer/)
+You are a killer. Powerful and efficient. Where most people run in terror from monsters that could raze cities, you ready your weapon.
+# Specialists
+## [Alchemist](https://heringtonpress.github.io/systems/olc/olc_classes/alchemist/)
+You are mad. Genius but foolish and perhaps even more obsessive then any Wizard. You have decided that the laws of the world untouched by magic is yours to grind, bottle, and command. You are mad.
+## [Thief](https://heringtonpress.github.io/systems/olc/olc_classes/thief/)
+Not to be confused with a common pickpocket. You are an adventurer, a delver in purest form. Any self respecting party would beg on hands and knees to the guilds in order to have a Thief in their line up. For a party without a Thief is a party unprepared.
 # Wizards 
 Wizards, a category of classes, are masters of spells. Having spent their lives learning how best to trap, harness, and bargain with the living spells with their tomes they all share a few key abilities.
 #### Spell Slots
@@ -31,9 +47,5 @@ When the process is complete, Save -6 or suffer a Mishap. Gain a +1 bonus for
 ## [Orthodox Wizard](https://heringtonpress.github.io/systems/olc/olc_classes/orthodox-wizard/)
 Identified by your Blue Robes you are a master of magics. Unburdened by schools, classification, or creed, you study magic in near all it's forms. As a Blue Wizard you are seen as equal parts reliable and unpredictable by your piers.
 # The Remaining
-## [Alchemist](https://heringtonpress.github.io/systems/olc/olc_classes/alchemist/)
-You are mad. Genius but foolish and perhaps even more obsessive then any Wizard. You have decided that the laws of the world untouched by magic is yours to grind, bottle, and command. You are mad.
-## [Deserter](https://heringtonpress.github.io/systems/olc/olc_classes/deserter/)
-You are a coward. You fled when others fought, when others died. The weight of your guilt rests solely on your back, wearing away at your good boots.
 ## [Rat King](https://heringtonpress.github.io/systems/olc/olc_classes/rat-king/)
 Some like to imagine themselves as gods when they stand over an anthill. Watching them march in lines and circles to avoid their every step. They are fools. Godhood is not found in ants avoiding your wake. It's found in the rats. In their devotion. In their worship. In their sacrifice.

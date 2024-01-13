@@ -288,9 +288,9 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 
 | Light                      | GP  |
 | -------------------------- |:---:|
-| Torch (Light for 3) (UD12) |  1  |
+| Torch (Light for 3) (UD12) |  2  |
 | Lantern (Light for 2)      | 10  |
-| Oil Flask Oil Flask (UD12) |  2  |
+| Oil Flask Oil Flask (UD12) |  5  |
 
 ## Cooking and Food
 

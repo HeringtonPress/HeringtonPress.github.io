@@ -76,9 +76,9 @@ You can only make brews that you know the recipe for. It takes 10 minutes to mak
 |  9  | minor invisibility (targets must be objects small enough to fit into your inventory) | Turn object invisible.                                            |
 | 10  | stasis                                                                               | Make object move as if slow-mo                                    |
 | 11  | alchemical iron (cold iron)                                                          | Object counts as cold iron.                                       |
-|     | Toxin (Next attack is Bolstered, only green extract enemies)                         | Next attack Bolstered against blue extract enemy.                 |
-| 12  | anti-petrification (also works on paralysis)                                         | Also works on Paralysis.                                          |
-| 13  | regeneration (Slow and requiring multiple doses)                                     | Slowly grow back lost body parts. May take multiple.              |
+| 12    | Toxin                         | Next attack Bolstered against blue extract enemy.                 |
+| 13  | anti-petrification (also works on paralysis)                                         | Also works on Paralysis.                                          |
+| 14  | regeneration (Slow and requiring multiple doses)                                     | Slowly grow back lost body parts. May take multiple.              |
 
 #### Greater Brews
 
