@@ -3,17 +3,23 @@ layout: page
 title: Knight
 subtitle: You are a Knight of the Emperor. You shield is not your own, your armor is your companions, and your blade cuts only the wicked. Where a mercenary fights, you guard. When a soldier follows, you command.
 ---
-**Starting Equipment**: Heavy armour, a horse, a marked shield, a weapon.
+>Inspired by CoinsandScrolls' [Knight](https://coinsandscrolls.blogspot.com/2018/06/osr-iron-gates-merchants-hunters-and.html) class.
+
+**Starting Equipment**: Heavy armour, a marked shield, a weapon.
 
 - You get an additional +1 HP at A and C.
-- **A:** Shield Master, Knight Errant
+- **A:** Shield Master, Vows
 - **B:** Bodyguard, Fearless
 - **C:** Second Wind
-- **D:** Aura of Courage, Of the Emperor
+- **D:** Aura of Courage, 
 
 **Shield Master**: When you Gamble your Shield Dice it is only lost on the highest result. Additionally you may attack with your shield dealing a d4 damage.
 
-**Knight Errant**: You are more then just a fighter in armor. You are a symbol and such you are royalty. You gain a background at +2 that describes your knight circle. This can always be used to leverage aid from anyone under the Emperor.
+**Vows:** You may make one Vow for each Template. Vows are short, specific, personal statements that you will not forget. You must Save to break them for one round, no matter the circumstances. Example Vows:
+- I will protect my friend Aloise.
+- I will obey the commands of the Lady of Meridia.
+- I will never harm an unarmed person.
+- I will reach the Iron Gates.
 
 **Bodyguard**: If an adjacent ally is targeted by a physical attack, you can choose to take the blow for them. This ability has a 4-in-6 chance of succeeding.
 

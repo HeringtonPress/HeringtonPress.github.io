@@ -178,6 +178,7 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 - **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 
 - **REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice. While resting you could Feast.
+
 ## Vehicles
 Riding a mount or vehicle reduces all Stress received from travel by 1.
 
