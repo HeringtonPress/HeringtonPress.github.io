@@ -17,7 +17,6 @@ subtitle: The everchanging always confusing ruleset
 
 ## [Class](https://heringtonpress.github.io/systems/olc/olc-classes/)
 Divided into Templates denoted as A, B, C, and D. You begin play with the A template of a Class. When you level up you take the next numerical template in a class or take A in a new class. You may never have more the 4 templates, though you can swap two templates when leveling up.
-
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
@@ -295,18 +294,17 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 
 ## Cooking and Food
 
-| Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
-| --------------- |:---:|:---:|:---:|:---:|:----:|:---:|
-| Rations (3)     |  X  |  X  |  X  |  X  |  X   |  6  |
-| Beast Feed (3)  |  X  |  X  |  X  |  X  |  X   |  3  |
-| Cheese (3)      |  2  | 0.5 | 0.5 |  1  |  1   | 20  |
-| Dried Fruit (3) | 0.4 |  1  |  1  |  0  |  0   | 12  |
-| Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  3   |  1  |
+| Provisions | En | Mi | Vi | Pr | Port | GP |
+| ---- | :--: | :--: | :--: | :--: | :--: | :--: |
+| Rations (3) | X | X | X | X | X | 6 |
+| Cheese (3) | 2 | 0.5 | 0.5 | 1 | 1 | 20 |
+| Dried Fruit (3) | 0.4 | 1 | 1 | 0 | 0 | 12 |
+| Lard | 0.5 | 0.4 | 0.4 | 0.4 | 3 | 1 |
 
 | Cooking         | GP  |
 | --------------- |:---:|
 | Cook Pot        | 10  |
-| Fire Kit        |  2  |
+| Fire Kit (3)        |  3  |
 | Seasoning (UD6) | 10  |
 
 ## Animals and Vehicles
@@ -346,7 +344,7 @@ Weapons fill slots equal to the amount of dice they deal. With the exception of 
 
 | Weapon       | Damage | Tags       | Cost |
 | ------------ |:------:| ---------- |:----:|
-| Small Weapon |   d4   |            |  5   |
+| Small Weapon |   d4   | Small           |  5   |
 | Hand Weapon  |   d6   |            |  10  |
 | Long Weapon  |  2d6   | Long       |  15  |
 | Sling        |   d4   | Small, Slow       |  5   |
@@ -374,4 +372,4 @@ Armour takes up an amount of slots equal to the amount of Armor Dice. When an Ar
 | Shield  | 1d6 |  10  |
 | Tower   | 2d6 |  20  |
 
-A buckler is as a small item.
+A buckler is a small item.

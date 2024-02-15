@@ -4,7 +4,7 @@ MURPS only uses six-sided dice, and uses abbreviations for die rolls – for ins
 The basic mechanic of GURPS is the success roll against a Skill or Attribute. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
 ### Quick Contest
 When two characters are competing to do something very quickly – for instance, two enemies lunging for an item. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won.
-# [Character](MURPS-Character.md)
+# [Character](https://heringtonpress.github.io/systems/murps/murps-character/)
 ### Attributes
 Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The four attributes are as follows.
 
@@ -35,10 +35,10 @@ These are derived from your Attributes.
 **Move**: A measure of how far you can move in one turn, in hexes (yards).
 
 **Damage**: Damage is broken up into Swing damage (Sw) and Thrust damage (Thr). Weapons will use these as the base of their damage dealt.
-### [Skills](MURPS-Skills.md)
+### [Skills](https://heringtonpress.github.io/systems/murps/murps-skills/)
 Skills govern what your character is good at. If you don't have a skill you may still be able to "use" it by rolling against it's **default**. This will be an **attribute** minus a number.
 
-While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](MURPS-Skills.md).
+While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](https://heringtonpress.github.io/systems/murps/murps-skills/).
 ### Traits
 Traits are details about your character and how they interact with the game; world and system. These cover everything from your kin, magical powers, place in society, languages known, to even attractiveness.
 # Combat
@@ -86,7 +86,7 @@ While kneeling you have 1/2 movement (Drop Fractions) to a minimum of 1. You hav
 
 **Standing**
 While standing you are unpenalized.
-## [Advance Combat Options](MURPS-Combat.md)
+## [Advance Combat Options](https://heringtonpress.github.io/systems/murps/murps-combat/)
 
 # Damage, Health, and Recovery
 ### Damage
@@ -129,4 +129,4 @@ Characters that fell unconscious automatically wake up 15 minutes after their HP
 
 #### Fatigue points
 FP can be recovered at a rate of 1 per ten minutes of dedicated rest. An Energy Reserve typically replenishes at the same rate and both may recover at the same time.
-# [Equipment](MURPS-Equipment.md)
+# [Equipment](https://heringtonpress.github.io/systems/murps/murps-equipment/)
