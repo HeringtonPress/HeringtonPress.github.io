@@ -7,21 +7,20 @@ subtitle: The everchanging always confusing ruleset
 ## [Kin](https://heringtonpress.github.io/systems/olc/olc-kin/)
 Your Kin determines which Talents you begin play with. A number represents any talent of your choice.
 
-|    Kin    | Talent                         | Desc |     |
-|:---------:| ------------------------------ | ---- | --- |
-|  Foulkn   | +2                             |      |     |
-| Half-foot | All Five, Magic Illness +1     |      |     |
-|   Elves   | Magic Resilience, Slow to Bond |      |     |
-|  Dwarrow  | Strong, Steady,                |      |     |
+|    Kin    | Talent                         | Desc                                                                                                                                                                                                                                                                                                                                                  |
+| :-------: | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Foulkn   | Fast Learner, +2               | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
+| Half-foot | All Five, Magic Illness +1     | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
+|   Elves   | Magic Resilience, Slow to Bond | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
+|  Dwarrow  | Strong, Steady,                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
+
 
 #### Invent Your Own
 Select or create a talent or trait that is common to that species. It should be something that can’t be gained after character creation - like climbing claws, or the ability to breath under water. A talent that is genetic rather than a learned skill.
-
 ## [Talents](https://heringtonpress.github.io/systems/olc/olc-talents/)
 Though grouped by theme, players are free to mix and match talents.
 
 Players and GMs are encouraged to invent new talents and reskin existing ones.
-
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
@@ -40,7 +39,7 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. Gaining additional Slots as you level. Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
+You begin play with 8 Slots and 2 additional QUICK-DRAW Slots. Gaining additional Slots as you level. Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
 ## Hit Points and Grit
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
@@ -50,16 +49,11 @@ You have 6 HP and die when they have less HP then -Half your max.
 
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
-Gain 1XP for every Gold Piece (GP) spent.
-
-| Level |  EXP  | Templates | Slots |
-|:-----:|:-----:|:---------:|:-----:|
-|   1   |   -   |     1     |  10   |
-|   2   | 2000  |     2     |  11   |
-|   3   | 4000  |     3     |  12   |
-|   4   | 6000  |     4     |  13   |
-|  5+   | +4000 |           |  14   |
-
+Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
+- Gain an additional Talent. This can only be bought 6 times. 1000XP
+- Replace a Talent with a new Talent. 300XP
+- Increase your Max HP by 1 to a maximum of 10. 400XP
+- Gain a new slot of inventory to a max of 12. 600XP
 # Resolving Actions
 ---
 ## Saves
