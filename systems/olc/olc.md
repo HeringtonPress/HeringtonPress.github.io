@@ -253,7 +253,8 @@ You may only Strike once. Get creative.
 ## Zones
 There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. Combatants in Forward can attack each other with melee and ranged attacks, but may only target those in Rearward with ranged. Combatants in Rearward can attack anyone but only with ranged attacks. If a sides Frontward is empty then everyone in Rearward is considered to be Frontward.
 
-![[Zone Picture.png]]
+![[Zone.png]]
+![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/Zone.png)
 
 ## Attacking
 Roll damage based on the weapon you are wielding and deal it to your opponent.
