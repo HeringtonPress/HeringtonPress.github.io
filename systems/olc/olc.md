@@ -247,15 +247,18 @@ The exception to this is if you have a camp setup outside the dungeon you may ma
 ---
 ## Rounds
 Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty Slot, to act first.
+## Zones
+There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. 
+![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
+Combatants in Forward can attack each other with melee and ranged attacks, but may only target those in Rearward with ranged.
+Combatants in Rearward can attack anyone but only with ranged attacks. If a sides Frontward is empty then everyone in Rearward is considered to be Frontward.
+#### Overwhelming Force.
+If One sides Frontward outnumbers the other by 2:1 they may target enemies in Rearward with melee as if they where also in Frontward. and ranged attacks by the outnumbered Frontward are Impaired.
+## Environmental Factors
+At the start of Combat the Players and GM all work together to come up with at least 3 things that can be interacted with on the battlefield. I.e. Flowing Lava, a cursed carpet, fragile stalactites, etc.
 ## On Your Turn
 You take two actions per round: Change zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield.
 You may only Strike once. Get creative.
-## Zones
-There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. Combatants in Forward can attack each other with melee and ranged attacks, but may only target those in Rearward with ranged. Combatants in Rearward can attack anyone but only with ranged attacks. If a sides Frontward is empty then everyone in Rearward is considered to be Frontward.
-
-![[Zone.png]]
-![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/main/Images/Zone.png)
-
 ## Attacking
 Roll damage based on the weapon you are wielding and deal it to your opponent.
 ## Defending
