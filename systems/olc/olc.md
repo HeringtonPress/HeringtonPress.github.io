@@ -5,18 +5,23 @@ subtitle: The everchanging always confusing ruleset
 ---
 # Character Creation
 ## [Kin](https://heringtonpress.github.io/systems/olc/olc-kin/)
+Your Kin determines which Talents you begin play with. A number represents any talent of your choice.
 
-|  2d6  | Kin       | Boon                                           | Bane                         |
-|:-----:| --------- | ---------------------------------------------- | ---------------------------- |
-|   2   | Gnome     | Invisible while holding breath and eyes closed | Punch those who side eye you |
-|  3-4  | Halfling  | Re-roll a roll of 1 on a d12                   | Eat twice as much            |
-|  5-7  | Foulkn    | Detect undead as a chill                       | -2 vs mutations              |
-|  8-9  | Orc       | Add level to healing                           | Hated by the Authority       |
-| 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
-|  12   | Beastfolk | -                                              | -                            |
+|    Kin    | Talent                         | Desc |     |
+|:---------:| ------------------------------ | ---- | --- |
+|  Foulkn   | +2                             |      |     |
+| Half-foot | All Five, Magic Illness +1     |      |     |
+|   Elves   | Magic Resilience, Slow to Bond |      |     |
+|  Dwarrow  | Strong, Steady,                |      |     |
 
-## [Class](https://heringtonpress.github.io/systems/olc/olc-classes/)
-Divided into Templates denoted as A, B, C, and D. You begin play with the A template of a Class. When you level up you take the next numerical template in a class or take A in a new class. You may never have more the 4 templates, though you can swap two templates when leveling up.
+#### Invent Your Own
+Select or create a talent or trait that is common to that species. It should be something that can’t be gained after character creation - like climbing claws, or the ability to breath under water. A talent that is genetic rather than a learned skill.
+
+## [Talents](https://heringtonpress.github.io/systems/olc/olc-talents/)
+Though grouped by theme, players are free to mix and match talents.
+
+Players and GMs are encouraged to invent new talents and reskin existing ones.
+
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
@@ -58,10 +63,10 @@ Gain 1XP for every Gold Piece (GP) spent.
 # Resolving Actions
 ---
 ## Saves
-When doing anything with an interesting or dangerous chance of failure you roll a d12, trying to roll higher then 8. A tasks difficulty may grant you a bonus or penalty to your roll.
+When doing anything with an interesting or dangerous chance of failure you roll 2d6, trying to roll higher then 8. A task's difficulty will grant you a bonus or penalty to your roll.
 ## Gambling Dice
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
-## Bid Lore
+## Bidding Lore
 Information and lore are categorised into 3 levels of obscurity.
 
 - **Common Lore**: Everyone knows this. The GM will tell you all about this. 
@@ -241,10 +246,15 @@ The exception to this is if you have a camp setup outside the dungeon you may ma
 # Fighting
 ---
 ## Rounds
-Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty slot, to act first.
+Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty Slot, to act first.
 ## On Your Turn
-You take two actions per round: Move to an adjacent zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield.
+You take two actions per round: Change zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield.
 You may only Strike once. Get creative.
+## Zones
+There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. Combatants in Forward can attack each other with melee and ranged attacks, but may only target those in Rearward with ranged. Combatants in Rearward can attack anyone but only with ranged attacks. If a sides Frontward is empty then everyone in Rearward is considered to be Frontward.
+
+![[Zone Picture.png]]
+
 ## Attacking
 Roll damage based on the weapon you are wielding and deal it to your opponent.
 ## Defending
