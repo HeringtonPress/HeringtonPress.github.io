@@ -340,6 +340,7 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to damaging action
 | Light  | 1     | 3:1   | 5     |
 | Medium | 2     | 1     | 10    |
 | Heavy  | 3     | 2     | 15    |
+
 #### Versatile Weapons
 Some weapons are Versatile meaning they have 2 Hand Tags. These weapons get half the bonus damage to each of their tags.
 
