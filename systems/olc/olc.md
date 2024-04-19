@@ -4,7 +4,7 @@ title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
 # Character Creation
-## [Kin](https://heringtonpress.github.io/systems/olc/olc-kin/)
+## Kin
 Your Kin determines which Talents you begin play with. A number represents any talent of your choice.
 
 |    Kin    | Talent                         | Desc                                                                                                                                                                                                                                                                                                                                                  |
@@ -12,8 +12,7 @@ Your Kin determines which Talents you begin play with. A number represents any t
 |  Foulkn   | Fast Learner, +2               | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
 | Half-foot | All Five, Magic Illness +1     | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
 |   Elves   | Magic Resilience, Slow to Bond | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
-|  Dwarrow  | Strong, Steady,                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
-
+|  Dwarrow  | Strong, Steady, +1             | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 #### Invent Your Own
 Select or create a talent or trait that is common to that species. It should be something that can’t be gained after character creation - like climbing claws, or the ability to breath under water. A talent that is genetic rather than a learned skill.
@@ -39,7 +38,8 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 8 Slots and 2 additional QUICK-DRAW Slots. Gaining additional Slots as you level. Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
+You begin play with 8 Slots and 2 additional QUICK-DRAW Slots. Items kept in QUICK-DRAW Slots may be retrieved freely in combat.
+Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
 ## Hit Points and Grit
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
@@ -51,7 +51,7 @@ If you're HP is in the negatives but you're not dead, a character can use a Firs
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Gain an additional Talent. This can only be bought 6 times. 1000XP
-- Replace a Talent with a new Talent. 300XP
+- Replace a Talent. 300XP
 - Increase your Max HP by 1 to a maximum of 10. 400XP
 - Gain a new slot of inventory to a max of 12. 600XP
 # Resolving Actions
@@ -239,28 +239,17 @@ Every time you leave the Dungeon, the biggest treasure pile in the dungeon loses
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
 # Fighting
 ---
-## Rounds
-Each Round the Guide describes what it appears like the monsters are going to do. Save against 8, with a bonus for every empty Slot, to act first.
-## On Your Turn
-You take two actions per round: Change zone, Strike, trip, get in front of an ally, fetch an item, or raise a shield.
-You may only Strike once. Get creative.
-## Attacking
-Roll damage based on the weapon you are wielding and deal it to your opponent.
-## Defending
-You may Gamble your Armor Dice to subtract the result of all your dice from the damage taken. Shields may also be gambled, notably you can resolve a shields gamble before gambling armor.
-## Impaired vs Bolstered
-Attacks may become Impaired by the fiction. I.e. fighting with a polearm in a narrow tunnel, firing a bow into melee, or attacking while prone. Similarly some attacks may have reasons to be more effective then they regularly are.
-
-When making an attack while impaired your weapon dice are halved. While Bolstered add a d6 to the damage roll.
+## Hands
+All combat actions are broken up into 3 hands. Rock, Paper, and Scissors. When fighting with an enemy you will each throw out an ability, comparing the hands to assess effectiveness. This respects the law of Rock beats Paper beats Scissors beats Rock. With a tie being when 2 of the same hand are thrown.
+## Stances
+Actions are also divided between two Stances; Offensive and Defensive. Offensive is the typical Stance. It targets an enemy and defends from that same enemy. The Defensive Stance targets only one enemy but defends from all.
 ## Zones
-There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. 
+There are 4 zones in a typical combat encounter. These are Forward and Rearward for allies and enemies. Certain combat actions are also divided into Forward and Rearward, meaning they can only be used while in those Zones. If an ability doesn't specify a zone it can be used in any.
 ![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
-Combatants in Forward can attack each other with melee and ranged attacks, but may only target those in Rearward with ranged.
-Combatants in Rearward can attack anyone but only with ranged attacks. If a sides Frontward is empty then everyone in Rearward is considered to be Frontward.
-#### Overwhelming Force.
-If One sides Frontward outnumbers the other by 2:1 they may target enemies in Rearward with melee as if they where also in Frontward. and ranged attacks by the outnumbered Frontward are Impaired.
-## Environmental Factors
-At the start of Combat the Players and GM all work together to come up with at least 3 things that can be interacted with on the battlefield. I.e. Flowing Lava, a cursed carpet, fragile stalactites, etc.
+Combatants in Forward are paired together with the most numerous group in Forward deciding the pairings. Leaving anyone left over to choose their own target. While combatants in Rearward may target whoever they choose.
+If a sides Forward is empty then everyone on that sides Rearward is considered to be Forward.
+## Conditions
+There are 3 Conditions Stoned Folded and Dulled. Each one is associated with a Hand. Stoned to Rock, Folded to Paper, and Dulled to Scissors. While afflicted with one of these Conditions you cannot throw that respective Hand. Unless stated otherwise you recover from a condition after one round.
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
@@ -343,41 +332,20 @@ Do not concern yourself with feeding the animals daily.
 | Wagon (24) |  6   | 200 |
 
 ## Weapons and Armour
-### Wielding Weapons
-Weapons fill slots equal to the amount of dice they deal. With the exception of Small Weapons.
-#### Weapon Tags
-**Long** weapons require both hands and are Impaired in confined environments.
+### Weapons
+Weapons are divided into the 3 Hands. Giving a bonus as noted to damaging actions that use that Hand. The GM will know what Hand a weapon will have.
 
-**Slow** weapons take an action to ready after an attack. They are also Long.
+| Weapon | Bonus | Slots | Price |
+| ------ | ----- | ----- | ----- |
+| Light  | 1     | 3:1   | 5     |
+| Medium | 2     | 1     | 10    |
+| Heavy  | 3     | 2     | 15    |
+#### Versatile Weapons
+Some weapons are Versatile meaning they have 2 Hand Tags. These weapons get half the bonus damage to each of their tags.
 
-| Weapon       | Damage | Tags       | Cost |
-| ------------ |:------:| ---------- |:----:|
-| Small Weapon |   d4   | Small           |  5   |
-| Hand Weapon  |   d6   |            |  10  |
-| Long Weapon  |  2d6   | Long       |  15  |
-| Sling        |   d4   | Small, Slow       |  5   |
-| Bow          |   d6   | Long, Ammo |  15  |
-| Crossbow     |  2d6   | Slow, Ammo |  25  |
-| Ammo (UD10)  |        |            |  5   |
+### Armour
+Armour grants 4 scrap for every Slot of armour worn. Armour can be bought at 30 GP per Slot.
+Armour may be repaired with a Kit during a Feast, gaining +6 Scrap in the Dungeon or to full in the Overworld. 
 
-#### Weapon Modifications
-**Specialty**: Take an existing weapon with and establish what it was made for. When you are bolstered in that way gain +d8 instead of +d6 to damage. Ordering a weapon this way increases it's cost by 2x.
-
-**Sharpened**: For half the cost of the weapons type. The weapons deals +1 damage until you roll max damage, dulling the weapon.
-
-### Wearing Armour
-Armour takes up an amount of slots equal to the amount of Armor Dice. When an Armor Dice is lost in a gamble, the armor is considered chipped and must be repaired to regain Dice. One armor dice may be repaired during a Feast in a Dungeon, a suit of armour can be repaired during a Feast in the overworld. 
-
-| Armour | AD  | Cost |
-| ------ |:---:|:----:|
-| Light  | 1d6 |  30  |
-| Medium | 2d6 |  60  |
-| Heavy  | 4d6 | 120  |
-
-| Shield  | AD  | Cost |
-| ------- |:---:|:----:|
-| Buckler | 1d4 |  4   |
-| Shield  | 1d6 |  10  |
-| Tower   | 2d6 |  20  |
-
-A buckler is a small item.
+### Shields
+Shields allow you to defend against an attacker you are not targeting with an action. Shields cost 40 GP and must be assigned a Hand when Bought.

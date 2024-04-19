@@ -16,7 +16,7 @@ Kin Talents can only be taken by PCs of the appropriate Kin. Not all  have
 , but no elf will ever  one.
 
 ### Berzerker
-**Cleave**. When you reduce a creature to 0hp with an attack, make another attack with the same weapon against a target within range. You can cleave a number of targets in a single round equal to [HL].
+**Cleave**. When you reduce a creature to 0hp with a melee attack, make another attack with the same weapon against a target within range.
 
 **Danger Sense**. You have +4 on saves when determining initiative and a +2 on saves to avoid damage from traps.
 
