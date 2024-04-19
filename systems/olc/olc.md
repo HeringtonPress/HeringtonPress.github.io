@@ -254,6 +254,7 @@ Everyone has access to the following Actions.
 	- Deal 4 damage on a win, or 2 on a tie.
 - Defend (●□<) ‡ ↕
 	- Deal 2 damage on a win.
+
 ## Conditions
 There are 3 Conditions Stoned Folded and Dulled. Each one is associated with a Hand. Stoned to Rock●, Folded to Paper□, and Dulled to Scissors<. While afflicted with one of these Conditions you cannot throw that respective Hand. Unless stated otherwise you recover from a condition after one round.
 ## Fleeing
