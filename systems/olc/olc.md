@@ -9,7 +9,7 @@ Your Kin determines which Talents you begin play with. A number represents any t
 
 |    Kin    | Talent                         | Desc                                                                                                                                                                                                                                                                                                                                                  |
 | :-------: | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Foulkn   | Fast Learner, +2               | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
+|  Foulkn   | +2                             | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
 | Half-foot | All Five, Magic Illness +1     | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
 |   Elves   | Magic Resilience, Slow to Bond | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
 |  Dwarrow  | Strong, Steady, +1             | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
@@ -156,6 +156,60 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
 | 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
 
+# Bonds
+The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover".
+
+Your Bonds become charged when you Fulfill them, exemplifying the relationship the Bond represents. Basic suggestions for this role-play are given in the descriptions of the example Bonds below. Though the GM can call for a Bond to be Charged by other examples of excellent role-playing, including but not limited to risking ones well being for their Bond. 
+
+A charged bond can be spent to gain a d6 in the Bonds associated type; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
+
+### Ally
+Your allies are party members that you are professional and amiable with. This is the default Bond.
+- Charge this bond when you make your Ally laugh both in and out of character.
+
+### Adversary
+If you have a significant problem with a party member you're probably their adversary. This isn't an excuse to be an ass to another player, but an opportunity for interesting and fair conflict.
+- Charge this Bond when you witness your adversary fail a Save.
+
+### Big/Little
+If one adventurer is bigger than the other and you use this to your advantage, this is the Bond for you.
+- You both charge this Bond when your big/little aids you in a Save with your weakest attribute.
+
+### Best Friend
+You wouldn't let your best friend go on an adventure without you. You're there for each other, thick or thin.
+- You both charge this Bond when you reveal a secret to your best friend.
+
+### Love
+Use this Bond to represent someone you are in romantic relationship with. If the relationship is one-sided, use the Unrequited Love Bond.
+- Charge this Bond when you do something gushy and romantic for your partner, whether it's writing an in-character love sonnet or risking your neck to pick a bunch of flowers for them.
+
+### Master/Henchman
+When you have a managerial vs. subservient relationship with another party member, this is your Bond.
+- Masters charge this Bond when they give their henchman an agreed-upon payment or compensation.
+- Henchmen charge this Bond when they use 
+
+### Mentor/Mentee
+Whether a parent, parent-figure, or merely a leader, a mentor guides and shapes the life of a mentee.
+- Mentees charge this Bond when they ask the mentor for advice.
+- Mentors charge this Bond when a mentee follows their advice.
+
+### Rival
+You are in competition with your rival. You might want the same woman, the most kills, or something weirder.
+- Charge this Bond when you witness your rival succeed on a Save.
+
+### Sibling
+Your first adventures were together in youth. Now you're party members.
+- Charge this Bond when you provide aid to your sibling in a Save.
+
+### Unrequited Love
+He's just not that into you. use this Bond to represent how you feel about a would-be suitor or ex-lover.
+- Charge this Bond when you do something kind for your love and they rebuff you or turn you down.
+
+### Guard/Ward
+You have a party member that you look out for. It's important they survive.
+- Guards charge this Bond when their Ward makes it out of lethal danger without taking damage.
+- Wards charge this Bond when they get into lethal danger.
+
 # Exploring
 ---
 ## Watches
@@ -175,7 +229,7 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 - **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 
-- **REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice. While resting you could Feast.
+- **REST** Take a moment to recuperate, lose all Stress, but the GM will roll for Omens twice. While resting you may Feast.
 
 ## Vehicles
 Riding a mount or vehicle reduces all Stress received from travel by 1.
