@@ -10,6 +10,8 @@ Though grouped by theme, players are free to mix and match talents. Players and 
 ##### Cut Through
 When you kill a creature with a Forward Scissor< Action you may gamble a Brawn Die to move that same hand to another target in Forward.
 #### Rogue
+##### Picks and Pins
+When picking a lock you may Gamble a Brain die to discover what one of the wrong actions is.
 #### Wizard
 #### Cleric
 ## Kin

@@ -50,7 +50,7 @@ You have 6 HP and die when they have less HP then -Half your max.
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
-- Gain an additional Talent. This can only be bought 6 times. 1000XP
+- Gain an additional Talent. This can only be bought 10 times. 1000XP
 - Replace a Talent. 300XP
 - Increase your Max HP by 1 to a maximum of 10. 400XP
 - Gain a new slot of inventory to a max of 12. 600XP
@@ -157,6 +157,7 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
 
 # Bonds
+---
 The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover".
 
 Your Bonds become charged when you Fulfill them, exemplifying the relationship the Bond represents. Basic suggestions for this role-play are given in the descriptions of the example Bonds below. Though the GM can call for a Bond to be Charged by other examples of excellent role-playing, including but not limited to risking ones well being for their Bond. 
