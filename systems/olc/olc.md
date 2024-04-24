@@ -109,20 +109,18 @@ Food Dice (FD) are either d4s, d6s or d8s. 
 **If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
 ## Rations & Meals in Town
 Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10 gp to gain 4d4 spread how you like. 
-# Spellcasting and Magic
+# Spells, Rites, and 
 ---
-To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
 ## [Spells](https://heringtonpress.github.io/systems/olc/olc-spells/)
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
-- It takes an hour to move any number of spells between scrolls, spellbooks, or wands.
+- It takes an hour to move any number of spells between storage.
 
 ## Spellbooks
 A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
-## Scrolls
-A page from a spellbook, effectively, but with some extra magic built in. If you cast a spell from a scroll you can burn the scroll adding +1d6 MD to your roll. A blank scroll is worth 10gp and is a small item.
 ## Wands
-Wands are like scrolls customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
+Wands are customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
 
 You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
 

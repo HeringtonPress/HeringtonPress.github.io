@@ -7,6 +7,7 @@ subtitle: An incomplete collection of Spells and Magic in One Last Coin
 - [sum] is a number equal to the sum of rolled **Magic Dice**.
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
+- It takes an hour to move any number of spells between storage.
 # Spell List
 
 |   |   |   |
