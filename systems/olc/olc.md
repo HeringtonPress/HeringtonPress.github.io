@@ -117,15 +117,15 @@ To cast a spell you must have access to one, typically from a scroll or spellboo
 - Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
 - It takes an hour to move any number of spells between storage.
 
-## Spellbooks
+### Spellbooks
 A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
-## Wands
+### Wands
 Wands are customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
 
 You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
 
 Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells.
-## Mishaps
+### Mishaps
 If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
 
 | Sum | Mishaps                                                                                                                                                                                                                                                  |
@@ -141,7 +141,7 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 10  | For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                               |
 | 11  | You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.                                                                                                                         |
 | 12  | The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1.                                                                                     |
-| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disappearing.                                                                                                                                                                      |
+| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disappearing.                                                                                                                                                                     |
 | 14  | The Spells effects leak into you. Gain a magical mutation.                                                                                                                                                                                               |
 | 15  | The Spell takes on a physical form. This creature still obeys you though not perfectly.                                                                                                                                                                  |
 | 16  | The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element.                                                                                                                                         |
@@ -153,6 +153,9 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 22  | You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart.                                                        |
 | 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
 | 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
+
+## Rites
+
 
 # Bonds
 ---
@@ -170,41 +173,41 @@ Your allies are party members that you are professional and amiable with. This i
 If you have a significant problem with a party member you're probably their adversary. This isn't an excuse to be an ass to another player, but an opportunity for interesting and fair conflict.
 - Charge this Bond when you witness your adversary fail a Save.
 
-### Big/Little
+## Big/Little
 If one adventurer is bigger than the other and you use this to your advantage, this is the Bond for you.
 - You both charge this Bond when your big/little aids you in a Save with your weakest attribute.
 
-### Best Friend
+## Best Friend
 You wouldn't let your best friend go on an adventure without you. You're there for each other, thick or thin.
 - You both charge this Bond when you reveal a secret to your best friend.
 
-### Love
+## Love
 Use this Bond to represent someone you are in romantic relationship with. If the relationship is one-sided, use the Unrequited Love Bond.
 - Charge this Bond when you do something gushy and romantic for your partner, whether it's writing an in-character love sonnet or risking your neck to pick a bunch of flowers for them.
 
-### Master/Henchman
+## Master/Henchman
 When you have a managerial vs. subservient relationship with another party member, this is your Bond.
 - Masters charge this Bond when they give their henchman an agreed-upon payment or compensation.
 - Henchmen charge this Bond when they use 
 
-### Mentor/Mentee
+## Mentor/Mentee
 Whether a parent, parent-figure, or merely a leader, a mentor guides and shapes the life of a mentee.
 - Mentees charge this Bond when they ask the mentor for advice.
 - Mentors charge this Bond when a mentee follows their advice.
 
-### Rival
+## Rival
 You are in competition with your rival. You might want the same woman, the most kills, or something weirder.
 - Charge this Bond when you witness your rival succeed on a Save.
 
-### Sibling
+## Sibling
 Your first adventures were together in youth. Now you're party members.
 - Charge this Bond when you provide aid to your sibling in a Save.
 
-### Unrequited Love
+## Unrequited Love
 He's just not that into you. use this Bond to represent how you feel about a would-be suitor or ex-lover.
 - Charge this Bond when you do something kind for your love and they rebuff you or turn you down.
 
-### Guard/Ward
+## Guard/Ward
 You have a party member that you look out for. It's important they survive.
 - Guards charge this Bond when their Ward makes it out of lethal danger without taking damage.
 - Wards charge this Bond when they get into lethal danger.
