@@ -162,11 +162,11 @@ Your Bonds become charged when you Fulfill them, exemplifying the relationship t
 
 A charged bond can be spent to gain a d6 in the Bonds associated type; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
 
-### Ally
+## Ally
 Your allies are party members that you are professional and amiable with. This is the default Bond.
 - Charge this bond when you make your Ally laugh both in and out of character.
 
-### Adversary
+## Adversary
 If you have a significant problem with a party member you're probably their adversary. This isn't an excuse to be an ass to another player, but an opportunity for interesting and fair conflict.
 - Charge this Bond when you witness your adversary fail a Save.
 
