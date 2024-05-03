@@ -10,16 +10,15 @@ Your Kin determines which Talents you begin play with. A number represents any t
 |    Kin    | Talent                         | Desc                                                                                                                                                                                                                                                                                                                                                  |
 | :-------: | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  Foulkn   | +2                             | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
-| Half-foot | All Five, Magic Illness +1     | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
+| Half-foot | All Five, Magic Illness, +1    | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
 |   Elves   | Magic Resilience, Slow to Bond | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
 |  Dwarrow  | Strong, Steady, +1             | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 #### Invent Your Own
 Select or create a talent or trait that is common to that species. It should be something that can’t be gained after character creation - like climbing claws, or the ability to breath under water. A talent that is genetic rather than a learned skill.
-## [Talents](https://heringtonpress.github.io/systems/olc/olc-talents/)
-Though grouped by theme, players are free to mix and match talents.
 
-Players and GMs are encouraged to invent new talents and reskin existing ones.
+## [Talents](https://heringtonpress.github.io/systems/olc/olc-talents/)
+Talents cost Talent Points(TP), most ranging from 1 to 2 points. You start with an amount of TP determined by your Kin. These can be spent on any talents you qualify for, do not feel restrained by the "Class" labels. 
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
@@ -38,22 +37,23 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 8 Slots and 2 additional QUICK-DRAW Slots. Items kept in QUICK-DRAW Slots may be retrieved freely in combat.
+You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. Items kept in QUICK-DRAW Slots may be retrieved freely in combat.
 Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
 ## Hit Points and Grit
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
 **Hit Points** represents physical damage. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't avoid, e.g., falling into lava goes straight to HP.
 
-You have 6 HP and die when they have less HP then -Half your max.
+You have 6 HP and die when they have less HP then -your max HP.
 
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
-- Gain an additional Talent. This can only be bought 10 times. 1000XP
-- Replace a Talent. 300XP
-- Increase your Max HP by 1 to a maximum of 10. 400XP
-- Gain a new slot of inventory to a max of 12. 600XP
+- Exchange a Talent for TP. **200XP**
+- Increase your Max HP by 1 to a maximum of 10. **400XP**
+- Gain a new slot of inventory to a max of 14. **600XP**
+- Gain an additional Talent Point. **800XP**
+
 # Resolving Actions
 ---
 ## Saves
@@ -196,13 +196,10 @@ Whether a parent, parent-figure, or merely a leader, a mentor guides and shapes 
 You are in competition with your rival. You might want the same woman, the most kills, or something weirder.
 - Charge this Bond when you witness your rival succeed on a Save.
 
-## Sibling
-Your first adventures were together in youth. Now you're party members.
-- Charge this Bond when you provide aid to your sibling in a Save.
-
 ## Unrequited Love
 He's just not that into you. use this Bond to represent how you feel about a would-be suitor or ex-lover.
-- Charge this Bond when you do something kind for your love and they rebuff you or turn you down.
+- The Desperate charges this Bond when they do something kind for your Love.
+- The Love charges this Bond when they turn down or rebuff acts of love from the Desperate.
 
 ## Guard/Ward
 You have a party member that you look out for. It's important they survive.
@@ -297,19 +294,19 @@ All combat actions are broken up into 3 hands. Rock●, Paper□, and Scissors<.
 ## Stances
 Actions are also divided between two Stances; Offensive† and Defensive‡. Offensive† is the typical Stance. It targets an enemy and defends from that same enemy. The Defensive‡ Stance targets only one enemy but defends from all.
 ## Zones
-There are 4 zones in a typical combat encounter. These are Forward↑ and Rearward↓ for allies and enemies. Certain combat actions are also divided into Forward and Rearward, meaning they can only be used while in those Zones. If an ability doesn't specify a zone it can be used in any↕.
+There are 4 zones in a typical combat encounter. These are Forward↑ and Rearward↓ for allies and enemies. Certain combat actions are also divided into Forward and Rearward, meaning they can only be used while in those Zones. If an ability doesn't specify a zone it can be used in any⇵.
 ![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
 Combatants in Forward are paired together with the most numerous group in Forward deciding the pairings. Leaving anyone left over to choose their own target. While combatants in Rearward may target whoever they choose.
 If a sides Forward is empty then everyone on that sides Rearward is considered to be Forward.
 ## Basic Actions
 Everyone has access to the following Actions.
-- Attack (●□<) † ↕
+- Attack (●□<) † ⇵
 	- Deal 4 damage on a win, or 2 on a tie.
-- Defend (●□<) ‡ ↕
+- Defend (●□<) ‡ ⇵
 	- Deal 2 damage on a win.
 
 ## Conditions
-There are 3 Conditions Stoned Folded and Dulled. Each one is associated with a Hand. Stoned to Rock●, Folded to Paper□, and Dulled to Scissors<. While afflicted with one of these Conditions you cannot throw that respective Hand. Unless stated otherwise you recover from a condition after one round.
+There are 3 Conditions Stoned, Folded, and Dulled. Each one is associated with a Hand. Stoned to Rock●, Folded to Paper□, and Dulled to Scissors<. While afflicted with one of these Conditions you cannot throw that respective Hand. Unless stated otherwise you recover from a condition after one round.
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
@@ -393,7 +390,7 @@ Do not concern yourself with feeding the animals daily.
 
 ## Weapons and Armour
 ### Weapons
-Weapons are divided into the 3 Hands. Giving a bonus as noted to damaging actions that use that Hand. The GM will know what Hand a weapon will have.
+Weapons are divided into the 3 Hands. Giving a bonus as noted to successful damaging actions that use that Hand. The GM will know what Hand a weapon will have.
 
 | Weapon | Bonus | Slots | Price |
 | ------ | ----- | ----- | ----- |
@@ -405,8 +402,7 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to damaging action
 Some weapons are Versatile meaning they have 2 Hand Tags. These weapons get half the bonus damage to each of their tags.
 
 ### Armour
-Armour grants 4 scrap for every Slot of armour worn. Armour can be bought at 30 GP per Slot.
-Armour may be repaired with a Kit during a Feast, gaining +6 Scrap in the Dungeon or to full in the Overworld. 
+A slot of armour costs 30 GP and can be Chipped when taking damage to reduce the incoming damage by 4. Chipped armour may be repaired with a Kit during a Feast. 
 
 ### Shields
 Shields allow you to defend against an attacker you are not targeting with an action. Shields cost 40 GP and must be assigned a Hand when Bought.
