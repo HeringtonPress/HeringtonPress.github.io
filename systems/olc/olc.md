@@ -58,8 +58,10 @@ Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 ---
 ## Saves
 When doing anything with an interesting or dangerous chance of failure you roll 2d6, trying to roll higher then 8. A task's difficulty will grant you a bonus or penalty to your roll.
-## Gambling Dice
+## Gambling and Dice Pools
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
+
+An important note when it comes to you pools is that whenever you would gain dice into a pool it replaces the current dice in said pool.
 ## Bidding Lore
 Information and lore are categorised into 3 levels of obscurity.
 
@@ -111,11 +113,11 @@ Food Dice (FD) are either d4s, d6s or d8s. 
 Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10gp to gain 4d4 spread how you like. 
 # Bonds
 ---
-The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover".
+The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover - Brain".
 
 Your Bonds become charged when you Fulfill them, exemplifying the relationship the Bond represents. Basic suggestions for this role-play are given in the descriptions of the example Bonds below. Though the GM can call for a Bond to be Charged by other examples of excellent role-playing, including but not limited to risking ones well being for their Bond. 
 
-A charged bond can be spent to gain a d6 in the Bonds associated type; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
+A charged bond can be spent to gain a d6 in the attribute you assigned it at creation; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
 
 ## Ally
 Your allies are party members that you are professional and amiable with. This is the default Bond.
@@ -124,10 +126,6 @@ Your allies are party members that you are professional and amiable with. This i
 ## Adversary
 If you have a significant problem with a party member you're probably their adversary. This isn't an excuse to be an ass to another player, but an opportunity for interesting and fair conflict.
 - Charge this Bond when you witness your adversary fail a Save.
-
-## Big/Little
-If one adventurer is bigger than the other and you use this to your advantage, this is the Bond for you.
-- You both charge this Bond when your big/little aids you in a Save with your weakest attribute.
 
 ## Best Friend
 You wouldn't let your best friend go on an adventure without you. You're there for each other, thick or thin.
