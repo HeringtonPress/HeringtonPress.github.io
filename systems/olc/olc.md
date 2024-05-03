@@ -81,11 +81,11 @@ In addition, you must fulfill 3 of the following 4 criteria:
 - Cooking gear
 - Spices
 
-A feast must be prepared and then immediately consumed as part of a Camp Action. Left over portions can be converted to rations that expire after your adventure.
+A feast must be prepared and then immediately consumed. No leftovers.
 
 Each creature eaten provides a number of portions. Two rat yields about one portion. A minotaur yields about eight. A dragon could feast upwards of fifty adventurers.   
 
-The GM adds together any nutritional benefits from the unique ingredients used to make a feast and tell the players the totals for each nutrient (see below). Decimals are rounded as god intended and Nutrients can't be higher the 5.
+The GM adds together any nutritional benefits from the unique ingredients used to make a feast and tell the players the totals for each nutrient (see below). Decimals are rounded as God intended and Nutrients can't be higher the 5. Players then select 2 nutrients to benefit from this meal, gaining an amount of dice equal to it's respective value.
 ## Nutrients
 Each feast has four stats, called **Nutrients.** 
 - **Energy** determines how many calories a feast has. This nutrient gives a character Grit.
@@ -96,7 +96,7 @@ Each feast has four stats, called **Nutrients.** 
 ### Food Dice
 Food Dice (FD) are either d4s, d6s or d8s. 
 - If the feast contained **mundane** animals or plants, the Food Dice are equal to d4s. 
-- If the feast contained no mundane animals or plants, **only exotic** ingredients, the Food Dice are equal to d6s. 
+- If the feast contained majority **exotic** ingredients, the Food Dice are equal to d6s. 
 - If the feast contained extraordinarily **magical** ingredients, like a dragon or an angel, the Food Dice are equal to d8s. 
 
 ### Energy
@@ -108,52 +108,7 @@ Food Dice (FD) are either d4s, d6s or d8s. 
 ### Proteins
 **If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
 ## Rations & Meals in Town
-Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10 gp to gain 4d4 spread how you like. 
-# Spells and Magic
----
-## [Spells](https://heringtonpress.github.io/systems/olc/olc-spells/)
-To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
-- An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
-- Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
-- It takes an hour to move any number of spells between storage.
-
-### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
-### Wands
-Wands are customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
-
-You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
-
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells.
-### Mishaps
-If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
-
-| Sum | Mishaps                                                                                                                                                                                                                                                  |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.                                                                                                                                                                    |
-| 3   | For the next 24 hours, when casting spells you gain a Stress on a die roll of 3+.                                                                                                                                                                        |
-| 4   | There is a chain reaction to the spell. Take a Stress.                                                                                                                                                                                                   |
-| 5   | The Spell’s effects are reversed. Gain a Stress.                                                                                                                                                                                                         |
-| 6   | Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for the day.                                                                                                                                      |
-| 7   | You are unable to heal HP through magic.                                                                                                                                                                                                                 |
-| 8   | You take 1d4 damage when casting spells for till the next day.                                                                                                                                                                                           |
-| 9   | Your skin turns a dark shade of purple, and you are invisible in moonlight. Your eyes however glow a bright yellow. You count as 2 for Light needed.                                                                                                     |
-| 10  | For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                               |
-| 11  | You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.                                                                                                                         |
-| 12  | The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1.                                                                                     |
-| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disappearing.                                                                                                                                                                     |
-| 14  | The Spells effects leak into you. Gain a magical mutation.                                                                                                                                                                                               |
-| 15  | The Spell takes on a physical form. This creature still obeys you though not perfectly.                                                                                                                                                                  |
-| 16  | The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element.                                                                                                                                         |
-| 17  | You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn’t focus on you, you are invisible.                                                                |
-| 18  | Your hands fuse with whatever you are holding. Fusing shut if empty.                                                                                                                                                                                     |
-| 19  | Large ugly wings sprout from your back, ripping through whatever you are wearing. You can fly but you cannot wear armor or a backpack, and such have only 5 inventory slots.                                                                             |
-| 20  | You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it’s coming for you, and it’s mad as hell.                                                                         |
-| 21  | An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.                                                  |
-| 22  | You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart.                                                        |
-| 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
-| 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
-
+Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10gp to gain 4d4 spread how you like. 
 # Bonds
 ---
 The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover".
@@ -198,13 +153,58 @@ You are in competition with your rival. You might want the same woman, the most 
 
 ## Unrequited Love
 He's just not that into you. use this Bond to represent how you feel about a would-be suitor or ex-lover.
-- The Desperate charges this Bond when they do something kind for your Love.
+- The Desperate charges this Bond when they do something kind or romantic for your Love.
 - The Love charges this Bond when they turn down or rebuff acts of love from the Desperate.
 
 ## Guard/Ward
 You have a party member that you look out for. It's important they survive.
 - Guards charge this Bond when their Ward makes it out of lethal danger without taking damage.
 - Wards charge this Bond when they get into lethal danger.
+
+# Spells and Magic
+---
+## [Spells](https://heringtonpress.github.io/systems/olc/olc-spells/)
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
+- An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
+- Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
+- It takes an hour to move any number of spells between storage.
+
+### Spellbooks
+A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
+### Wands
+Wands are customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
+
+You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
+
+Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells.
+### Mishaps
+If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
+
+| Sum | Mishaps                                                                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | You cannot cast spells for 1d6 hours, and any attempts to manipulate magic will fail.                                                                                                                                                                    |
+| 3   | For the next 24 hours, when casting spells you gain a Stress on a die roll of 3+.                                                                                                                                                                        |
+| 4   | There is a chain reaction to the spell. Take a Stress.                                                                                                                                                                                                   |
+| 5   | The Spell’s effects are reversed. Gain a Stress.                                                                                                                                                                                                         |
+| 6   | Any objects in your inventory that are not made of metal instantly combust. You are now immune to fire for the day.                                                                                                                                      |
+| 7   | You are unable to heal HP through magic.                                                                                                                                                                                                                 |
+| 8   | You take 1d4 damage when casting spells for till the next day.                                                                                                                                                                                           |
+| 9   | Your skin turns a dark shade of purple, and you are invisible in moonlight. Your eyes however glow a bright yellow. You count as 2 for Light needed.                                                                                                     |
+| 10  | For 1d4 hours your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                               |
+| 11  | You suffer horrible arcane burns; 1d3 max HP. You may gamble magic dice to ignore the effects of a spell on you. Compare (Sum)s.                                                                                                                         |
+| 12  | The spell backfires; you lose 1 inventory slot (scratch it off your sheet). You are now surrounded by a magical essence that reduces incoming non-magic damage by 1.                                                                                     |
+| 13  | The Spell escapes it's prison. Unbound it causes a little chaos before disappearing.                                                                                                                                                                     |
+| 14  | The Spells effects leak into you. Gain a magical mutation.                                                                                                                                                                                               |
+| 15  | The Spell takes on a physical form. This creature still obeys you though not perfectly.                                                                                                                                                                  |
+| 16  | The nearest element fuses to you. Resist 3 damage of that type but take double damage from the opposite element.                                                                                                                                         |
+| 17  | You are transformed into something weird and unnatural (the Warden will say exactly how). Others will have difficulty looking at you. If someone doesn’t focus on you, you are invisible.                                                                |
+| 18  | Your hands fuse with whatever you are holding. Fusing shut if empty.                                                                                                                                                                                     |
+| 19  | Large ugly wings sprout from your back, ripping through whatever you are wearing. You can fly but you cannot wear armor or a backpack, and such have only 5 inventory slots.                                                                             |
+| 20  | You dimensionally swap limbs with a magical being from an alien plane. Gain its properties (ask the Warden), both good and bad. Also: it’s coming for you, and it’s mad as hell.                                                                         |
+| 21  | An extra-planar deity senses your arcane power (ask the Warden which). You are now linked, and can call on it for aide. It can likewise ask you for help, and punish you for non-compliance. Good luck.                                                  |
+| 22  | You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart.                                                        |
+| 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
+| 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
 
 # Exploring
 ---
