@@ -262,7 +262,6 @@ If the party agrees to retreat then bar dire circumstances they escape. Each cha
 | Chalk            | Useful for making notes and spotting invisibility                                                     | 1   |
 | Crowbar          | Can be used to help pry open things                                                                   | 10  |
 | Drill            | Can drill small holes relatively quietly                                                              | 10  |
-| Fire Kit (3)     | Kindling and wood for starting a fire                                                                 | 3   |
 | Fishing Gear     | A small rod and some hooks                                                                            | 10  |
 | Glue             | Jar of sticky, sets slowly                                                                            | 5   |
 | Grapple Hook     | Just the Hook, no rope or batteries included                                                          | 25  |
