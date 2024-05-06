@@ -5,16 +5,19 @@ subtitle: The everchanging always confusing ruleset
 ---
 # Character Creation
 ## Kin
+Your Kin determines which Talents you begin play with. A number represents any talent of your choice.
 
-|      Kin      | Boon                                 | Bane              | Desc                                                                                                                                                                                                                                                                                                                                                  |
-| :-----------: | ------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Foulkn**   | Detect undead as chill               | -4 vs Mutation    | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
-| **Half-foot** | You may reroll any 1s                | Eat twice as much | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
-|   **Elves**   |                                      |                   | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
-|  **Dwarrow**  | Can identify the origin of any craft | Sink like a stone | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
+|    Kin    | Talent                         | Desc                                                                                                                                                                                                                                                                                                                                                  |
+| :-------: | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Foulkn   | +2                             | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
+| Half-foot | All Five, Magic Illness, +1    | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
+|   Elves   | Magic Resilience, Slow to Bond | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
+|  Dwarrow  | Strong, Steady, +1             | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
-## [Classes](https://heringtonpress.github.io/systems/olc/olc-classes/)
-Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities.
+#### Invent Your Own
+Select or create a talent or trait that is common to that species. It should be something that can’t be gained after character creation - like climbing claws, or the ability to breath under water. A talent that is genetic rather than a learned skill.
+## [Talents](https://heringtonpress.github.io/systems/olc/olc-talents/)
+Talents cost Talent Points(TP), most ranging from 1 to 2 points. You start with an amount of TP determined by your Kin. These can be spent on any talents you qualify for, do not feel restrained by the "Class" labels. 
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 ## Tongues
@@ -35,7 +38,7 @@ You know Common and one additional Language. You can also spend a Background poi
 
 You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. Items kept in QUICK-DRAW Slots may be retrieved freely in combat.
 Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
-## Hit Points, Grit, & Scars
+## Hit Points and Grit
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
 **Hit Points** represents physical damage. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't avoid, e.g., falling into lava goes straight to HP.
@@ -45,10 +48,10 @@ You have 6 HP and die when they have less HP then -your max HP.
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
-- Swap a Class Template. **200XP**
+- Exchange a Talent for TP. **200XP**
 - Increase your Max HP by 1 to a maximum of 10. **400XP**
 - Gain a new slot of inventory to a max of 14. **600XP**
-- Gain an additional Class Template. **800XP**
+- Gain an additional Talent Point. **800XP**
 
 # Resolving Actions
 ---
@@ -274,26 +277,33 @@ Some Modifiers that can diversify the locks are below:
 - SPIKED: Wrong actions deals d4 damage to the picker.
 
 ## Stealth
-Moving silently and unseen is a Save with a bonus equal to your empty slots and a penalty equal to the amount of armour filled slots.
+Moving silently and unseen is a Save with a bonus equal to your empty slots and a penalty equal to the amount of armor filled slots.
 
-When sneaking as a group everyone saves but only half of the group is required to succeed.
+When sneaking as a group one save is made with the penalty and bonuses averaged.
 ## Degeneration and Leaving the Dungeon
 Every time you leave the Dungeon, the biggest treasure pile in the dungeon loses around 20% of its value, stolen away by agents of the Underworld.
 
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
 # Fighting
 ---
-## Initiative
-Each round the GM describes what it appears the enemy is going to do. Save Cunning vs the largest enemy HD to act first.
-On your turn you may take two actions. Move Zones, attack, trip, fetch an item, or raise a shield. Get creative.
-## Attacking & Defending
-When attacking simply roll the weapons damage, dealing it to the enemy. If you attack multiple times you only deal the biggest damage. When being attacked you may Gamble your Armour Dice to avoid damage.
+## Hands
+All combat actions are broken up into 3 hands. Rock●, Paper□, and Scissors<. When fighting with an enemy you will each throw out an ability, comparing the hands to assess effectiveness. This respects the law of Rock● beats Paper□ beats Scissors< beats Rock●. With a tie being when 2 of the same hand are thrown.
+## Stances
+Actions are also divided between two Stances; Offensive† and Defensive‡. Offensive† is the typical Stance. It targets an enemy and defends from that same enemy. The Defensive‡ Stance targets only one enemy but defends from all.
 ## Zones
-There are 4 zones in a typical combat encounter. These are Forward↑ and Rearward↓ for allies and enemies. Ranged attacks can be volleyed from any Zone but melee is limited to Forward.
+There are 4 zones in a typical combat encounter. These are Forward↑ and Rearward↓ for allies and enemies. Certain combat actions are also divided into Forward and Rearward, meaning they can only be used while in those Zones. If an ability doesn't specify a zone it can be used in any⇵.
 ![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
-Combatants in Forward must target an enemy in Forward, while combatants in Rearward may target whoever they choose.
+Combatants in Forward are paired together with the most numerous group in Forward deciding the pairings. Leaving anyone left over to choose their own target. While combatants in Rearward may target whoever they choose.
 If a sides Forward is empty then everyone on that sides Rearward is considered to be Forward.
+## Basic Actions
+Everyone has access to the following Actions.
+- Attack (●□<) † ⇵
+	- Deal 4 damage on a win, or 2 on a tie.
+- Defend (●□<) ‡ ⇵
+	- Deal 2 damage on a win.
 
+## Conditions
+There are 3 Conditions Stoned, Folded, and Dulled. Each one is associated with a Hand. Stoned to Rock●, Folded to Paper□, and Dulled to Scissors<. While afflicted with one of these Conditions you cannot throw that respective Hand. Unless stated otherwise you recover from a condition after one round.
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
@@ -393,7 +403,7 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 | Seasoning (UD6) | 10  |
 
 ## Animals and Vehicles
-Do not concern yourself with feeding the animals.
+Do not concern yourself with feeding the animals daily.
 
 | Animals       | Tack | GP  |
 | ------------- |:----:|:---:|
@@ -425,18 +435,15 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to successful dama
 
 | Weapon | Bonus | Slots | Price |
 | ------ | ----- | ----- | ----- |
-| Light  | d6    | 3:1   | 5     |
-| Medium | d8    | 1     | 10    |
-| Heavy  | d10   | 2     | 15    |
+| Light  | 1     | 3:1   | 5     |
+| Medium | 2     | 1     | 10    |
+| Heavy  | 3     | 2     | 15    |
+
+#### Versatile Weapons
+Some weapons are Versatile meaning they have 2 Hand Tags. These weapons get half the bonus damage to each of their tags.
 
 ### Armour
-A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with a Kit during a Feast. 
+A slot of armour costs 30 GP and can be Chipped when taking damage to reduce the incoming damage by 4. Chipped armour may be repaired with a Kit during a Feast. 
 
 ### Shields
-Shields may be raised as an action, allowing you to Gamble with their Armour Dice.
-
-| Weapon | AD  | Slots | Price | Notes                    |
-| ------ | --- | ----- | ----- | ------------------------ |
-| Light  | d4  | 3:1   | 15    | Always considered raised |
-| Medium | d6  | 1     | 25    |                          |
-| Heavy  | d8  | 2     | 40    |                          |
+Shields allow you to defend against an attacker you are not targeting with an action. Shields cost 40 GP and must be assigned a Hand when Bought.
