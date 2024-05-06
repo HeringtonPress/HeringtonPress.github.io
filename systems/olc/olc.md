@@ -46,6 +46,7 @@ If you're HP is in the negatives but you're not dead, a character can use a Firs
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **200XP**
+- Gain a Background Point. **200XP**
 - Increase your Max HP by 1 to a maximum of 10. **400XP**
 - Gain a new slot of inventory to a max of 13. **600XP**
 - Gain an additional Class Template. **800XP**
@@ -165,12 +166,6 @@ To cast a spell you must have access to one, typically from a scroll or spellboo
 
 ### Spellbooks
 A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
-### Wands
-Wands are customized for rapid reuse. A wand has it's own pool of MD and can hold one spell. You can gamble these MD when you cast a spell with a wand, whether it is the stored spell or not. The Wands MD are always lost when gambled.
-
-You can choose to invest MD into the wand. You roll the MD and take damage equal to the result. The MD invested in the wand is permanently added to the wand's MD bank until spent. This process takes a dungeon turn.
-
-Most wands can only accept 4 banked MD and 1 spell. Larger wands, called staves, can hold up to 6 banked MD and up to 2 spells.
 ### Mishaps
 If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
 
@@ -215,7 +210,7 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 - **CONFRONT** an Omen or roll a new encounter.
 
-- **MAKE CAMP**. Watches taken in camps don’t roll Omens.
+- **MAKE CAMP**. New Omens rolled in camp are ignored.
 
 - **DELVE** Unless obviously more time is taken, Delving into and exiting a dungeon takes a Watch.
 
@@ -243,8 +238,6 @@ Additional details about the Underclock:
 - If the Underworld Clock equals 0 exactly, it resets to 3.
 - If the Underworld Clock equals 3, a Omen occurs.
 
-### Confront the Clock
-At any point while Delving a party can prepare for a coming encounter. Skip the Underclock to -1 and resolve everything as normal though the party gets the drop on the encounter.
 ## Resting
 While eating a ration is just a turn. Resting and cooking a feast takes some time.
 You’ll have to roll some Underclock Rolls.
@@ -256,10 +249,6 @@ You’ll have to roll some Underclock Rolls.
 Light sources state how many people they provide for. Without enough light for everyone, roll the Underclock die twice and keep the higher result. With no light at all the die size is also increased.
 
 Whenever the Underclock die rolls, roll the usage die of any light sources lit.
-## Doors
-Prying open a door is a -4 save, though this may increase if the door is heavy, large, and/or obstructed. Using a prybar gives a +4 to the save.
-
-You may also choose to break it down. This requires no save but rolls upwards of 3 Underclock dice.
 ## Locks
 Requires lockpicks and selecting the correct actions in order. These actions are TWIST, TAP, and TURN. Always 3 never 2 in a row. Upon selecting the wrong action, the lock will become stiff. If the lock was already stiff, the lock is jammed and becomes unable to unlock.
 
@@ -299,46 +288,51 @@ If the party agrees to retreat then bar dire circumstances they escape. Each cha
 
 # Equipment
 ---
+## Gear
 
-| Gear                 | Desc                              | GP  |
-| -------------------- | --------------------------------- | --- |
-| Armourer's Kit (UD8) | Can be used to fix chipped armour | 30  |
-| Air Bladder          | A large organic air-tight bag     | 5   |
-| Bucket               |                                   | 5   |
-| Caltrops             |                                   | 10  |
-| Chain (10ft)         |                                   | 10  |
-| Chalk                |                                   | 1   |
-| Crowbar              |                                   | 10  |
-| Drill                |                                   | 10  |
-| Fire Kit (3)         |                                   | 3   |
-| First Aid Kit (UD6)  |                                   | 25  |
-| Fishing Gear         |                                   | 10  |
-| Marbles              |                                   | 5   |
-| Glue                 |                                   | 5   |
-| Grapple Hook         |                                   | 25  |
-| Grease               |                                   | 10  |
-| Holy Symbol          |                                   | 25  |
-| Holy Water           |                                   | 25  |
-| Horn                 |                                   | 10  |
-| Hourglass            |                                   | 50  |
-| Ladder (slt/5ft)     |                                   | 5   |
-| Lens                 |                                   | 10  |
-| Lockpicks            |                                   | 25  |
-| Manacles             |                                   | 10  |
-| Metal File           |                                   | 5   |
-| Mirror               |                                   | 5   |
-| Net                  |                                   | 10  |
-| Oilskin Bag          |                                   | 5   |
-| Pulley               |                                   | 10  |
-| Pole (10ft)          |                                   | 2   |
-| Quill & Ink          |                                   | 10  |
-| Rope (40ft)          |                                   | 5   |
-| Sack                 |                                   | 1   |
-| Soap                 |                                   | 1   |
-| Spike (3)            |                                   | 3   |
-| Spyglass             |                                   | 40  |
-| Tar                  |                                   | 10  |
+| Gear             | Desc                                                                                                  | GP  |
+| ---------------- | ----------------------------------------------------------------------------------------------------- | --- |
+| Air Bladder      | A large organic air-tight bag                                                                         | 5   |
+| Bucket           | A sizeable bucket of wood or cheap metal                                                              | 5   |
+| Caltrops         | Small spikey objects                                                                                  | 10  |
+| Chain (10ft)     | Sturdy and stronger then rope                                                                         | 10  |
+| Chalk            | Useful for making notes and spotting invisibility                                                     | 1   |
+| Crowbar          | Can be used to help pry open things                                                                   | 10  |
+| Drill            | Can drill small holes relatively quietly                                                              | 10  |
+| Fire Kit (3)     | Kindling and wood for starting a fire                                                                 | 3   |
+| Fishing Gear     | A small rod and some hooks                                                                            | 10  |
+| Glue             | Jar of sticky, sets slowly                                                                            | 5   |
+| Grapple Hook     | Just the Hook, no rope or batteries included                                                          | 25  |
+| Grease           | Jar of Slippery, dries slowly                                                                         | 10  |
+| Holy Symbol      | Useful for prayer and warding off evil                                                                | 25  |
+| Holy Water       | Burns the unholy and can purify minor toxins                                                          | 25  |
+| Horn             | Loud! Can be used to scare off animals                                                                | 10  |
+| Hourglass        | Keep time better then saying Mississippi over and over                                                | 50  |
+| Ladder (slt/5ft) | No shame in needing some help getting up. Can be a bridge if it's sideways                            | 5   |
+| Manacles         | Makes keeping a prisoner a lot less stressful                                                         | 10  |
+| Marbles          | Small glass or metal balls                                                                            | 5   |
+| Metal File       | Metal bar begone                                                                                      | 5   |
+| Mirror           | Seeing around corners without taking an arrow to the head is nice                                     | 5   |
+| Mumble Stones    | These rocks wont shut up! Keeps insects and birds away, but may attract predators!                    | 10  |
+| Net              | A little big for fish but I'm sure that's not an issue                                                | 10  |
+| Oilskin Bag      | Much less fragile then a jar. Keep all your mystery liquids in it!                                    | 5   |
+| Pole (10ft)      | Be honest, you'll touch it with a 10ft pole                                                           | 2   |
+| Quill & Ink      | Good for calligraphy and note taking                                                                  | 10  |
+| Rope (40ft)      | Sturdy enough to hold a few of you up at once                                                         | 5   |
+| Sack             | Keep an angry fae in it if you dare                                                                   | 1   |
+| Scarecrow        | Keeps Crows from Crops and Zombies from tents!                                                        | 15  |
+| Soap             | You should wash yourself occasionally, please                                                         | 1   |
+| Spike (3)        | Metal pitons, think of all the things you can do with 'em! Useful for locking doors at the very least | 3   |
+| Spyglass         | See over yonder                                                                                       | 40  |
+| Tar              | Whether boiled or not this shit will not come out of your sweater                                     | 10  |
+| Wolfsbane (UD4)  | Burns Lycanthropes and repels wolves                                                                  | 5   |
+## Kits
 
+| Kits                 | Desc                                             | GP  |
+| -------------------- | ------------------------------------------------ | --- |
+| Armourer's Kit (UD8) | Can be used to fix chipped armour                | 30  |
+| First Aid Kit (UD6)  | Bandages and Poultices for helping the fucked up | 25  |
+| Lockpicks (UD6)      | Pick locks                                       | 25  |
 ## Light Sources
 Lanterns can be affixed to packs or belts to supply light hands free.
 
