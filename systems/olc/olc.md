@@ -54,7 +54,7 @@ Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 # Resolving Actions
 ---
 ## Saves
-When doing anything with an interesting or dangerous chance of failure you roll 2d6, trying to roll higher then 8. A task's difficulty will grant you a bonus or penalty to your roll.
+When doing anything with an interesting or dangerous chance of failure you roll 1d12, trying to roll higher then 8. A task's difficulty will grant you a bonus or penalty to your roll.
 ## Gambling and Dice Pools
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
 

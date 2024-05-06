@@ -25,6 +25,6 @@ subtitle: Not to be confused with a common pickpocket. You are an adventurer, a 
 
 **On Toes**: If you do not attack in a round, you roll a d4 as armor dice on any attacks against you that you are aware of.
 
-**Gambler's Luck**: Once per real life hour you may reroll any roll. This is roll not dice so on a save you can reroll the d12 and/or any dice gambled.
+**Gambler's Luck**: Once per real life hour you may reroll any roll. This is roll not dice so on a save you reroll the d12 and any dice gambled.
 
 **Deeper Pockets**: Gain an additional Quickdraw slot. This slot replaces a normal slot.
