@@ -288,6 +288,7 @@ If the party agrees to retreat then bar dire circumstances they escape. Each cha
 | Spyglass         | See over yonder                                                                                       | 40  |
 | Tar              | Whether boiled or not this shit will not come out of your sweater                                     | 10  |
 | Wolfsbane (UD4)  | Burns Lycanthropes and repels wolves                                                                  | 5   |
+
 ## Kits
 
 | Kits                 | Desc                                             | GP  |
@@ -295,6 +296,7 @@ If the party agrees to retreat then bar dire circumstances they escape. Each cha
 | Armourer's Kit (UD8) | Can be used to fix chipped armour                | 30  |
 | First Aid Kit (UD6)  | Bandages and Poultices for helping the fucked up | 25  |
 | Lockpicks (UD6)      | Pick locks                                       | 25  |
+
 ## Light Sources
 Lanterns can be affixed to packs or belts to supply light hands free.
 
@@ -355,6 +357,7 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to successful dama
 | Light  | d6    | 3:1   | 5     |
 | Medium | d8    | 1     | 10    |
 | Heavy  | d10   | 2     | 15    |
+
 ### Armour
 A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with a Kit during a Feast. 
 
