@@ -6,12 +6,12 @@ subtitle: The everchanging always confusing ruleset
 # Character Creation
 ## Kin
 
-|      Kin      | Boon                                 | Bane              | Desc                                                                                                                                                                                                                                                                                                                                                  |
-| :-----------: | ------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Foulkn**   | Detect undead as chill               | -4 vs Mutation    | The most numerous of the races. They are amongst the tallest Kin, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                   |
-| **Half-foot** | You may reroll any 1s                | Eat twice as much | Half-foots are a race of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance.                                                                            |
-|   **Elves**   |                                      |                   | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'. They are a long-lived race, typically living upto 400 years, but their birthrate is low, and their population is steadily declining.                                              |
-|  **Dwarrow**  | Can identify the origin of any craft | Sink like a stone | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
+|      Kin      | Boon                                 | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
+| :-----------: | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Foulkn**   | Detect undead as chill               | -2 vs Mutation                                   | The most numerous of the Kin they are also amongst the tallest, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                     |
+| **Half-foot** | You may reroll any 1s                | Eat twice as much                                | Half-foots are a Kin of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance often no taller than 3'3.                                                    |
+|   **Elves**   | Can sense magic by sight             | Can never have more then half your Bonds Charged | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'2. They are a long-lived race, typically living up to 400 years, but their birthrate is low, and their population is steadily declining.                                            |
+|  **Dwarrow**  | Can identify the origin of any craft | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 ## [Classes](https://heringtonpress.github.io/systems/olc/olc-classes/)
 Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities.
@@ -47,7 +47,7 @@ If you're HP is in the negatives but you're not dead, a character can use a Firs
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **200XP**
 - Increase your Max HP by 1 to a maximum of 10. **400XP**
-- Gain a new slot of inventory to a max of 14. **600XP**
+- Gain a new slot of inventory to a max of 13. **600XP**
 - Gain an additional Class Template. **800XP**
 
 # Resolving Actions
@@ -300,73 +300,44 @@ If the party agrees to retreat then bar dire circumstances they escape. Each cha
 # Equipment
 ---
 
-| Adventuring Gear    | Cost (gp) | Adventuring Gear | Cost (gp) |
-| ------------------- |:---------:| ---------------- |:---------:|
-| Armorer's Kit (UD8) |    30     | Ladder (slt/5ft) |     5     |
-| Air Bladder         |     5     | Lens             |    10     |
-| Bucket              |     5     | Lockpicks        |    25     |
-| Caltrops            |    10     | Manacles         |    10     |
-| Chain (10ft)        |    10     | Metal File       |     5     |
-| Chalk               |     1     | Mirror           |     5     |
-| Chisel              |     5     | Net              |    10     |
-| Crowbar             |    10     | Oilskin Bag      |     5     |
-| Drill               |    10     | Pulley           |    10     |
-| Fire Kit (3)        |     3     | Pole (10ft)      |     2     |
-| First Aid Kit (UD6) |    25     |                  |           |
-| Fishing Gear        |    10     | Quill & Ink      |    10     |
-| Marbles             |     5     | Rope (40ft)      |     5     |
-| Glue                |     5     | Saw              |     5     |
-| Grapple Hook        |    25     | Sack             |     1     |
-| Grease              |    10     | Soap             |     1     |
-| Hammer              |     2     | Spike (3)        |     1     |
-| Holy Symbol         |    25     | Sponge           |     5     |
-| Holy Water          |    25     | Spyglass         |    40     |
-| Horn                |    10     | Tar              |    10     |
-| Hourglass           |    50     | Tent (fits 2)    |    20     |
-
 | Gear                 | Desc                              | GP  |
 | -------------------- | --------------------------------- | --- |
 | Armourer's Kit (UD8) | Can be used to fix chipped armour | 30  |
 | Air Bladder          | A large organic air-tight bag     | 5   |
-| Bucket               |                                   |     |
-| Caltrops             |                                   |     |
-| Chain                |                                   |     |
-| Chalk                |                                   |     |
-|                      |                                   |     |
-| Crowbar              |                                   |     |
-| Drill                |                                   |     |
-| Fire Kit             |                                   |     |
-| First Aid Kit        |                                   |     |
-| Fishing Gear         |                                   |     |
-| Marbles              |                                   |     |
-| Glue                 |                                   |     |
-| Grapple Hook         |                                   |     |
-| Grease               |                                   |     |
-| Hammer               |                                   |     |
-| Holy Symbol          |                                   |     |
-| Holy Water           |                                   |     |
-| Horn                 |                                   |     |
-| Hourglass            |                                   |     |
-| Ladder (slt/5ft)     |                                   |     |
-| Lens                 |                                   |     |
-| Lockpicks            |                                   |     |
-| Manacles             |                                   |     |
-| Metal File           |                                   |     |
-| Mirror               |                                   |     |
-| Net                  |                                   |     |
-| Oilskin Bag          |                                   |     |
-| Pulley               |                                   |     |
-| Pole (10ft)          |                                   |     |
-| Quill & Ink          |                                   |     |
-| Rope (40ft)          |                                   |     |
-| Saw                  |                                   |     |
-| Sack                 |                                   |     |
-| Soap                 |                                   |     |
-| Spike (3)            |                                   |     |
-| Sponge               |                                   |     |
-| Spyglass             |                                   |     |
-| Tar                  |                                   |     |
-| Tent (fits 2)        |                                   |     |
+| Bucket               |                                   | 5   |
+| Caltrops             |                                   | 10  |
+| Chain (10ft)         |                                   | 10  |
+| Chalk                |                                   | 1   |
+| Crowbar              |                                   | 10  |
+| Drill                |                                   | 10  |
+| Fire Kit (3)         |                                   | 3   |
+| First Aid Kit (UD6)  |                                   | 25  |
+| Fishing Gear         |                                   | 10  |
+| Marbles              |                                   | 5   |
+| Glue                 |                                   | 5   |
+| Grapple Hook         |                                   | 25  |
+| Grease               |                                   | 10  |
+| Holy Symbol          |                                   | 25  |
+| Holy Water           |                                   | 25  |
+| Horn                 |                                   | 10  |
+| Hourglass            |                                   | 50  |
+| Ladder (slt/5ft)     |                                   | 5   |
+| Lens                 |                                   | 10  |
+| Lockpicks            |                                   | 25  |
+| Manacles             |                                   | 10  |
+| Metal File           |                                   | 5   |
+| Mirror               |                                   | 5   |
+| Net                  |                                   | 10  |
+| Oilskin Bag          |                                   | 5   |
+| Pulley               |                                   | 10  |
+| Pole (10ft)          |                                   | 2   |
+| Quill & Ink          |                                   | 10  |
+| Rope (40ft)          |                                   | 5   |
+| Sack                 |                                   | 1   |
+| Soap                 |                                   | 1   |
+| Spike (3)            |                                   | 3   |
+| Spyglass             |                                   | 40  |
+| Tar                  |                                   | 10  |
 
 ## Light Sources
 Lanterns can be affixed to packs or belts to supply light hands free.
@@ -375,7 +346,7 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 | -------------------------- |:---:|
 | Torch (Light for 3) (UD12) |  2  |
 | Lantern (Light for 2)      | 10  |
-| Oil Flask Oil Flask (UD12) |  5  |
+| Oil Flask (UD12)           |  5  |
 
 ## Cooking and Food
 
