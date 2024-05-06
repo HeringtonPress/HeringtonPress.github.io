@@ -38,6 +38,7 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 22  | You gain the heart of a giant. Grow to 9 feet tall, add 1d4 to all strength saves, +1 move, and armour must be custom made (2x cost). Other giants and giant wannabes will try to eat your heart.                                                        |
 | 23  | You create an exact duplicate of yourself. One grows older while the other grows younger. Both age at at the rate of 1 year per day. Your thoughts are joined, and if one dies so does the other.                                                        |
 | 24  | You have become Elemental. Create a **True Name** for yourself. Magical energies surround you at all times, and mundane attacks against you are impaired. If someone learns your **True Name**, they can control you. Other Elementals will come for you |
+
 # Spell List
 
 |     |                       |                                                                                                                                                                            |

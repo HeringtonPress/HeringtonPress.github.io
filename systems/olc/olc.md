@@ -356,7 +356,7 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to successful dama
 | ------ | ----- | ----- | ----- |
 | Light  | d6    | 3:1   | 5     |
 | Medium | d8    | 1     | 10    |
-| Heavy  | d10   | 2     | 15    |
+| Heavy  | 2d6   | 2     | 15    |
 
 ### Armour
 A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with a Kit during a Feast. 
