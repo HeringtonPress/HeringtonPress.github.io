@@ -45,7 +45,7 @@ You have 6 HP and die when they have less HP then -your max HP.
 If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
-- Swap a Class Template. **200XP**
+- Swap a Class Template. **100XP**
 - Gain a Background Point. **200XP**
 - Increase your Max HP by 1 to a maximum of 10. **400XP**
 - Gain a new slot of inventory to a max of 13. **600XP**
