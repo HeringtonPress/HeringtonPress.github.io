@@ -6,12 +6,12 @@ subtitle: The everchanging always confusing ruleset
 # Character Creation
 ## Kin
 
-|      Kin      | Boon                                 | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
-| :-----------: | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Foulkn**   | Detect undead as chill               | -2 vs Mutation                                   | The most numerous of the Kin they are also amongst the tallest, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                     |
-| **Half-foot** | You may reroll any 1s on a save      | Eat twice as much                                | Half-foots are a Kin of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance often no taller than 3'3.                                                    |
-|   **Elves**   | +2 to reactions upon meeting you     | Can never have more then half your Bonds Charged | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'2. They are a long-lived race, typically living up to 400 years, but their birthrate is low, and their population is steadily declining.                                            |
-|  **Dwarrow**  | Can identify the origin of any craft | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
+|      Kin      | Boon                                  | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
+| :-----------: | ------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Foulkn**   | Detect undead as chill                | -2 vs Mutation                                   | The most numerous of the Kin they are also amongst the tallest, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                     |
+| **Half-foot** | Re-roll a roll of 1 on a d12                                      | Half-foots are a Kin of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance often no taller than 3'3.                                                    |
+|   **Elves**   | Can glow like a candle if you have MD | Can never have more then half your Bonds Charged | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'2. They are a long-lived race, typically living up to 400 years, but their birthrate is low, and their population is steadily declining.                                            |
+|  **Dwarrow**  | Can identify the origin of any craft  | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 ## [Classes](https://heringtonpress.github.io/systems/olc/olc-classes/)
 Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities.
@@ -135,7 +135,7 @@ Use this Bond to represent someone you are in romantic relationship with. If the
 ## Master/Henchman
 When you have a managerial vs. subservient relationship with another party member, this is your Bond.
 - Masters charge this Bond when they give their henchman an agreed-upon payment or compensation.
-- Henchmen charge this Bond when they use 
+- Henchmen charge this Bond when they risk themselves to further their Master's goals. 
 
 ## Mentor/Mentee
 Whether a parent, parent-figure, or merely a leader, a mentor guides and shapes the life of a mentee.
@@ -158,6 +158,7 @@ You have a party member that you look out for. It's important they survive.
 
 # [Spells and Magic](https://heringtonpress.github.io/systems/olc/olc-spells/)
 ---
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll.
 # Exploring
 ---
 ## Watches
@@ -249,6 +250,19 @@ If a sides Forward is empty then everyone on that sides Rearward is considered t
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
+# Downtime
+---
+For every week spent in civilization you get one Downtime. Downtime can be spent to progress larger goals. When Spending Downtime, you specify what action you are taking. Most activities require progress to be tracked in some way using the following procedure.
+
+First, the GM will set a tracker for the number of successes an activity requires. This represents the overall complexity or scale of the task.
+
+You may then use your Downtime to attempt to make progress on this activity. Describe an adequate method of accomplishing this activity. If you do not have the necessary resources required to engage in such an activity, whether it be money or some other such resource (for example, if attempting to set up a drug trade, you would need prior access to a reliable source of drugs), you cannot attempt the action.
+
+When you attempt to make progress on an activity with Downtime, you roll 2d6, plus any appropriate situational modifiers, whether they be positive (expenditure of extra resources, clever method or approach, character skill) or negative (unreliable resources or otherwise poor fictional positioning). Situational modifiers should not exceed in total +/-3.
+- A roll of 10+ means that the errant is successful in their activity, and may mark one success on the tracker.
+- A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time the errant attempts this activity, it will automatically succeed.
+- A roll of 6 or lower indicates that the errant was unsuccessful in their endeavour, and no progress is made.
+
 # Equipment
 ---
 ## Gear
@@ -308,12 +322,12 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 
 ## Cooking and Food
 
-| Provisions | En | Mi | Vi | Pr | Port | GP |
-| ---- | :--: | :--: | :--: | :--: | :--: | :--: |
-| Rations (3) | X | X | X | X | X | 6 |
-| Cheese (3) | 2 | 0.5 | 0.5 | 1 | 1 | 20 |
-| Dried Fruit (3) | 0.4 | 1 | 1 | 0 | 0 | 12 |
-| Lard | 0.5 | 0.4 | 0.4 | 0.4 | 3 | 1 |
+| Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
+| --------------- | :-: | :-: | :-: | :-: | :--: | :-: |
+| Rations (3)     |  X  |  X  |  X  |  X  |  X   |  6  |
+| Cheese (3)      |  2  | 0.5 | 0.5 |  1  |  1   | 21  |
+| Dried Fruit (3) | 0.4 |  1  |  1  |  0  |  0   | 12  |
+| Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  3   |  1  |
 
 | Cooking         | GP  |
 | --------------- |:---:|
@@ -368,4 +382,4 @@ Shields may be raised as an action, allowing you to Gamble with their Armour Dic
 | ------ | --- | ----- | ----- | ------------------------ |
 | Light  | d4  | 3:1   | 15    | Always considered raised |
 | Medium | d6  | 1     | 25    |                          |
-| Heavy  | d8  | 2     | 40    |                          |
+| Heavy  | 2d6 | 2     | 40    |                          |

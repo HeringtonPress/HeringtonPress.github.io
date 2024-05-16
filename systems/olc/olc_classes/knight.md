@@ -11,7 +11,7 @@ subtitle: You are a Knight of the Emperor. You shield is not your own, your armo
 - **A:** Shield Master, Vows
 - **B:** Bodyguard, Fearless
 - **C:** Second Wind
-- **D:** Aura of Courage, 
+- **D:** Aura of Courage, Of the Emperor
 
 **Shield Master**: When you Gamble your Shield Dice it is only lost on the highest result. Additionally you may attack with your shield dealing a d4 damage.
 

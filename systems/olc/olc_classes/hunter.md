@@ -5,16 +5,16 @@ subtitle:
 ---
 >Inspired by CoinsandScrolls' [Hunter](https://coinsandscrolls.blogspot.com/2018/06/osr-iron-gates-merchants-hunters-and.html) class.
 
-**Starting Equipment**: Bow, Arrows (ud12), light armor, 3 rations.
+**Starting Equipment**: Bow, Arrows (ud10), light armor, 3 rations.
 
 - **A:** Wilderness Sense, Stealthy Approach
 - **B:** Danger Sense, Taste of Home
 - **C:** Die Hard, Reckless Swing
 - **D:** Tough
 
-**Wilderness Sense:** When the GM Rolls an Omen for the second time, triggering an encounter. You can Gamble a Brain Die to have seen this coming. You get to go as if You got the drop on the Encounter but everyone else resolves neutrally.
+**Wilderness Sense:** When the GM Rolls an Omen for the second time, triggering an encounter. You can Gamble a Brain Die to have seen this coming. You get to go as if You got the drop on the Encounter but everyone else resolves normally.
 
-**Stealth Approach**: Gain a bonus to any Stealth Saves equal to your Templates.
+**Stealthy Approach**: Gain a bonus to any Stealth Saves equal to your Templates.
 
 **Crippling Shot:** If you hit an enemy with your bow, you can choose to deal 1 damage instead of rolling for damage. The next attack made by the enemy deals 1/2 normal damage.
 

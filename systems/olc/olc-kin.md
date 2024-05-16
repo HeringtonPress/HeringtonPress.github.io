@@ -11,7 +11,7 @@ title: OLC Kin
 |  3-4  | Halfling  | Re-roll a roll of 1 on a d12                   | Eat twice as much            |
 |  5-7  | Foulkn    | Detect undead as a chill                       | -2 vs mutations              |
 |  8-9  | Orc       | Add level to healing                           | Hated by the Authority       |
-| 10-11 | Dwarrow   | Start with Wrote known                         | Sink like a stone            |
+| 10-11 | Dwarrow   | Can identify the origin of any craft           | Sink like a stone            |
 |  12   | Beastfolk | -                                              | -                            |
 
 ## Beast Folk
