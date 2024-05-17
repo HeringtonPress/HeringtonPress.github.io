@@ -263,6 +263,19 @@ When you attempt to make progress on an activity with Downtime, you roll 2d6, pl
 - A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time the errant attempts this activity, it will automatically succeed.
 - A roll of 6 or lower indicates that the errant was unsuccessful in their endeavour, and no progress is made.
 
+# Hirelings & Followers
+---
+You may seek to add to your ranks in order to have an easier time adventuring. You can do this in one of two ways. Hire help or by Attracting Followers.
+
+Hireling typically require a daily rate and/or either a large upfront or a promised share of the treasure. While followers typically have a more unique circumstance for their service, such as following you because they believe you are divine or to squire under you.
+
+Either way a helpful NPC is handled the same way. Typically "run" by the player in charge of them, with the GM intervening when they are acting out of character or more commonly need some more convincing to pull that lever.
+
+NPCs have 4 free slots after carrying all their essential gear and 4 Attributes: Magic, Brain, Brawn, and Grit which are represented by dice of varying sizes.
+
+Whenever a PC is making a save an NPC in the party can add the relevant Attributes Die to the Save. Doing so involves them in any risk and additionally the Die degrades like a UD when it would be lost.
+
+Grit however, useless for Saves, can be used like Armour Dice for the person in charge of the NPC. Degrading when it would Chip and dying once the d4 is lost. If the NPC takes any damage directly, roll their Grit, degrading it if it is below the incoming damage.
 # Equipment
 ---
 ## Gear

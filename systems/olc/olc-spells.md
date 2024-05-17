@@ -47,7 +47,7 @@ If you roll a series while casting a spell, such as two 2s or four 5s, compare t
 | 2   | **Anchor**            | A strong wire sprouts from your arms, affixing itself to [dice] points within 50ft on each side.                                                                           |
 | 3   | **Animate Object**    | [dice] objects obeys your commands as best it can. It can walk 15ft per round.                                                                                             |
 | 4   | **Anthropomorphize**  | A touched animal either gains human intelligence or human appearance for [sum] days.                                                                                       |
-| 5   | **Arcane Eye**        | You can see through a magical floating eyeball that flies around at your command.                                                                                          |
+| 5   | **Arcane Eye**        | You can see through a magical floating eyeball that flies around at your command. Magic die as UD, rolling when a torch would.                                             |
 | 6   | **Astral Prison**     | [dice] objects are frozen in time and space within an invulnerable crystal shell.                                                                                          |
 | 7   | **Attract**           | [sum]+1 objects are strongly magnetically attracted to each other if they come within 10 feet.                                                                             |
 | 8   | **Auditory Illusion** | You create illusory sounds that seem to come from a direction of your choice.                                                                                              |

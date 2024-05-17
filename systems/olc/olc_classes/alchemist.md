@@ -14,16 +14,16 @@ subtitle: You are mad. Genius but foolish. Perhaps even more obsessive then any 
 
 One extract can be used to make a brew. 6 can be used to learn a new brew with a month's time. Extracts don’t take up inventory slots as long as you have a miniature lab. Brews are a light item.
 
-You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on a target within 5’. A Brew lasts 10 minutes unless stated otherwise or obviously instantaneous.
+You can only make brews that you know the recipe for. It takes 10 minutes to make a brew. Brews with the throwable tag can be thrown 30’ and and all brews can be consumed or splashed on a target within 5’. A Brew lasts 10 minutes unless stated otherwise or is obviously instantaneous.
 
-**Bombs**: In addition to three starting brews, you also know how to make Bombs. Made the same way as brews, bombs are also light. Throwable up to 30’. Bomb damage ignores armor but not shields. Different extracts have different effects in a 5’ radius (2x2 squares).
-- **Blue**: 2d4 damage, on max damage roll targets killed reanimate as mindless killers.
-- **Red**: deals 1d6, targets killed explode for 1d4.
-- **Green**: deals 1d6 damage, targets killed are transmuted into movement-blocking, writhing vines.
+**Bombs**: In addition to three starting brews, you also know how to make Bombs. Made the same way as brews, bombs are also light. Throwable up to 30’. Bomb damage ignores armor but not shields. Different extracts have different effects.
+- **Blue**: 2d4 damage, on max damage roll target is under your control for 2 rounds.
+- **Red**: deals 1d6 to 2 enemies in the same zone, targets killed explode for 1d4 hitting all in that zone (Including allies in forward).
+- **Green**: deals 1d8 damage, and the target is immobilized by sprouting vines for one round.
 
 **Antidotes**: You are an expert in antidotes. You can turn any brew into an antidote to itself, which automatically stops ongoing effects. This does not apply to most brews that have instant effects. 
 
-**Chug**: Through uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action per round.
+**Chug**: Through uncomfortable route practice you can drink faster than most people, especially thick and vile brews. You can consume a single brew as a free action once per round.
 
 **Explosive Infusion**: You can combine your bombs and brews together. When a brew-infused bomb explodes, its effects apply to the targets. You can choose whether the brew-bomb deals damage on its creation.
 
