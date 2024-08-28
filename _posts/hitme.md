@@ -2,8 +2,6 @@
 layout: post
 title: "New (Year's) Resolution: Hit Me"
 tags:
-  - NewYearsResolution
-  - Mechanics
 author: Kaleb Herington
 ---
 
