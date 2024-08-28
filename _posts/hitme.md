@@ -6,6 +6,7 @@ tags:
   - Mechanics
 author: Kaleb Herington
 ---
+
 Prismatic Wasteland has issued a very inspiring [challenge](https://www.blogger.com/#) and boy do I love reinventing the wheel.
 
 > **“I issue a challenge to YOU and ye to all bloggers!** In the dawning light of 2024, you must come up with a New Year’s Resolution. But I’m not talking about your typical forbearance from vices or oaths to lift weights. I’m talking something way more important: Resolution Mechanics.”
