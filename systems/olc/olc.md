@@ -33,7 +33,7 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 10 Slots
+You begin play with 10 Slots. When you attempt to fetch an item you roll 2d6, if the result is lower then the slot the item is in it takes an additional action to finish fetching it.
 ## Hit Points, Grit, & Scars
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
