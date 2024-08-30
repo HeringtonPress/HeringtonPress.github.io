@@ -33,8 +33,7 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 10 Slots and 2 additional QUICK-DRAW Slots. Items kept in QUICK-DRAW Slots may be retrieved freely in combat.
-Small Items kept in a slot alone can be drawn as if in a QUICK-DRAW Slot.
+You begin play with 10 Slots
 ## Hit Points, Grit, & Scars
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
@@ -58,7 +57,7 @@ When doing anything with an interesting or dangerous chance of failure you roll 
 ## Gambling and Dice Pools
 To gamble dice decide the size of the pool and then roll all of them, losing any dice that show the highest 2 results of that die.
 
-An important note when it comes to you pools is that whenever you would gain dice into a pool it replaces the current dice in said pool.
+If the gambled dice are Usage Dice (UD) however they instead shrink to the next smallest die, only being lost after a d4.
 ## Bidding Lore
 Information and lore are categorised into 3 levels of obscurity.
 
@@ -82,7 +81,7 @@ In addition, you must fulfill 3 of the following 4 criteria:
 
 A feast must be prepared and then immediately consumed. No leftovers.
 
-Each creature eaten provides a number of portions. Two rat yields about one portion. A minotaur yields about eight. A dragon could feast upwards of fifty adventurers.   
+Each creature eaten provides a number of portions. Two rat yields about one portion. A minotaur yields about eight. A dragon could feed upwards of fifty adventurers.   
 
 The GM adds together any nutritional benefits from the unique ingredients used to make a feast and tell the players the totals for each nutrient (see below). Decimals are rounded as God intended and Nutrients can't be higher the 5. Players then select 2 nutrients to benefit from this meal, gaining an amount of dice equal to it's respective value.
 ## Nutrients
@@ -114,7 +113,7 @@ The relationships you have with all the other members of your party are called B
 
 Your Bonds become charged when you Fulfill them, exemplifying the relationship the Bond represents. Basic suggestions for this role-play are given in the descriptions of the example Bonds below. Though the GM can call for a Bond to be Charged by other examples of excellent role-playing, including but not limited to risking ones well being for their Bond. 
 
-A charged bond can be spent to gain a d6 in the attribute you assigned it at creation; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
+A charged bond can be spent to roll a d6 of the attribute you assigned it at creation; Grit, Magic, Brawn, or Brain. Alternatively you can spend a charged bond to heal 2 HP during a Feast. 
 
 ## Ally
 Your allies are party members that you are professional and amiable with. This is the default Bond.
@@ -170,7 +169,7 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 
 - **SEARCH** a hex. 2-6 chance for each hidden feature of the Hex. 4-6 with directions.
 
-- **SCOUT** the area. Spend a watch patrolling the borders of a Hex seeing the terrain of neighboring hexes.
+- **SCOUT** the area. Spend a watch patrolling the borders of a Hex seeing the terrain and landmarks of neighboring hexes.
 
 - **CONFRONT** an Omen or roll a new encounter.
 
@@ -246,22 +245,21 @@ There are 4 zones in a typical combat encounter. These are Forward↑ and Rearwa
 ![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
 Combatants in Forward must target an enemy in Forward, while combatants in Rearward may target whoever they choose.
 If a sides Forward is empty then everyone on that sides Rearward is considered to be Forward.
-
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
 # Downtime
 ---
-For every week spent in civilization you get one Downtime. Downtime can be spent to progress larger goals. When Spending Downtime, you specify what action you are taking. Most activities require progress to be tracked in some way using the following procedure.
+Every time you finish a session of play you get one Downtime. Downtime can be spent to progress larger goals. When Spending Downtime, you specify what action you are taking. Most activities require progress to be tracked in some way using the following procedure.
 
 First, the GM will set a tracker for the number of successes an activity requires. This represents the overall complexity or scale of the task.
 
 You may then use your Downtime to attempt to make progress on this activity. Describe an adequate method of accomplishing this activity. If you do not have the necessary resources required to engage in such an activity, whether it be money or some other such resource (for example, if attempting to set up a drug trade, you would need prior access to a reliable source of drugs), you cannot attempt the action.
 
 When you attempt to make progress on an activity with Downtime, you roll 2d6, plus any appropriate situational modifiers, whether they be positive (expenditure of extra resources, clever method or approach, character skill) or negative (unreliable resources or otherwise poor fictional positioning). Situational modifiers should not exceed in total +/-3.
-- A roll of 10+ means that the errant is successful in their activity, and may mark one success on the tracker.
-- A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time the errant attempts this activity, it will automatically succeed.
-- A roll of 6 or lower indicates that the errant was unsuccessful in their endeavour, and no progress is made.
+- A roll of 10+ means that you are successful in your activity, and may mark one success on the tracker.
+- A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time you attempt this activity, it will automatically succeed.
+- A roll of 6 or lower indicates that you were unsuccessful in your endeavour, and no progress is made.
 
 # Hirelings & Followers
 ---
@@ -309,14 +307,15 @@ Grit however, useless for Saves, can be used like Armour Dice for the person in 
 | Quill & Ink      | Good for calligraphy and note taking                                                                  | 10  |
 | Rope (40ft)      | Sturdy enough to hold a few of you up at once                                                         | 5   |
 | Sack             | Keep an angry fae in it if you dare                                                                   | 1   |
-| Scarecrow        | Keeps Crows from Crops and Zombies from tents!                                                        | 15  |
+| Scarecrow        | Keeps Crows from Crops and Zombies from camps!                                                        | 15  |
 | Soap             | You should wash yourself occasionally, please                                                         | 1   |
 | Spike (3)        | Metal pitons, think of all the things you can do with 'em! Useful for locking doors at the very least | 3   |
 | Spyglass         | See over yonder                                                                                       | 40  |
 | Tar              | Whether boiled or not this shit will not come out of your sweater                                     | 10  |
 | Wolfsbane (UD4)  | Burns Lycanthropes and repels wolves                                                                  | 5   |
 
-## Kits
+---
+## Toolkits
 
 | Kits                 | Desc                                             | GP  |
 | -------------------- | ------------------------------------------------ | --- |
@@ -324,6 +323,7 @@ Grit however, useless for Saves, can be used like Armour Dice for the person in 
 | First Aid Kit (UD6)  | Bandages and Poultices for helping the fucked up | 25  |
 | Lockpicks (UD6)      | Pick locks                                       | 25  |
 
+---
 ## Light Sources
 Lanterns can be affixed to packs or belts to supply light hands free.
 
@@ -333,6 +333,7 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 | Lantern (Light for 2)      | 10  |
 | Oil Flask (UD12)           |  5  |
 
+---
 ## Cooking and Food
 
 | Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
@@ -348,6 +349,7 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 | Fire Kit (3)        |  3  |
 | Seasoning (UD6) | 10  |
 
+---
 ## Animals and Vehicles
 Do not concern yourself with feeding the animals.
 
@@ -375,6 +377,7 @@ Do not concern yourself with feeding the animals.
 | Cart (14)  |  3   | 100 |
 | Wagon (24) |  6   | 200 |
 
+---
 ## Weapons and Armour
 ### Weapons
 Weapons are divided into the 3 Hands. Giving a bonus as noted to successful damaging actions that use that Hand. The GM will know what Hand a weapon will have.
@@ -387,7 +390,6 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to successful dama
 
 ### Armour
 A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with a Kit during a Feast. 
-
 ### Shields
 Shields may be raised as an action, allowing you to Gamble with their Armour Dice.
 
