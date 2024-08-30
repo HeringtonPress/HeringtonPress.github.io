@@ -17,3 +17,4 @@ beautiful-jekyll-theme-*.gem
 .obsidian/core-plugins-migration.json
 .obsidian/workspace.json
 /z_Silveraxe
+assets/css/beautifuljekyll.css
