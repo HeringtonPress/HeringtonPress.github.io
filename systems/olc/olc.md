@@ -230,10 +230,6 @@ Some Modifiers that can diversify the locks are below:
 Moving silently and unseen is a Save with a bonus equal to your empty slots and a penalty equal to the amount of armour filled slots.
 
 When sneaking as a group everyone saves but only half of the group is required to succeed.
-## Degeneration and Leaving the Dungeon
-Every time you leave the Dungeon, the biggest treasure pile in the dungeon loses around 20% of its value, stolen away by agents of the Underworld.
-
-The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
 
 ---
 # Fighting
@@ -268,8 +264,6 @@ When you attempt to make progress on an activity with Downtime, you roll 2d6, pl
 ---
 # Hirelings & Followers
 ---
-You may seek to add to your ranks in order to have an easier time adventuring. You can do this in one of two ways. Hire help or by Attracting Followers.
-
 Hireling typically require a daily rate and/or either a large upfront or a promised share of the treasure. While followers typically have a more unique circumstance for their service, such as following you because they believe you are divine or to squire under you.
 
 Either way a helpful NPC is handled the same way. Typically "run" by the player in charge of them, with the GM intervening when they are acting out of character or more commonly need some more convincing to pull that lever.
@@ -278,7 +272,7 @@ NPCs have 4 free slots after carrying all their essential gear and 4 Attributes:
 
 Whenever a PC is making a save an NPC in the party can add the relevant Attributes Die to the Save. Doing so involves them in any risk and additionally the Die degrades like a UD when it would be lost.
 
-Grit however, useless for Saves, can be used like Armour Dice for the person in charge of the NPC. Degrading when it would Chip and dying once the d4 is lost. If the NPC takes any damage directly, roll their Grit, degrading it if it is below the incoming damage.
+Grit however, useless for Saves, can be used like Armour Dice for the person in charge of the NPC. Degrading when it would Chip and dying once the d4 is lost.
 
 ---
 # Equipment
