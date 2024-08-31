@@ -3,6 +3,7 @@ layout: page
 title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
+---
 # Character Creation
 ---
 ## Kin
@@ -51,6 +52,7 @@ Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Gain a new slot of inventory to a max of 13. **600XP**
 - Gain an additional Class Template. **800XP**
 
+---
 # Resolving Actions
 ---
 ## Saves
@@ -66,6 +68,7 @@ Information and lore are categorised into 3 levels of obscurity.
 - **Rare Lore**: Few know this. You must have an applicable background and must roll a Brain Die as if you gambled it. Regardless of the result you know the information.
 - **Lost Lore**: None know this. You roll a Save and must Gamble at least 1 Brain Die. On a success you know where to learn more information about this.
 
+---
 # Cooking Feasts
 ---
 A **feast** is a moment of actual rest in the middle of hostile and hungry darkness. Depending on the make up of the feast, characters might gain Grit, Magic, Brain, or Brawn Dice.
@@ -98,6 +101,8 @@ Food Dice (FD) are either d4s, d6s or d8s. 
 
 ### Rations & Meals in Town
 Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10gp to gain 4d4 spread how you like. 
+
+---
 # Bonds
 ---
 The relationships you have with all the other members of your party are called Bonds. Bonds are noted on your Character Sheet: "I am Calryn's Lover - Brain".
@@ -146,9 +151,12 @@ You have a party member that you look out for. It's important they survive.
 - Guards charge this Bond when their Ward makes it out of lethal danger without taking damage.
 - Wards charge this Bond when they get into lethal danger.
 
+---
 # [Spells and Magic](https://heringtonpress.github.io/systems/olc/olc-spells/)
 ---
 To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll.
+
+---
 # Exploring
 ---
 ## Watches
@@ -174,6 +182,8 @@ Easy = 0 | Neutral = 1 | Difficult = 2 | Treacherous = 3
 Riding a mount or vehicle reduces all Stress received from travel by 1.
 
 Vehicles moving through Difficult or worse terrain have a 1-6 chance of breaking, which requires a Watch to fix.
+
+---
 # Delving
 ---
 ## The Underclock
@@ -224,6 +234,8 @@ When sneaking as a group everyone saves but only half of the group is required t
 Every time you leave the Dungeon, the biggest treasure pile in the dungeon loses around 20% of its value, stolen away by agents of the Underworld.
 
 The exception to this is if you have a camp setup outside the dungeon you may make a pitstop. Roll the Dungeon die once when exciting and again when re-entering though these rolls may never lower the clock beyond 3.
+
+---
 # Fighting
 ---
 ## Initiative
@@ -239,6 +251,7 @@ If a sides Forward is empty then everyone on that sides Rearward is considered t
 ## Fleeing
 If the party agrees to retreat then bar dire circumstances they escape. Each character that escaped gains 2d3 Stress. Any items dropped in the pursuit are lost to the dungeon. Fleeing in this way leaves any fallen or captured ally behind, unless you are holding the fallen and have the slots to do so. The average human is 6 Slots and dragging allows you to ignore their encumbrance.
 
+---
 # Downtime
 ---
 Every time you finish a session of play you get one Downtime. Downtime can be spent to progress larger goals. When Spending Downtime, you specify what action you are taking. Most activities require progress to be tracked in some way using the following procedure.
@@ -252,6 +265,7 @@ When you attempt to make progress on an activity with Downtime, you roll 2d6, pl
 - A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time you attempt this activity, it will automatically succeed.
 - A roll of 6 or lower indicates that you were unsuccessful in your endeavour, and no progress is made.
 
+---
 # Hirelings & Followers
 ---
 You may seek to add to your ranks in order to have an easier time adventuring. You can do this in one of two ways. Hire help or by Attracting Followers.
@@ -265,6 +279,7 @@ NPCs have 4 free slots after carrying all their essential gear and 4 Attributes:
 Whenever a PC is making a save an NPC in the party can add the relevant Attributes Die to the Save. Doing so involves them in any risk and additionally the Die degrades like a UD when it would be lost.
 
 Grit however, useless for Saves, can be used like Armour Dice for the person in charge of the NPC. Degrading when it would Chip and dying once the d4 is lost. If the NPC takes any damage directly, roll their Grit, degrading it if it is below the incoming damage.
+---
 # Equipment
 ---
 ## Gear
