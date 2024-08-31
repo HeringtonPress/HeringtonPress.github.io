@@ -279,6 +279,7 @@ NPCs have 4 free slots after carrying all their essential gear and 4 Attributes:
 Whenever a PC is making a save an NPC in the party can add the relevant Attributes Die to the Save. Doing so involves them in any risk and additionally the Die degrades like a UD when it would be lost.
 
 Grit however, useless for Saves, can be used like Armour Dice for the person in charge of the NPC. Degrading when it would Chip and dying once the d4 is lost. If the NPC takes any damage directly, roll their Grit, degrading it if it is below the incoming damage.
+
 ---
 # Equipment
 ---
