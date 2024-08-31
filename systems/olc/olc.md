@@ -4,6 +4,7 @@ title: One Last Coin
 subtitle: The everchanging always confusing ruleset 
 ---
 # Character Creation
+---
 ## Kin
 
 |      Kin      | Boon                                  | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
@@ -79,8 +80,6 @@ In addition, you must fulfill 3 of the following 4 criteria:
 - Cooking gear
 - Spices
 
-A feast must be prepared and then immediately consumed. No leftovers.
-
 Each creature eaten provides a number of portions. Two rat yields about one portion. A minotaur yields about eight. A dragon could feed upwards of fifty adventurers.   
 
 The GM adds together any nutritional benefits from the unique ingredients used to make a feast and tell the players the totals for each nutrient (see below). Decimals are rounded as God intended and Nutrients can't be higher the 5. Players then select 2 nutrients to benefit from this meal, gaining an amount of dice equal to it's respective value.
@@ -91,21 +90,13 @@ Each feast has four stats, called **Nutrients.** 
 - **Vitamins** are good for your brain. This nutrient reinforces a character with Brain Dice. 
 - **Protein** builds strong bones and muscles. This nutrient reinforces a character with Brawn Dice.
 
-### Food Dice
+## Food Dice
 Food Dice (FD) are either d4s, d6s or d8s. 
 - If the feast contained **mundane** animals or plants, the Food Dice are equal to d4s. 
 - If the feast contained majority **exotic** ingredients, the Food Dice are equal to d6s. 
-- If the feast contained extraordinarily **magical** ingredients, like a dragon or an angel, the Food Dice are equal to d8s. 
+- If the feast contained extraordinarily **magical** ingredients, like a dragon or an angel, the Food Dice are equal to d8s.
 
-### Energy
-**If the players benefit from energy:** After the feast, characters roll as many FD as the feast's energy rank. The character's current Grit score is immediately replaced with the new total, if it is higher. 
-### Minerals
-**If the players benefit from minerals:** They gain magic dice (MD) of the same die type and number as the feast's mineral rank. A character can hold a maximum amount of magic dice equal to their number of Templates. These MD are held until spent and expended through casting spells.
-### Vitamins
-**If the players benefit from vitamins:** They gain Brain Dice of the same die type and number as the feast's Vitamin rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly mental Save.
-### Proteins
-**If the players benefit from proteins:** They gain Brawn Dice of the same die type and number as the feast's Protein rank. This pool replaces the current pool. These Dice can be Gambled when making a predominantly physical Save.
-## Rations & Meals in Town
+### Rations & Meals in Town
 Eating a ration grants 1d4 in any one nutrient. Before an adventure or when resting in civilization you can spend 10gp to gain 4d4 spread how you like. 
 # Bonds
 ---
@@ -309,7 +300,7 @@ Grit however, useless for Saves, can be used like Armour Dice for the person in 
 | Sack             | Keep an angry fae in it if you dare                                                                   | 1   |
 | Scarecrow        | Keeps Crows from Crops and Zombies from camps!                                                        | 15  |
 | Soap             | You should wash yourself occasionally, please                                                         | 1   |
-| Spike (3)        | Metal pitons, think of all the things you can do with 'em! Useful for locking doors at the very least | 3   |
+| Spike (s)        | Metal pitons, think of all the things you can do with 'em! Useful for locking doors at the very least | 1   |
 | Spyglass         | See over yonder                                                                                       | 40  |
 | Tar              | Whether boiled or not this shit will not come out of your sweater                                     | 10  |
 | Wolfsbane (UD4)  | Burns Lycanthropes and repels wolves                                                                  | 5   |
@@ -338,15 +329,15 @@ Lanterns can be affixed to packs or belts to supply light hands free.
 
 | Provisions      | En  | Mi  | Vi  | Pr  | Port | GP  |
 | --------------- | :-: | :-: | :-: | :-: | :--: | :-: |
-| Rations (3)     |  X  |  X  |  X  |  X  |  X   |  6  |
-| Cheese (3)      |  2  | 0.5 | 0.5 |  1  |  1   | 21  |
-| Dried Fruit (3) | 0.4 |  1  |  1  |  0  |  0   | 12  |
+| Rations (s)     |  X  |  X  |  X  |  X  |  X   |  2  |
+| Cheese (s)      |  2  | 0.5 | 0.5 |  1  |  1   |  7  |
+| Dried Fruit (s) | 0.4 |  1  |  1  |  0  |  0   |  4  |
 | Lard            | 0.5 | 0.4 | 0.4 | 0.4 |  3   |  1  |
 
 | Cooking         | GP  |
-| --------------- |:---:|
+| --------------- | :-: |
 | Cook Pot        | 10  |
-| Fire Kit (3)        |  3  |
+| Fire Kit (s)    |  1  |
 | Seasoning (UD6) | 10  |
 
 ---
