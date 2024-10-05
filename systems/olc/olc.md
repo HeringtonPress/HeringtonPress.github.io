@@ -20,7 +20,7 @@ Classes define what you are good at. What distinguishes you as an adventurer. Se
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
 
-The More evocative or flavourful the background the better. below is a list of simple examples.
+The more evocative or flavourful the background the better. below is a list of simple examples.
 
 | 1   | Alchemist  | 6   | Cleric      | 11  | Magician  | 16  | Performer  |
 | 2   | Blacksmith | 7   | Gambler     | 12  | Mercenary | 17  | Pickpocket |
