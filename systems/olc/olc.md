@@ -16,9 +16,11 @@ subtitle: The everchanging always confusing ruleset
 |  **Dwarrow**  | Can identify the origin of any craft  | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 ## [Classes](https://heringtonpress.github.io/systems/olc/olc-classes/)
-Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities.
+Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities. You can only ever have 4 Templates (#).
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
+
+The More evocative or flavourful the background the better. below is a list of simple examples.
 
 | 1   | Alchemist  | 6   | Cleric      | 11  | Magician  | 16  | Performer  |
 | 2   | Blacksmith | 7   | Gambler     | 12  | Mercenary | 17  | Pickpocket |
@@ -48,14 +50,14 @@ You begin play with 10 Slots. When you attempt to fetch an item you roll 2d6, if
 
 **Hit Points** represents physical damage. You take HP damage after you've used up all your Grit--or take damage in such a way that you can't avoid, e.g., falling into lava goes straight to HP.
 
-You have 6 HP and die when they have less HP then -your max HP.
+You have 4 HP and die when they have less HP then -your max HP.
 
 If you're HP is below 0, but you're not dead, a character can use a First Aid Kit to heal you to 1 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **100XP**
 - Gain a Background Point. **200XP**
-- Increase your Max HP by 1 to a maximum of 10. **400XP**
+- Increase your Max HP by 1 to a maximum of 8. **400XP**
 - Gain a new slot of inventory to a max of 13. **600XP**
 - Gain an additional Class Template. **800XP**
 

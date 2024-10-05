@@ -28,26 +28,27 @@ subtitle: Identified by your Blue Robes you are a master of magics. Unburdened b
 ### Orthodox Spells
 **1. Lock**  
 R: 50' T: [dice] creatures or objects D: 10 minutes  
-Non-living object closes and becomes locked. If the object is a door, chest, or similar object, it will slam shut, dealing [sum] damage to any creature passing through it and then trapping them. This spell works on things that aren't technically portals (for example, a sword could be locked in its scabbard). Requires Str 10 + [dice]x4 to open. Alternatively, this spell can be cast on a creature's orifice. The creature gets a Save to resist, and another Save at the end of each of its turns.  
-  
+Non-living object closes and becomes locked. If the object is a door, chest, or similar object, it will slam shut, dealing [sum] damage to any creature passing through it and then trapping them. This spell works on things that aren't technically portals (for example, a sword could be locked in its scabbard). Requires a save vs [dice]x4 to open. Alternatively, this spell can be cast on a creature's orifice. The creature gets a Save to resist, and another Save at the end of each of its turns.  
+
 **2. Knock**  
 R: 50' T: [dice] objects D: 0  
-Object is opened. Doors are flung wide, locks are broken, shackles are bent open, belts come undone. Treat this as a Strength check made with Str 10 + [dice]x4. If target is an armoured creature, Save or armour falls off. If target is an unarmoured creature, Save or vomit for 1d4 rounds.  
-  
+Object is opened. Doors are flung wide, locks are broken, shackles are bent open, belts come undone. If target is an armoured creature, Save or armour falls off. If target is an unarmoured creature, Save or be sick for 1d4 rounds.
+
 **3. Grease**  
 R: 50' T: object, surface D: [dice]x2 rounds  
-Can be cast directly on a creature or [sum]10' x 10' surfaces. Creatures moving across the area must Save vs Dexterity or drop held objects, or, if moving, drop prone.  
+Can be cast directly on a creature or [sum]10' x 10' surfaces. Creatures moving across the area must Save or drop held objects, or, if moving, drop prone.  
   
 **4. Force Field**  
 R: 10' T: plane or sphere D: concentration  
-Creates a shimmering force field, 10‘x10’, centered up to 10' away. Alternatively, create a sphere centered on the caster 5' in diameter (large enough for the caster and +1 person). The force field has [sum] HP. All attacks against it hit.  
-  
+Creates a shimmering force field, 10‘x10’, centered up to 10' away. Alternatively, create a sphere centered on the caster 5' in diameter (large enough for the caster and 1 person). The force field has [sum] HP. All attacks against it hit.
+
 **5. Levitate**  
 R: 50' T: creature object D: concentration  
 You will an object to raise, lower, or hover. You cannot move the object horizontally, and you cannot move it more than 10' per turn. Maximum weight is [dice]x500 lbs. Lasts as long as you concentrate, but you take 1d6 psychic damage per round after [dice]x3 rounds.  
   
 **6. Magic Missile**  
-R: 200' T: creature D: 0 Target takes [sum] + [dice] damage, no Save. As an Orthodox Wizard, your spell is unique to you, and can be any colour, shape, or pattern you describe.  
+R: 200' T: creature D: 0
+Target takes [sum] + [dice] damage. As an Orthodox Wizard, your spell is unique to you, and can be any colour, shape, or pattern you describe.  
   
 **7. Feather Fall**  
 R: 10’ T: [dice] creatures or objects D: 0  

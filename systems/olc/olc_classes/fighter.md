@@ -3,7 +3,7 @@ layout: page
 title: Fighter
 subtitle: You are a killer. Powerful and efficient. Where most people run in terror from monsters that could raze cities, you ready your weapon.
 ---
-**Starting Equipment**: 2 weapons of your choice and a shield, 1 piece of armour, 3 spikes, 3 rations, Armourer's Kit (ud8), and 2 torches. 
+**Starting Equipment**: 2 weapons of your choice and a shield, 1 piece of armour, 3 rations, Armourer's Kit (ud8), and 2 torches. 
 
 - **A:** Parry, Weapon Proficiency
 - **B:** Notches
