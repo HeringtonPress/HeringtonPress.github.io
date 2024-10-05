@@ -315,7 +315,7 @@ Grit however, useless for Saves, can be used like Armour Dice for the person in 
 | Oilskin Bag      | Much less fragile then a jar. Keep all your mystery liquids in it!                                    | 5   |
 | Pole (10ft)      | Be honest, you'll touch it with a 10ft pole                                                           | 2   |
 | Quill & Ink      | Good for calligraphy and note taking                                                                  | 10  |
-| Rope (40ft)      | Sturdy enough to hold a few of you up at once                                                         | 5   |
+| Rope (30ft)      | Sturdy enough to hold a few of you up at once                                                         | 5   |
 | Sack             | Keep an angry fae in it if you dare                                                                   | 1   |
 | Scarecrow        | Keeps Crows from Crops and Zombies from camps!                                                        | 15  |
 | Soap             | You should wash yourself occasionally, please                                                         | 1   |

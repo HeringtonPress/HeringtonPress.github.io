@@ -3,7 +3,7 @@ layout: page
 title: Thief
 subtitle: Not to be confused with a common pickpocket. You are an adventurer, a delver in purest form. Any self respecting party would beg on hands and knees to the guilds in order to have a Thief in their line up. For a party without a Thief is a party unprepared.
 ---
-**Starting Equipment**: 
+**Starting Equipment**: 1 weapon of your choice, 1 lantern, 1 oil flask, Lockpicks (ud6), 30ft rope, caltrops, chalk.
 
 - Gain a Thief Background equal to your number of Thief templates.
 - **A:** Always Prepared, Lucky
