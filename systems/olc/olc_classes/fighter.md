@@ -5,7 +5,7 @@ subtitle: You are a killer. Powerful and efficient. Where most people run in ter
 ---
 **Starting Equipment**: 
 
-- **A:** Parry, Critical Hit
+- **A:** Parry, Weapon Proficiency
 - **B:** Notches
 - **C:** Powerful Blows
 - **D:** Monster Hunter

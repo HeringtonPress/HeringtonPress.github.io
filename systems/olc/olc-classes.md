@@ -3,8 +3,12 @@ layout: page
 title: OLC Classes
 ---
 # Martials
+## [Fighter](https://heringtonpress.github.io/systems/olc/olc_classes/fighter/)
+You are a killer. Powerful and efficient. Where most people run in terror from monsters that could raze cities, you ready your weapon.
 
 # Specialists
+## [Thief](https://heringtonpress.github.io/systems/olc/olc_classes/thief/)
+Not to be confused with a common pickpocket. You are an adventurer, a delver in purest form. Any self respecting party would beg on hands and knees to the guilds in order to have a Thief in their line up. For a party without a Thief is a party unprepared.
 
 # Wizards 
 Wizards, a category of classes, are masters of spells. Having spent their lives learning how best to trap, harness, and bargain with the living spells with their tomes they all share a few key abilities.

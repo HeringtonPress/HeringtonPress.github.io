@@ -19,6 +19,6 @@ subtitle: Not to be confused with a common pickpocket. You are an adventurer, a 
 
 **Gloomstalker**: As long as there is enough light for one person you do not count towards the total for the sake of light requirements.
 
-**Wall Crawler**: You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
+**Wall Crawler**: You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a Save. You can attempt impossible climbs.
 
 **Gambler's Luck**: Lucky can be used until it has granted 2 successes.

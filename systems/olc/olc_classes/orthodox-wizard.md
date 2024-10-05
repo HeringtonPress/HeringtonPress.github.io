@@ -24,7 +24,8 @@ subtitle: Identified by your Blue Robes you are a master of magics. Unburdened b
 
 **Signature Spell**: You designate one spell you use frequently as your main spell. This Spell has grown entwined with you and you with it. It lives in your brain and doesn't take a spell slot. It can be stored temporarily in living wood but will always find it's way back to you. You can always cast this spell as if you gambled 1d4 regardless of available Magic Dice. Though this connection with a spell is visible, it's manifestation differs.
 
-#### Orthodox Spells
+---
+### Orthodox Spells
 **1. Lock**  
 R: 50' T: [dice] creatures or objects D: 10 minutes  
 Non-living object closes and becomes locked. If the object is a door, chest, or similar object, it will slam shut, dealing [sum] damage to any creature passing through it and then trapping them. This spell works on things that aren't technically portals (for example, a sword could be locked in its scabbard). Requires Str 10 + [dice]x4 to open. Alternatively, this spell can be cast on a creature's orifice. The creature gets a Save to resist, and another Save at the end of each of its turns.  
