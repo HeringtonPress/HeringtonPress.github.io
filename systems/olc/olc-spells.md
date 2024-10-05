@@ -3,13 +3,16 @@ layout: page
 title: OLC Spells
 subtitle: An incomplete collection of Spells and Magic in One Last Coin
 ---
-To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invest and the (sum) they roll. 
+To cast a spell you must have access to one, typically from a scroll or spellbook. Select a number of Magic Dice (MD) you wish to Gamble, roll them, and add the numbers together. Most spells depend on the number of (dice) invested and the (sum) they roll. 
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
 - Unless otherwise noted, all spells with ongoing effects last up to [dice]×10 minutes, and have a range of up to 40 feet.
 - It takes an hour to move any number of spells between storage.
 
 ### Spellbooks
-A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells inside the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
+A solid volume, with thick vellum pages and a sturdy cover. Inside, special runes and symbols trap spells within the living wood pages. Each book contains 4 spell slots. Spellbooks are waterproof, acid/fire-resistant. An empty spellbook is worth 100gp.
+### Wands
+Living wood wands have a spell slot for storing spells but additionally have the capacity to carry a magical charge. Over the course of 10 minutes you may transfer Magic Dice into a wand. When you do so roll them as if you where Gambling them taking damage equal to the result. These MD can be used by whoever is wielding the wand and can be spent on any spell, not just the one present in the wand.
+
 ### Mishaps
 If you roll a series while casting a spell, such as two 2s or four 5s, compare the (Sum) of the spell to the Mishaps table. Unless otherwise specified, the spell still works. All mishaps, unless noted otherwise, are permanent but may be reversed with a quest.
 

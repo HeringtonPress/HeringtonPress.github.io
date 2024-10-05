@@ -19,6 +19,13 @@ subtitle: The everchanging always confusing ruleset
 Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities.
 ## Background
 Who you were before your career as an adventurer. When making a save you may bargain with the Guide to add the Background value to a Save. You start with 4 Background points that can be distributed as you like. A single Background can never be raised above 4.
+
+| 1   | Alchemist  | 6   | Cleric      | 11  | Magician  | 16  | Performer  |
+| 2   | Blacksmith | 7   | Gambler     | 12  | Mercenary | 17  | Pickpocket |
+| 3   | Burglar    | 8   | Gravedigger | 13  | Merchant  | 18  | Smuggler   |
+| 4   | Butcher    | 9   | Herbalist   | 14  | Miner     | 19  | Servant    |
+| 5   | Carpenter  | 10  | Hunter      | 15  | Outlaw    | 20  | Ranger     |
+
 ## Tongues
 You know Common and one additional Language. You can also spend a Background point to learn an additional Tongue.
 - **COMMON**: Understood by all sentient creatures.
@@ -43,7 +50,7 @@ You begin play with 10 Slots. When you attempt to fetch an item you roll 2d6, if
 
 You have 6 HP and die when they have less HP then -your max HP.
 
-If you're HP is in the negatives but you're not dead, a character can use a First Aid Kit to heal you to 0 HP. Being healed in this way gives you 1 Stress.
+If you're HP is below 0, but you're not dead, a character can use a First Aid Kit to heal you to 1 HP. Being healed in this way gives you 1 Stress.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **100XP**
@@ -239,6 +246,8 @@ Each round the GM describes what it appears the enemy is going to do. Save Cunni
 On your turn you may take two actions. Move Zones, attack, trip, fetch an item, or raise a shield. Get creative.
 ## Attacking & Defending
 When attacking simply roll the weapons damage, dealing it to the enemy. If you attack multiple times you only deal the biggest damage. When being attacked you may Gamble your Armour Dice to avoid damage.
+## Favour & Disfavour
+Whenever the narrative would favour an attack the target adds a d4 to the damage dealt, disfavour means the attacks damage is only a d4. These cancel each other out 1 to 1 though you need immense favour to get more than 1d4 additional damage.
 ## Zones
 There are 4 zones in a typical combat encounter. These are Forward↑ and Rearward↓ for allies and enemies. Ranged attacks can be volleyed from any Zone but melee is limited to Forward.
 ![Zone](https://raw.githubusercontent.com/HeringtonPress/HeringtonPress.github.io/master/assets/img/Zone.png)
@@ -390,7 +399,7 @@ Weapons are divided into the 3 Hands. Giving a bonus as noted to successful dama
 | Heavy  | 2d6   | 2     | 15    |
 
 ### Armour
-A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with a Kit during a Feast. 
+A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with an Armourer's Kit during a Feast. 
 ### Shields
 Shields may be raised as an action, allowing you to Gamble with their Armour Dice.
 
