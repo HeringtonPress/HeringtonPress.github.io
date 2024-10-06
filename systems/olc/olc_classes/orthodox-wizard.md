@@ -3,15 +3,14 @@ layout: page
 title: Orthodox Wizard
 subtitle: Identified by your Blue Robes you are a master of magics. Unburdened by schools, classification, or creed, you study magic in near all it's forms. As a Blue Wizard you are seen as equal parts reliable and unpredictable by your piers.
 ---
-**Starting Equipment**: 1 weapon of your choice, spellbook with 2 spells, quill & ink, mumble stones.
+**Starting Equipment**: 1 weapon of your choice, spellbook, quill & ink, mumble stones.
 
-- You learn an additional Spell every Template.
-- **A:** Wizard Abilities, Cantrips
+- **A:** Magic User Abilities, Cantrips
 - **B**: Magic Familiarity
 - **C**: Wand Wielder
 - **D**: Signature Spell
 
-**Wizard Abilities**: as noted in the Wizard section of the [Classes page](https://heringtonpress.github.io/systems/olc/olc-classes/).
+**Magic User Abilities**: as noted in the Magic Users section of the [Classes page](https://heringtonpress.github.io/systems/olc/olc-classes/).
 
 **Cantrips**:
 - Change the colour or texture of an object smaller than a horse for 10 minutes.

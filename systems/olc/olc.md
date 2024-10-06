@@ -44,7 +44,7 @@ You know Common and one additional Language. You can also spend a Background poi
 | Bundle of rope |  quiver   | 1/2 heavy weapon |
 | 3 rations      | 1 treasure | 3 light items  |
 
-You begin play with 10 Slots. When you attempt to fetch an item you roll 2d6, if the result is lower then the slot the item is in it takes an additional action to finish fetching it.
+You begin play with 12 Slots. When you attempt to fetch an item you roll 2d6, if the result is lower then the slot the item is in it takes an additional action to finish fetching it.
 ## Hit Points, Grit, & Scars
 **Grit**: Don't get hit points. It represents your ability to mitigate harm.
 
@@ -58,7 +58,7 @@ Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **100XP**
 - Gain a Background Point. **200XP**
 - Increase your Max HP by 1 to a maximum of 8. **400XP**
-- Gain a new slot of inventory to a max of 13. **600XP**
+- Gain a new slot of inventory to a max of 16. **600XP**
 - Gain an additional Class Template. **800XP**
 
 ---
@@ -157,7 +157,7 @@ He's just not that into you. use this Bond to represent how you feel about a wou
 
 ## Guard/Ward
 You have a party member that you look out for. It's important they survive.
-- Guards charge this Bond when their Ward makes it out of lethal danger without taking damage.
+- Guards charge this Bond when their Ward makes it out of lethal danger unscathed.
 - Wards charge this Bond when they get into lethal danger.
 
 ---
@@ -340,8 +340,8 @@ Grit however, useless for Saves, can be used like Armour Dice for the person in 
 Lanterns can be affixed to packs or belts to supply light hands free.
 
 | Light                      | GP  |
-| -------------------------- |:---:|
-| Torch (Light for 3) (UD12) |  2  |
+| -------------------------- | :-: |
+| Torch (Light for 3) (UD10) |  2  |
 | Lantern (Light for 2)      | 10  |
 | Oil Flask (UD12)           |  5  |
 
@@ -394,14 +394,26 @@ Do not concern yourself with feeding the animals.
 ### Weapons
 Weapons are divided into the 3 Hands. Giving a bonus as noted to successful damaging actions that use that Hand. The GM will know what Hand a weapon will have.
 
-| Weapon | Bonus | Slots | Price |
-| ------ | ----- | ----- | ----- |
-| Light  | d6    | 3:1   | 5     |
-| Medium | d8    | 1     | 10    |
-| Heavy  | 2d6   | 2     | 15    |
+#### Melee
+
+| Weapon | Damage | Slots | Price |
+| ------ | ------ | ----- | ----- |
+| Light  | d6     | 3:1   | 5     |
+| Medium | d8     | 1     | 10    |
+| Heavy  | 2d6    | 2     | 15    |
+
+#### Ranged
+
+| Weapon | Damage | Slots | Price |
+| ------ | ------ | ----- | ----- |
+| Light  | d4     | 3:1   | 10    |
+| Medium | d6     | 1     | 15    |
+| Ammo   | UD6    | 1     | 10    |
+
 
 ### Armour
 A slot of armour costs 30 GP and grants a d6 Armour Die. These Armour Die can be gambled to avoid damage, becoming chipped when lost. Chipped armour may be repaired with an Armourer's Kit during a Feast. 
+
 ### Shields
 Shields may be raised as an action, allowing you to Gamble with their Armour Dice.
 
