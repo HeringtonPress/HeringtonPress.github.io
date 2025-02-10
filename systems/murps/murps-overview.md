@@ -1,11 +1,11 @@
 # MURPS Overview
 MURPS only uses six-sided dice, and uses abbreviations for die rolls – for instance, a roll of three dice would be shown as “3d”.
 ## Task Resolution
-The basic mechanic of GURPS is the success roll against a Skill or Attribute. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
+The basic mechanic of GURPS is the **Success Roll** against a **Skill** or **Attribute**. To succeed, you must roll less than or equal to the number with 3d. The GM may assign modifiers to your skill from -10 (extremely hard) to +10 (extremely easy). A 3 on the dice always succeeds and an 18 always fails!
 ### Quick Contest
 When two characters are competing to do something very quickly – for instance, two enemies lunging for an item. This is called a quick contest. Each competitor attempts a success roll. If one succeeds and the other fails, the winner is obvious. If both succeed, the winner is the one with the largest margin of success. If both fail the winner is the one with the smallest margin of failure. A tie means no one won.
 # [Character](https://heringtonpress.github.io/systems/murps/murps-character/)
-### Attributes
+## Attributes
 Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The four attributes are as follows.
 
 **Strength (ST)**: Sets **Hit Points (HP)**, and **Damage (Dmg)**.
@@ -15,7 +15,7 @@ Most adventurer's have stats between 8-20, with 10 being the Foulkn Average. The
 **Intelligence (IQ)**: Is used for many skills including spells.
 
 **Health (HT)**: Governs how well you resist bad effects, your **Fatigue Points (FP)** and helps determine **Speed**.
-### Secondary Attributes
+## Secondary Attributes
 These are derived from your Attributes.
 
 **Hit Points (HP)**: Your body's ability to sustain injury.
@@ -35,11 +35,11 @@ These are derived from your Attributes.
 **Move**: A measure of how far you can move in one turn, in hexes (yards).
 
 **Damage**: Damage is broken up into Swing damage (Sw) and Thrust damage (Thr). Weapons will use these as the base of their damage dealt.
-### [Skills](https://heringtonpress.github.io/systems/murps/murps-skills/)
+## [Skills](https://heringtonpress.github.io/systems/murps/murps-skills/)
 Skills govern what your character is good at. If you don't have a skill you may still be able to "use" it by rolling against it's **default**. This will be an **attribute** minus a number.
 
 While every character should have at least one weapon/combat skill, you need more than just weapons to survive. For a full list of Skills check [here](https://heringtonpress.github.io/systems/murps/murps-skills/).
-### Traits
+## Traits
 Traits are details about your character and how they interact with the game; world and system. These cover everything from your kin, magical powers, place in society, languages known, to even attractiveness.
 # Combat
 Combat proceeds in rounds with a round lasting one second. Each round, characters act in the order of their Speed, with the highest number going first. Each player chooses a Maneuver for their character from the following list.
@@ -89,44 +89,44 @@ While standing you are unpenalized.
 ## [Advance Combat Options](https://heringtonpress.github.io/systems/murps/murps-combat/)
 
 # Damage, Health, and Recovery
-### Damage
+## Damage
 Damage is almost always **ST**-based and expressed as a modifier to the wielder’s basic **thrusting (thr)** or **swinging (sw)** damage. For example, a spear does “thr+2,” so with thrusting damage of 1d-1, you’ll inflict 1d+1 damage with a spear.
 
 Each damage rating is followed by an abbreviation indicating damage type:
 
 | Abbreviation |      Type      | Wounding Multiplier |
-|:------------:|:--------------:|:-------------------:|
+| :----------: | :------------: | :-----------------: |
 |      cr      |    crushing    |         x1          |
 |     cut      |    cutting     |        x1.5         |
 |     imp      |    impaling    |         x2          |
 |     pi-      | small piercing |        x0.5         |
 |      pi      |    piercing    |         x1          |
-|     ect     |   see notes    |                     |
+|     ect      |   see notes    |                     |
 
-A successful attack always does at least 1 point of damage (before DR).
+A successful attack always does at least 1 point of damage (before **DR**).
 
-#### Damage Resistance (DR)
+### Damage Resistance (DR)
 Is the measure of how well you are physically protected. Typically this is from the armour you are wearing. Reduce all incoming damage by this amount.
 
-Any damage that penetrates DR is multiplied by the damage type's Wounding Multiplier. A victim loses HP equal to this new sum.
+Any damage that penetrates DR is multiplied by the damage type's **Wounding Multiplier**. A victim loses **HP** equal to this new sum.
 
-### Hit Points
-You do not automatically die at 0 HP, but every turn thereafter you must make a success roll against HT, with a -1 for each multiple of negative HP. Failure means you instantly fall unconscious.
+## Hit Points
+You do not automatically die at 0 **HP**, but every turn thereafter you must make a success roll against **HT**, with a -1 for each multiple of negative **HP**. Failure means you instantly fall unconscious.
 
 > If you reach the end of an encounter and are still below 0 HP make an HT roll -5 (Include negative HP penalty). On a success no further rolls are needed till you receive damage again, on a failure you fall unconscious.
 
-#### Dying
-If you reach a negative multiple of your HP, you must immediately make an HT roll. On a failure of 3 or more you die. If you fail by 2 or less you pass out.
+### Dying
+If you reach a negative multiple of your **HP**, you must immediately make an **HT** roll. On a failure of 3 or more you die. If you fail by 2 or less you pass out.
 
-If you reach -5xHP you die instantly, -6xHP your body is destroyed.
+If you reach -5xHP you die instantly, -6xHP your body is typically destroyed.
 
-### Recovery
-A character with the First Aid skill can make a success roll to attempt to heal an injured character (don't forget modifiers). This requires one minute and restores 1 HP if successful. If the caregiver continues to care for the wounded character for another 29 minutes, the wounded character recovers 1d-2 HP (minimum 1) more hp.
+## Recovery
+A character with the **First Aid skill** can make a success roll to attempt to heal an injured character (don't forget equipment modifiers). This requires one minute and restores 1 **HP** if successful. If the caregiver continues to care for the wounded character for another 29 minutes, the wounded character recovers 1d-2 more **HP** (minimum 1).
 
-Further healing requires rest. At the end of each day of rest, make a success roll against HT. On success, the character regains 1 HP for every 10 points of max HP (minimum 1).
+Further healing requires rest. At the end of each day of rest, make a success roll against **HT**. On success, the character regains 1 **HP** for every 10 points of **max HP** (minimum 1).
 
-Characters that fell unconscious automatically wake up 15 minutes after their HP becomes positive. Or an hour after receiving First Aid.
+Characters that fell unconscious automatically wake up 15 minutes after their **HP** becomes positive. Or an hour after receiving First Aid.
 
-#### Fatigue points
-FP can be recovered at a rate of 1 per ten minutes of dedicated rest. An Energy Reserve typically replenishes at the same rate and both may recover at the same time.
+### Fatigue points
+**FP** can be recovered at a rate of 1 per ten minutes of dedicated rest. An **Energy Reserve** typically replenishes at the same rate and both may recover at the same time.
 # [Equipment](https://heringtonpress.github.io/systems/murps/murps-equipment/)

@@ -8,12 +8,12 @@ subtitle: The everchanging always confusing ruleset
 ---
 ## Kin
 
-|      Kin      | Boon                                  | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
-| :-----------: | ------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Foulkn**   | Detect undead as chill                | -2 vs Mutation                                   | The most numerous of the Kin they are also amongst the tallest, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                     |
-| **Half-foot** | Re-roll a roll of 1 on a d12          | Consume 2 portions during a Feast                | Half-foots are a Kin of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance often no taller than 3'3.                                                    |
-|   **Elves**   | Can glow like a candle if you have MD | Can never have more then half your Bonds Charged | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'2. They are a long-lived race, typically living up to 400 years, but their birthrate is low, and their population is steadily declining.                                            |
-|  **Dwarrow**  | Can identify the origin of any craft  | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
+| d6  |      Kin      | Boon                                  | Bane                                             | Desc                                                                                                                                                                                                                                                                                                                                                  |
+| --- | :-----------: | ------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3 |  **Foulkn**   | Detect undead as chill                | -2 vs Mutation                                   | The most numerous of the Kin they are also amongst the tallest, standing at an average of 5'8. Typically living just over 70 years they are also considered to be one of the "short lived" Kin. Despite this their aptness for learning and conquering has left them with far more of a footprint then the other short lived Kin.                     |
+| 4   | **Half-foot** | Re-roll a roll of 1 on a d12          | Consume 2 portions during a Feast                | Half-foots are a Kin of small humans that are lightweight and have exceptional hearing due to their large rodent like ears. They tend to have short lives, not typically exceeding 50 years, but their true age can be hard to discern due to their childlike appearance often no taller than 3'3.                                                    |
+| 5   |   **Elves**   | Can glow like a candle if you have MD | Can never have more then half your Bonds Charged | Elves are a human Kin distinguished by their large pointed ears, and slight builds with little sexual dimorphism. They are one of the taller races averaging at 5'2. They are a long-lived race, typically living up to 400 years, but their birthrate is low, and their population is steadily declining.                                            |
+| 6   |  **Dwarrow**  | Can identify the origin of any craft  | Sink like a stone                                | Dwarrow tend to be short and stocky, and are fairly strong, able to wield heavy swords and shields with ease. With an average height of 4'5. They are one of the longer-lived races, alongside elves, living approximately 200 years. Known for their beards Dwarrow are a Sexless Kin though gender expression has made it's way into their culture. |
 
 ## [Classes](https://heringtonpress.github.io/systems/olc/olc-classes/)
 Classes define what you are good at. What distinguishes you as an adventurer. Select one Class, get it's starting gear and all of it's #A abilities. You can only ever have 4 Templates (#).
@@ -22,6 +22,9 @@ Who you were before your career as an adventurer. When making a save you may bar
 
 The more evocative or flavourful the background the better. below is a list of simple examples.
 
+
+|     |            |     |             |     |           |     |            |
+| --- | ---------- | --- | ----------- | --- | --------- | --- | ---------- |
 | 1   | Alchemist  | 6   | Cleric      | 11  | Magician  | 16  | Performer  |
 | 2   | Blacksmith | 7   | Gambler     | 12  | Mercenary | 17  | Pickpocket |
 | 3   | Burglar    | 8   | Gravedigger | 13  | Merchant  | 18  | Smuggler   |
@@ -53,6 +56,8 @@ You begin play with 12 Slots. When you attempt to fetch an item you roll 2d6, if
 You have 4 HP and die when they have less HP then -your max HP.
 
 If you're HP is below 0, but you're not dead, a character can use a First Aid Kit to heal you to 1 HP. Being healed in this way gives you 1 Stress.
+
+Whenever you would take damage, you can choose to gain a scar instead, describe this wound and note it on your sheet. Gaining a scar decreases your max HP by 1. If your max HP would ever be reduced to 0 you die.
 ## Experience
 Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Swap a Class Template. **100XP**
@@ -62,6 +67,31 @@ Gain 1XP for every Gold Piece(GP) spent. XP can then be spent to:
 - Gain an additional Class Template. **800XP**
 
 ---
+## Lost Adventurers
+Below is the process for creating a character to join an already existing or running game. Perhaps you died, or where late to the table. Regardless this will get you to the table as fast as possible.
+### Kin & Class
+Roll on the kin table but if you roll a 1 continue to roll on the extended Kin Table. Next select one of the core classes or roll for your class on the full class list.
+### Backgrounds & Tongues
+Roll on the background table 4 times and distribute your points as you see fit between those 4. You can always add flavour, now or later. You know common and roll a d6 to learn your second tongue.
+### Finishing Touches
+Your max HP is 4, you have 12 inventory slots, and 0XP. Fill in all your Bonds as Allies and change those as relationships develop. Distribute 4d4 amongst your Nutrients as you desire. Now roll on the following table to see how you join the adventure, unless the GM has a plan already.
+
+If you're worried about having to start at a "lower level" then everyone else worry not! This game doesn't really have levels or power discrepancies between the experience and the new adventurers. But to quickly catch up with everyone if you have lost a dear character, try to encourage the party to host a funeral for them.
+
+Funerals can cost as much or as little as anyone hosting it desires. A way for Players to burn money efficiently for XP. Any PC who has a bond with the deceased beyond Ally gets 10% extra XP. And the player, who's Character is dead, gets an amount of XP to invest in a new character depending on how much of the body was recovered, as shown below.
+
+| Condition | % of Funeral Cost |
+| :-------- | :---------------: |
+| Nothing   |         0         |
+| Effigy    |        10         |
+| Belonging |        20         |
+| Pieces    |        40         |
+| Limb      |        50         |
+| Destroyed |        60         |
+| Full      |        80         |
+
+## Veterans
+
 # Resolving Actions
 ---
 ## Saves
